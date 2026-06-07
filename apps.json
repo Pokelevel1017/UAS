@@ -1,12 +1,8 @@
 {
-  "name": "Universal App Store",
-  "subtitle": "One of the best app stores!",
-  "description": "Universal Repo is a curated IPA repository for iOS devices, offering a wide range of ready-to-install apps, utilities, and tweaks for sideloading tools like SideStore, AltServer, and other IPA installers. It is designed to make app discovery and sideloading simple by providing organized, up-to-date IPA files in one centralized location. Perfect for users who want quick access to modified, legacy, or utility iOS apps without relying on the App Store.",
-  "iconURL": "https://i.imgur.com/BT6lHPF.png",
-  "website": "https://altstudio.app",
-  "patreonURL": "https://patreon.com/altstudio",
-  "tintColor": "#000000",
-  "featuredApps": [],
+  "name": "Fusionz IPA Repo",
+  "identifier": "com.ksign.repo",
+  "sourceURL": "https://Pokelevel17.github.io/Pokelevels-repo/apps.json",
+  "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdfvYdCC0BPFY7WwOoQRDNx939y6BKw0NudA&s",
   "apps": [
     {
       "name": "Feather",
