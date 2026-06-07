@@ -1,25 +1,455 @@
 {
-  "name": "Universal App Store",
-  "subtitle": "The best 3rd party store!",
+  "name": "Fusionz IPA Repo",
+  "subtitle": "A source for all of my apps",
   "description": "Welcome to my source! Here you'll find all of my apps.",
-  "iconURL": "https://i.imgur.com/Rpo9QW9.png",
-  "website": "",
-  "patreonURL": "",
-  "tintColor": "#000000",
+  "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdfvYdCC0BPFY7WwOoQRDNx939y6BKw0NudA&s",
+  "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#6156e2",
   "featuredApps": [],
   "apps": [
     {
-      "name": "OldOS",
-      "bundleIdentifier": "com.zrc.BudgetingBuddy",
+      "name": "Ksign",
+      "bundleIdentifier": "nya.asami.ksign",
       "marketplaceID": "",
-      "developerName": "Zane Kleinberg",
-      "subtitle": "A fully interactive recreation of classic iOS for modern iPhones and iPads.",
-      "localizedDescription": "OldOS is a nostalgia-driven iOS application that recreates the look and feel of early iPhone software (iPhone OS 1–4 style) as a fully interactive experience on modern devices. Compatible with iOS 14.0 and later, it simulates the original UI, system apps, animations, and interactions in a sandboxed environment using modern frameworks like SwiftUI. Designed as both a tribute and a functional demo, OldOS lets users explore and interact with a historically accurate version of early iOS without leaving their current device environment.",
-      "iconURL": "https://i.imgur.com/myudoeR.png",
-      "tintColor": "#000000",
+      "developerName": "Nyasami",
+      "subtitle": "iOS IPA signing tool",
+      "localizedDescription": "Ksign is a simple, powerful tool to sign IPAs for personal use.",
+      "iconURL": "https://github.com/Nyasami/Ksign/blob/v1.4.1/Ksign/Resources/Assets.xcassets/AppIcon.appiconset/Ksign-default.png?raw=true",
+      "tintColor": "#6495ED",
       "category": "other",
       "screenshots": [],
-      "versions": [],
+      "versions": [
+        {
+          "version": "1.4.1",
+          "date": "2025-09-17",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/Nyasami/Ksign/releases/download/v1.4.1/Ksign.ipa",
+          "size": 14700000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "LiveContainer",
+      "bundleIdentifier": "com.kdt.livecontainer",
+      "marketplaceID": "",
+      "developerName": "HugeBlack",
+      "subtitle": "Run iOS Apps Without Installing",
+      "localizedDescription": "LiveContainer is an app launcher that allows you to run iOS apps without actually installing them. It supports unlimited apps, multiple versions, and JIT-less mode for non-jailbroken devices.",
+      "iconURL": "https://avatars.githubusercontent.com/u/206676373?s=200&v=4",
+      "tintColor": "#4c63af",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "3.6.1",
+          "date": "2025-09-17",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.6.1/LiveContainer.ipa",
+          "size": 50000000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "UTM",
+      "bundleIdentifier": "com.utmapp.UTM",
+      "marketplaceID": "",
+      "developerName": "Tian Zheng",
+      "subtitle": "Virtual Machines for iOS",
+      "localizedDescription": "UTM is a full-featured virtual machine host for iOS, allowing you to run Windows, Linux, and more on your iPhone and iPad. This version requires using AltJIT. Install UTM SE for slower emulation without JIT.",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbtFsTLS2FeCxBudG-lWsft0EYEiG--72HqQ&s",
+      "tintColor": "#1a2cc2",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "4.7.4",
+          "date": "2025-09-17",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.7.4/UTM.ipa",
+          "size": 130036731,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Delta",
+      "bundleIdentifier": "com.rileytestut.Delta",
+      "marketplaceID": "",
+      "developerName": "Riley Testut",
+      "subtitle": "Nintendo Emulator for iOS",
+      "localizedDescription": "Delta is a multi-platform emulator for iOS that lets you play Game Boy, Game Boy Advance, Nintendo DS, and Nintendo 64 games on your device.",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.rileytestut.Delta.Beta.png",
+      "tintColor": "#480da6",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.6",
+          "date": "2025-09-17",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/rileytestut/Delta/releases/download/v1.6/Delta_1_6.ipa",
+          "size": 47000000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Flycast",
+      "bundleIdentifier": "com.flyinghead.Flycast",
+      "marketplaceID": "",
+      "developerName": "Flyinghead",
+      "subtitle": "Dreamcast Emulator for iOS",
+      "localizedDescription": "Flycast is a Dreamcast emulator for iOS that lets you play classic Dreamcast games with high compatibility and performance on your device.",
+      "iconURL": "https://raw.githubusercontent.com/flyinghead/flycast/master/shell/linux/flycast.png",
+      "tintColor": "#571eb3",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "v2.5",
+          "date": "2025-09-17",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://archive.org/download/flycast-2.5_20250607_2043/Flycast-2.5.ipa",
+          "size": 8200000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Dolphin",
+      "bundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
+      "marketplaceID": "",
+      "developerName": "Henrik Rydgård and F|RES",
+      "subtitle": "GameCube & Wii Emulator for iOS",
+      "localizedDescription": "Dolphin is a high-performance emulator for GameCube and Wii games on iOS, offering advanced controls and graphics options.",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1uzvuRLJONXjZQ-ufy8lmlKO2GZqr52A63g&s",
+      "tintColor": "#3554ab",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "4.0.0b8",
+          "date": "2025-09-17",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b8/Non-Jailbroken.ipa",
+          "size": 80300000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "PojavLauncher",
+      "bundleIdentifier": "net.kdt.pojavlauncher",
+      "marketplaceID": "",
+      "developerName": "Kdt",
+      "subtitle": "Minecraft Java Edition Launcher",
+      "localizedDescription": "PojavLauncher allows you to play Minecraft Java Edition on iOS devices, providing support for mods, servers, and full game features.",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFCv3jIkvIKoURk4audJBbZJYTnbTmlsJzVg&s",
+      "tintColor": "#663317",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "2.2",
+          "date": "2025-09-17",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.2/net.kdt.pojavlauncher-2.2-ios.ipa",
+          "size": 108200000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "UTM SE",
+      "bundleIdentifier": "com.utmapp.UTM-SE",
+      "marketplaceID": "",
+      "developerName": "Tian Zheng",
+      "subtitle": "Virtual Machine Emulator for iOS",
+      "localizedDescription": "UTM SE allows you to run virtual machines on iOS, supporting multiple OSes with full emulation and QEMU-based virtualization.",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbtFsTLS2FeCxBudG-lWsft0EYEiG--72HqQ&s",
+      "tintColor": "#1a2cc2",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "4.7.4",
+          "date": "2025-09-17",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/utmapp/UTM/releases/latest/download/UTM-SE.ipa",
+          "size": 213900000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Provenance",
+      "bundleIdentifier": "org.provenance-emu.provenance",
+      "marketplaceID": "",
+      "developerName": "James Addyman",
+      "subtitle": "Multi-console Emulator for iOS",
+      "localizedDescription": "Provenance is a versatile emulator for iOS that supports multiple consoles including SNES, Genesis, Game Boy, and more, with customizable controls and save states.",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTpuszJKoMiZqvaRqMuwjVFlr-xuPPOrd9JQ&s",
+      "tintColor": "#a5aab0",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "3.1.0",
+          "date": "2025-09-17",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/3.1.0/Provenance.ipa",
+          "size": 47200000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "PokeMMO",
+      "bundleIdentifier": "eu.pokemmo.client",
+      "marketplaceID": "",
+      "developerName": "PokeMMO Team",
+      "subtitle": "Massively Multiplayer Pokémon for iOS",
+      "localizedDescription": "PokeMMO is an online Pokémon MMO game for iOS devices, allowing players to battle, trade, and explore together with full multiplayer features.",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2n-mUOqkvYSCTDXKWcAi1TBXBbMPlCldi8g&s",
+      "tintColor": "#151617",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "29764",
+          "date": "2025-09-17",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://pokemmo.com/download_file/10/",
+          "size": 60200000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "OldOS",
+      "bundleIdentifier": "com.zurac.OldOSSL2",
+      "marketplaceID": "",
+      "developerName": "Zzanehip",
+      "subtitle": "Classic iOS Interface Emulator",
+      "localizedDescription": "OldOS brings the classic iOS interface to modern devices, letting you experience the look and feel of previous iOS versions.",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkpSAVwRr83gYwhGqSK9wRKCpiyqc4-XbKqg&s",
+      "tintColor": "#434547",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "2.0",
+          "date": "2025-09-17",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/zzanehip/The-OldOS-Project/releases/download/2.0_1/OldOS.ipa",
+          "size": 15800000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "RetroArch",
+      "bundleIdentifier": "com.libretro.RetroArchiOS11",
+      "marketplaceID": "",
+      "developerName": "Libretro Team",
+      "subtitle": "Universal Emulator Frontend",
+      "localizedDescription": "RetroArch is a powerful frontend for emulators, game engines, and media players, enabling you to run classic games on a wide range of devices through its slick graphical interface.",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-gP06dHcMuUi8T6imFmdB6ob4If5fMkD2ag&s",
+      "tintColor": "#a7a9ab",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.20250918.0009",
+          "date": "2025-09-17",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://buildbot.libretro.com/nightly/apple/ios-arm64/RetroArch.ipa",
+          "size": 187100000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Nulls Brawl",
+      "bundleIdentifier": "nt.nb.ios",
+      "marketplaceID": "",
+      "developerName": "Nulls Team",
+      "subtitle": "Private Brawl Stars Server for iOS",
+      "localizedDescription": "Nulls Brawl is a private server version of Brawl Stars, offering unlimited resources and new custom features not found in the official game.",
+      "iconURL": "https://www.nullsbrawl.dev/wp-content/uploads/2024/10/logo.png",
+      "tintColor": "#A020F0",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "63.265",
+          "date": "2025-09-17",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://dnull.xyz/latest_bs_i",
+          "size": 120000000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Nulls Clash",
+      "bundleIdentifier": "nt.nc.ios",
+      "marketplaceID": "",
+      "developerName": "Nulls Team",
+      "subtitle": "Private Clash of Clans Server for iOS",
+      "localizedDescription": "Nulls Clash is a private server version of Clash of Clans, offering unlimited resources and custom gameplay features not available in the official game.",
+      "iconURL": "https://imag.malavida.com/mvimgbig/download-fs/nulls-clash-23270-0.jpg",
+      "tintColor": "#A020F0",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "17.360.13",
+          "date": "2025-09-17",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://dnull.xyz/latest_coc_i",
+          "size": 150000000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Nulls Royale",
+      "bundleIdentifier": "nt.nr.ios",
+      "marketplaceID": "",
+      "developerName": "Nulls Team",
+      "subtitle": "Private Clash Royale Server for iOS",
+      "localizedDescription": "Nulls Royale is a private server version of Clash Royale, featuring unlimited gems, custom cards, and enhanced gameplay features not found in the official game.",
+      "iconURL": "https://imgcdn.latestmodapks.com/api/resize?url=https://www.latestmodapks.com/wp-content/uploads/2022/05/nr-icon.png&width=160",
+      "tintColor": "#A020F0",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "11.548.0",
+          "date": "2025-09-17",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://dnull.xyz/latest_cr_i",
+          "size": 120000000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "EZFN Season 7",
+      "bundleIdentifier": "40ccc2b10c984097",
+      "marketplaceID": "",
+      "developerName": "EZFN Team",
+      "subtitle": "Relive Classic Fortnite",
+      "localizedDescription": "EZFN OG allows you to play the original Fortnite experience on various platforms, including Windows, iOS, Android, and Nintendo Switch.",
+      "iconURL": "https://media.pocketgamer.com/artwork/na-plaq/fortnite_icon.jpg",
+      "tintColor": "#A020F0",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "7.40.2",
+          "date": "2025-09-17",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://cdn-test.ezfn.dev/IPAs/Fortnite+Release-7.40-CL-5011364-V2.ipa",
+          "size": 102400,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
