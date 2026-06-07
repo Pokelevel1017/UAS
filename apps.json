@@ -1,25 +1,94 @@
 {
-  "name": "Fusionz IPA Repo",
-  "subtitle": "A source for all of my apps",
-  "description": "Welcome to my source! Here you'll find all of my apps.",
-  "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdfvYdCC0BPFY7WwOoQRDNx939y6BKw0NudA&s",
+  "name": "Universal App Store",
+  "subtitle": "One of the best app stores!",
+  "description": "Universal Repo is a curated IPA repository for iOS devices, offering a wide range of ready-to-install apps, utilities, and tweaks for sideloading tools like SideStore, AltServer, and other IPA installers. It is designed to make app discovery and sideloading simple by providing organized, up-to-date IPA files in one centralized location. Perfect for users who want quick access to modified, legacy, or utility iOS apps without relying on the App Store.",
+  "iconURL": "https://i.imgur.com/BT6lHPF.png",
   "website": "https://altstudio.app",
   "patreonURL": "https://patreon.com/altstudio",
-  "tintColor": "#6156e2",
+  "tintColor": "#000000",
   "featuredApps": [],
   "apps": [
+    {
+      "name": "Feather",
+      "bundleIdentifier": "thewonderofyou.Feather",
+      "marketplaceID": "",
+      "developerName": "khcrysalis",
+      "subtitle": "A modern and lightweight app for signing and installing IPA files on iOS.",
+      "localizedDescription": "Feather is an open-source iOS sideloading utility that allows users to sign, install, and manage IPA files directly on their device using certificates and provisioning profiles. Compatible with iOS 15.0 and later, it features a modern interface, certificate management, app library organization, and support for importing apps from local files or online sources. Designed for both casual users and advanced sideloading enthusiasts, Feather provides a streamlined way to install and maintain third-party apps without requiring a jailbreak.",
+      "iconURL": "https://i.imgur.com/Dvm5k1Z.png",
+      "tintColor": "#0522f9",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/claration/Feather/releases/download/v2.8.2/Feather.ipa",
+          "size": 14200000,
+          "version": "2.8.2",
+          "buildVersion": null,
+          "date": "2026-06-07T20:11:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSHumanReadableCopyright": "Copyright (c) 2024 Samara M"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "SideStore",
+      "bundleIdentifier": "com.SideStore.SideStore",
+      "marketplaceID": "",
+      "developerName": "SideStore Team",
+      "subtitle": "Install and refresh sideloaded apps without a computer or jailbreak.",
+      "localizedDescription": "SideStore is an open-source iOS sideloading platform that allows users to install, manage, and refresh IPA files directly on their device using their own Apple ID. Compatible with iOS 14.0 and later, it builds upon the AltStore ecosystem while enabling app refreshes over Wi-Fi without requiring a constant connection to a computer. Designed for developers, testers, and enthusiasts, SideStore provides a convenient way to run third-party apps while staying within Apple's standard device restrictions.",
+      "iconURL": "https://i.imgur.com/15djH4y.png",
+      "tintColor": "#04d4f9",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.6.3/SideStore.ipa",
+          "size": 28600000,
+          "version": "0.6.3",
+          "buildVersion": null,
+          "date": "2026-06-07T20:10:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "SideStore uses the local network to find and communicate with your device."
+        }
+      },
+      "patreon": {}
+    },
     {
       "name": "Ksign",
       "bundleIdentifier": "nya.asami.ksign",
       "marketplaceID": "",
-      "developerName": "Nyasami",
-      "subtitle": "iOS IPA signing tool",
-      "localizedDescription": "Ksign is a simple, powerful tool to sign IPAs for personal use.",
-      "iconURL": "https://github.com/Nyasami/Ksign/blob/v1.4.1/Ksign/Resources/Assets.xcassets/AppIcon.appiconset/Ksign-default.png?raw=true",
-      "tintColor": "#6495ED",
+      "developerName": "Ksign Team",
+      "subtitle": "Sign and install IPA files directly on your iPhone or iPad.",
+      "localizedDescription": "Ksign is an iOS sideloading utility that allows users to sign, install, and manage IPA files directly on their device using certificates and provisioning profiles. Compatible with iOS 14.0 and later, it provides an easy-to-use interface for importing apps, applying signatures, and installing them without requiring a computer. Popular among sideloading enthusiasts, Ksign simplifies app management and makes it easier to deploy custom, development, and third-party applications on supported iOS devices.",
+      "iconURL": "https://i.imgur.com/GdPVi0K.png",
+      "tintColor": "#0491fc",
       "category": "other",
       "screenshots": [],
       "versions": [
+        {
+          "downloadURL": "https://github.com/Nyasami/Ksign/releases/download/v1.6/Ksign.ipa",
+          "size": 16400000,
+          "version": "1.6",
+          "buildVersion": null,
+          "date": "2026-06-07T20:08:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        },
         {
           "version": "1.4.1",
           "date": "2025-09-17",
@@ -32,7 +101,10 @@
       ],
       "appPermissions": {
         "entitlements": [],
-        "privacy": {}
+        "privacy": {
+          "NSAccentColorName": "AccentColor",
+          "NSHumanReadableCopyright": "Copyright (c) 2025 Nagata Asami"
+        }
       },
       "patreon": {}
     },
@@ -40,27 +112,60 @@
       "name": "LiveContainer",
       "bundleIdentifier": "com.kdt.livecontainer",
       "marketplaceID": "",
-      "developerName": "HugeBlack",
-      "subtitle": "Run iOS Apps Without Installing",
-      "localizedDescription": "LiveContainer is an app launcher that allows you to run iOS apps without actually installing them. It supports unlimited apps, multiple versions, and JIT-less mode for non-jailbroken devices.",
-      "iconURL": "https://avatars.githubusercontent.com/u/206676373?s=200&v=4",
-      "tintColor": "#4c63af",
+      "developerName": "hugeBlack",
+      "subtitle": "Run multiple sideloaded iOS apps inside a single container environment.",
+      "localizedDescription": "LiveContainer is an open-source iOS utility that allows users to run and manage multiple sideloaded applications inside a single host container app. Compatible with iOS 14.0 and later, it helps bypass the standard app limit imposed by iOS sideloading methods by consolidating apps into one environment. Designed for developers and advanced users, it provides a flexible way to organize, launch, and test IPA-based applications without requiring a jailbreak.",
+      "iconURL": "https://i.imgur.com/rgL4lD3.png",
+      "tintColor": "#0584fc",
       "category": "other",
       "screenshots": [],
       "versions": [
         {
-          "version": "3.6.1",
-          "date": "2025-09-17",
-          "localizedDescription": "New release!",
-          "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.6.1/LiveContainer.ipa",
-          "size": 50000000,
+          "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.7.2/LiveContainer.ipa",
+          "size": 4500000,
+          "version": "3.7.2",
           "buildVersion": null,
+          "date": "2026-06-07T20:06:00-04:00",
+          "localizedDescription": null,
           "minOSVersion": null
         }
       ],
       "appPermissions": {
         "entitlements": [],
-        "privacy": {}
+        "privacy": {
+          "NSAccentColorName": "AccentColor",
+          "NSAppleMusicUsageDescription": "The guest app is requesting for this permission.",
+          "NSBluetoothAlwaysUsageDescription": "The guest app is requesting for this permission.",
+          "NSBluetoothPeripheralUsageDescription": "The guest app is requesting for this permission.",
+          "NSCalendarsFullAccessUsageDescription": "The guest app is requesting for this permission.",
+          "NSCalendarsWriteOnlyAccessUsageDescription": "The guest app is requesting for this permission.",
+          "NSCameraUsageDescription": "The guest app is requesting for this permission.",
+          "NSContactsUsageDescription": "The guest app is requesting for this permission.",
+          "NSFaceIDUsageDescription": "The guest app is requesting for this permission.",
+          "NSFallDetectionUsageDescription": "The guest app is requesting for this permission.",
+          "NSGKFriendListUsageDescription": "The guest app is requesting for this permission.",
+          "NSHealthClinicalHealthRecordsShareUsageDescription": "The guest app is requesting for this permission.",
+          "NSHealthShareUsageDescription": "The guest app is requesting for this permission.",
+          "NSHealthUpdateUsageDescription": "The guest app is requesting for this permission.",
+          "NSHomeKitUsageDescription": "The guest app is requesting for this permission.",
+          "NSIdentityUsageDescription": "The guest app is requesting for this permission.",
+          "NSLocalNetworkUsageDescription": "The guest app is requesting for this permission.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "The guest app is requesting for this permission.",
+          "NSLocationTemporaryUsageDescriptionDictionary": "The guest app is requesting for this permission.",
+          "NSLocationUsageDescription": "The guest app is requesting for this permission.",
+          "NSLocationWhenInUseUsageDescription": "The guest app is requesting for this permission.",
+          "NSMicrophoneUsageDescription": "The guest app is requesting for this permission.",
+          "NSMotionUsageDescription": "The guest app is requesting for this permission.",
+          "NSNearbyInteractionAllowOnceUsageDescription": "The guest app is requesting for this permission.",
+          "NSNearbyInteractionUsageDescription": "The guest app is requesting for this permission.",
+          "NSPhotoLibraryAddUsageDescription": "The guest app is requesting for this permission.",
+          "NSPhotoLibraryUsageDescription": "The guest app is requesting for this permission.",
+          "NSRemindersFullAccessUsageDescription": "The guest app is requesting for this permission.",
+          "NSSensorKitUsageDescription": "The guest app is requesting for this permission.",
+          "NSSiriUsageDescription": "The guest app is requesting for this permission.",
+          "NSSpeechRecognitionUsageDescription": "The guest app is requesting for this permission.",
+          "NSUserTrackingUsageDescription": "The guest app is requesting for this permission."
+        }
       },
       "patreon": {}
     },
@@ -68,139 +173,34 @@
       "name": "UTM",
       "bundleIdentifier": "com.utmapp.UTM",
       "marketplaceID": "",
-      "developerName": "Tian Zheng",
-      "subtitle": "Virtual Machines for iOS",
-      "localizedDescription": "UTM is a full-featured virtual machine host for iOS, allowing you to run Windows, Linux, and more on your iPhone and iPad. This version requires using AltJIT. Install UTM SE for slower emulation without JIT.",
-      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbtFsTLS2FeCxBudG-lWsft0EYEiG--72HqQ&s",
-      "tintColor": "#1a2cc2",
+      "developerName": "Turing Software, LLC",
+      "subtitle": "Run Windows, Linux, and other operating systems on iPhone, iPad, and Mac.",
+      "localizedDescription": "UTM is a virtualization and emulation app for iOS, iPadOS, and macOS that lets users run full desktop operating systems such as Windows, Linux, and macOS in isolated virtual machines. Compatible with iOS 14.0 and later, it is built on QEMU and supports both emulation (for different CPU architectures) and virtualization on supported devices for improved performance. It is widely used for development, testing, and educational purposes, allowing users to experiment with different operating systems directly on Apple devices without modifying the system or requiring a jailbreak.",
+      "iconURL": "https://i.imgur.com/36wWIA6.png",
+      "tintColor": "#3c7cec",
       "category": "other",
       "screenshots": [],
       "versions": [
         {
-          "version": "4.7.4",
-          "date": "2025-09-17",
-          "localizedDescription": "New release!",
-          "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.7.4/UTM.ipa",
-          "size": 130036731,
+          "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.7.5/UTM.ipa",
+          "size": 130100000,
+          "version": "4.7.5",
           "buildVersion": null,
+          "date": "2026-06-07T20:05:00-04:00",
+          "localizedDescription": null,
           "minOSVersion": null
         }
       ],
       "appPermissions": {
         "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Delta",
-      "bundleIdentifier": "com.rileytestut.Delta",
-      "marketplaceID": "",
-      "developerName": "Riley Testut",
-      "subtitle": "Nintendo Emulator for iOS",
-      "localizedDescription": "Delta is a multi-platform emulator for iOS that lets you play Game Boy, Game Boy Advance, Nintendo DS, and Nintendo 64 games on your device.",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.rileytestut.Delta.Beta.png",
-      "tintColor": "#480da6",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "1.6",
-          "date": "2025-09-17",
-          "localizedDescription": "New release!",
-          "downloadURL": "https://github.com/rileytestut/Delta/releases/download/v1.6/Delta_1_6.ipa",
-          "size": 47000000,
-          "buildVersion": null,
-          "minOSVersion": null
+        "privacy": {
+          "NSAccentColorName": "AccentColor",
+          "NSLocalNetworkUsageDescription": "The virtual machine may access the local network. UTM may also use the network to communicate with local servers.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "UTM requests location data periodically to ensure the system keeps the background process active. Location data will never leave the device.",
+          "NSLocationAlwaysUsageDescription": "UTM requests location data periodically to ensure the system keeps the background process active. Location data will never leave the device.",
+          "NSLocationWhenInUseUsageDescription": "UTM requests location data periodically to ensure the system keeps the background process active. Location data will never leave the device.",
+          "NSMicrophoneUsageDescription": "Permission is required for any virtual machine to record from the microphone."
         }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Flycast",
-      "bundleIdentifier": "com.flyinghead.Flycast",
-      "marketplaceID": "",
-      "developerName": "Flyinghead",
-      "subtitle": "Dreamcast Emulator for iOS",
-      "localizedDescription": "Flycast is a Dreamcast emulator for iOS that lets you play classic Dreamcast games with high compatibility and performance on your device.",
-      "iconURL": "https://raw.githubusercontent.com/flyinghead/flycast/master/shell/linux/flycast.png",
-      "tintColor": "#571eb3",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "v2.5",
-          "date": "2025-09-17",
-          "localizedDescription": "New release!",
-          "downloadURL": "https://archive.org/download/flycast-2.5_20250607_2043/Flycast-2.5.ipa",
-          "size": 8200000,
-          "buildVersion": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Dolphin",
-      "bundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
-      "marketplaceID": "",
-      "developerName": "Henrik Rydgård and F|RES",
-      "subtitle": "GameCube & Wii Emulator for iOS",
-      "localizedDescription": "Dolphin is a high-performance emulator for GameCube and Wii games on iOS, offering advanced controls and graphics options.",
-      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1uzvuRLJONXjZQ-ufy8lmlKO2GZqr52A63g&s",
-      "tintColor": "#3554ab",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "4.0.0b8",
-          "date": "2025-09-17",
-          "localizedDescription": "New release!",
-          "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v4.0.0b8/Non-Jailbroken.ipa",
-          "size": 80300000,
-          "buildVersion": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "PojavLauncher",
-      "bundleIdentifier": "net.kdt.pojavlauncher",
-      "marketplaceID": "",
-      "developerName": "Kdt",
-      "subtitle": "Minecraft Java Edition Launcher",
-      "localizedDescription": "PojavLauncher allows you to play Minecraft Java Edition on iOS devices, providing support for mods, servers, and full game features.",
-      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFCv3jIkvIKoURk4audJBbZJYTnbTmlsJzVg&s",
-      "tintColor": "#663317",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "2.2",
-          "date": "2025-09-17",
-          "localizedDescription": "New release!",
-          "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.2/net.kdt.pojavlauncher-2.2-ios.ipa",
-          "size": 108200000,
-          "buildVersion": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
       },
       "patreon": {}
     },
@@ -208,235 +208,181 @@
       "name": "UTM SE",
       "bundleIdentifier": "com.utmapp.UTM-SE",
       "marketplaceID": "",
-      "developerName": "Tian Zheng",
-      "subtitle": "Virtual Machine Emulator for iOS",
-      "localizedDescription": "UTM SE allows you to run virtual machines on iOS, supporting multiple OSes with full emulation and QEMU-based virtualization.",
-      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbtFsTLS2FeCxBudG-lWsft0EYEiG--72HqQ&s",
-      "tintColor": "#1a2cc2",
+      "developerName": "Turing Software, LLC",
+      "subtitle": "Run virtual machines on iPhone and iPad without JIT support.",
+      "localizedDescription": "UTM SE (Slow Edition) is a lightweight version of UTM designed for iOS and iPadOS devices that do not support JIT. Compatible with iOS 14.0 and later, it allows users to run virtual machines using QEMU-based software emulation to launch operating systems like Linux and Windows. While performance is reduced compared to full UTM builds, it provides a convenient way to use desktop environments on mobile devices without requiring jailbreak or JIT-enabled tools.",
+      "iconURL": "https://i.imgur.com/QldcTEK.png",
+      "tintColor": "#3c7cec",
       "category": "other",
       "screenshots": [],
       "versions": [
         {
-          "version": "4.7.4",
-          "date": "2025-09-17",
-          "localizedDescription": "New release!",
-          "downloadURL": "https://github.com/utmapp/UTM/releases/latest/download/UTM-SE.ipa",
+          "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.7.5/UTM-SE.ipa",
           "size": 213900000,
+          "version": "4.7.5",
           "buildVersion": null,
+          "date": "2026-06-07T20:04:00-04:00",
+          "localizedDescription": null,
           "minOSVersion": null
         }
       ],
       "appPermissions": {
         "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Provenance",
-      "bundleIdentifier": "org.provenance-emu.provenance",
-      "marketplaceID": "",
-      "developerName": "James Addyman",
-      "subtitle": "Multi-console Emulator for iOS",
-      "localizedDescription": "Provenance is a versatile emulator for iOS that supports multiple consoles including SNES, Genesis, Game Boy, and more, with customizable controls and save states.",
-      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTpuszJKoMiZqvaRqMuwjVFlr-xuPPOrd9JQ&s",
-      "tintColor": "#a5aab0",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "3.1.0",
-          "date": "2025-09-17",
-          "localizedDescription": "New release!",
-          "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/3.1.0/Provenance.ipa",
-          "size": 47200000,
-          "buildVersion": null,
-          "minOSVersion": null
+        "privacy": {
+          "NSAccentColorName": "AccentColor",
+          "NSLocalNetworkUsageDescription": "The virtual machine may access the local network. UTM may also use the network to communicate with local servers.",
+          "NSMicrophoneUsageDescription": "Permission is required for any virtual machine to record from the microphone."
         }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "PokeMMO",
-      "bundleIdentifier": "eu.pokemmo.client",
-      "marketplaceID": "",
-      "developerName": "PokeMMO Team",
-      "subtitle": "Massively Multiplayer Pokémon for iOS",
-      "localizedDescription": "PokeMMO is an online Pokémon MMO game for iOS devices, allowing players to battle, trade, and explore together with full multiplayer features.",
-      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2n-mUOqkvYSCTDXKWcAi1TBXBbMPlCldi8g&s",
-      "tintColor": "#151617",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "29764",
-          "date": "2025-09-17",
-          "localizedDescription": "New release!",
-          "downloadURL": "https://pokemmo.com/download_file/10/",
-          "size": 60200000,
-          "buildVersion": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
       },
       "patreon": {}
     },
     {
       "name": "OldOS",
-      "bundleIdentifier": "com.zurac.OldOSSL2",
+      "bundleIdentifier": "com.zrc.BudgetingBuddy",
       "marketplaceID": "",
-      "developerName": "Zzanehip",
-      "subtitle": "Classic iOS Interface Emulator",
-      "localizedDescription": "OldOS brings the classic iOS interface to modern devices, letting you experience the look and feel of previous iOS versions.",
-      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkpSAVwRr83gYwhGqSK9wRKCpiyqc4-XbKqg&s",
-      "tintColor": "#434547",
+      "developerName": "Zane Kleinberg",
+      "subtitle": "A fully interactive recreation of classic iOS for modern iPhones and iPads.",
+      "localizedDescription": "OldOS is a nostalgia-focused iOS application that recreates the look, feel, and interactions of early iPhone OS (iOS 1–4 era) on modern devices. It simulates the original home screen, system apps, animations, and UI behavior in a sandboxed environment. Compatible with iOS 14.0 and later, OldOS is designed as an educational and tribute project that lets users experience early iOS history without modifying their device system or requiring a jailbreak.",
+      "iconURL": "https://i.imgur.com/vKN5FMQ.png",
+      "tintColor": "#000000",
       "category": "other",
       "screenshots": [],
       "versions": [
         {
-          "version": "2.0",
-          "date": "2025-09-17",
-          "localizedDescription": "New release!",
-          "downloadURL": "https://github.com/zzanehip/The-OldOS-Project/releases/download/2.0_1/OldOS.ipa",
-          "size": 15800000,
+          "downloadURL": "https://github.com/zzanehip/The-OldOS-Project/releases/download/2.0_7/OldOS.ipa",
+          "size": 83200000,
+          "version": "1.0",
           "buildVersion": null,
+          "date": "2026-06-07T20:02:00-04:00",
+          "localizedDescription": null,
           "minOSVersion": null
         }
       ],
       "appPermissions": {
         "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "RetroArch",
-      "bundleIdentifier": "com.libretro.RetroArchiOS11",
-      "marketplaceID": "",
-      "developerName": "Libretro Team",
-      "subtitle": "Universal Emulator Frontend",
-      "localizedDescription": "RetroArch is a powerful frontend for emulators, game engines, and media players, enabling you to run classic games on a wide range of devices through its slick graphical interface.",
-      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-gP06dHcMuUi8T6imFmdB6ob4If5fMkD2ag&s",
-      "tintColor": "#a7a9ab",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "1.20250918.0009",
-          "date": "2025-09-17",
-          "localizedDescription": "New release!",
-          "downloadURL": "https://buildbot.libretro.com/nightly/apple/ios-arm64/RetroArch.ipa",
-          "size": 187100000,
-          "buildVersion": null,
-          "minOSVersion": null
+        "privacy": {
+          "NSAppleMusicUsageDescription": "To view, play, and experience your music in OldOS, please enable access to your music library. ",
+          "NSCameraUsageDescription": "To take photos in OldOS, please enable access to your camera.",
+          "NSContactsUsageDescription": "To view and manage your contacts in OldOS, please enable access to your contacts list.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "To enable maps to work properly, and see your current wifi network in Settings, please enable access to your location. Then close and re-open the Maps app.",
+          "NSLocationAlwaysUsageDescription": "To enable maps to work properly, and see your current wifi network in Settings, please enable access to your location. Then close and re-open the Maps app.",
+          "NSLocationWhenInUseUsageDescription": "To enable maps to work properly, and see your current wifi network in Settings, please enable access to your location. Then close and re-open the Maps app.",
+          "NSMicrophoneUsageDescription": "To record your audio while filming a video in OldOS, please in enable microphone access.",
+          "NSPhotoLibraryAddUsageDescription": "To view, manage, and add photos to your photo library in OldOS, please enable access. Then close and re-open the Photos app.",
+          "NSPhotoLibraryUsageDescription": "To view, manage, and add photos to your photo library in OldOS, please enable access. Then close and re-open the Photos app."
         }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
       },
       "patreon": {}
     },
     {
-      "name": "Nulls Brawl",
+      "name": "NB v67.264",
       "bundleIdentifier": "nt.nb.ios",
       "marketplaceID": "",
       "developerName": "Nulls Team",
       "subtitle": "Private Brawl Stars Server for iOS",
       "localizedDescription": "Nulls Brawl is a private server version of Brawl Stars, offering unlimited resources and new custom features not found in the official game.",
-      "iconURL": "https://www.nullsbrawl.dev/wp-content/uploads/2024/10/logo.png",
-      "tintColor": "#A020F0",
+      "iconURL": "https://i.imgur.com/f24huHI.png",
+      "tintColor": "#8c1cd4",
       "category": "other",
       "screenshots": [],
       "versions": [
         {
-          "version": "63.265",
-          "date": "2025-09-17",
-          "localizedDescription": "New release!",
           "downloadURL": "https://dnull.xyz/latest_bs_i",
-          "size": 120000000,
+          "size": 1135900000,
+          "version": "67.264",
           "buildVersion": null,
+          "date": "2026-06-07T20:01:00-04:00",
+          "localizedDescription": null,
           "minOSVersion": null
         }
       ],
       "appPermissions": {
         "entitlements": [],
-        "privacy": {}
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
+          "NSCameraUsageDescription": "Camera access is needed for scanning QR codes.",
+          "NSUserTrackingUsageDescription": "Allow tracking to get ads and offers on this app and ads for our games in other apps. We also use your data to generate audience insights, perform analytics and improve our services.",
+          "NSMotionUsageDescription": "Accelerometer permission is required to enable some in-game visual effects.",
+          "NSPhotoLibraryUsageDescription": "Photo library access is needed if player contacts Supercell Player Support to send screenshots."
+        }
       },
       "patreon": {}
     },
     {
-      "name": "Nulls Clash",
+      "name": "NC v18.200.19",
       "bundleIdentifier": "nt.nc.ios",
       "marketplaceID": "",
-      "developerName": "Nulls Team",
-      "subtitle": "Private Clash of Clans Server for iOS",
-      "localizedDescription": "Nulls Clash is a private server version of Clash of Clans, offering unlimited resources and custom gameplay features not available in the official game.",
-      "iconURL": "https://imag.malavida.com/mvimgbig/download-fs/nulls-clash-23270-0.jpg",
-      "tintColor": "#A020F0",
+      "developerName": "Null’s Team",
+      "subtitle": "A private server version of Clash of Clans with unlimited resources and unlocked content.",
+      "localizedDescription": "Null’s Clash is an unofficial private server version of Clash of Clans that allows players to access unlimited gems, gold, elixir, and dark elixir, along with fully unlocked troops, defenses, and upgrades. It runs on separate servers from Supercell and is designed for sandbox-style gameplay where users can freely build, experiment, and upgrade without resource limitations or progression rules. This version is not affiliated with Supercell and operates independently of the official Clash of Clans servers.",
+      "iconURL": "https://i.imgur.com/zhLLFdr.png",
+      "tintColor": "#eca804",
       "category": "other",
       "screenshots": [],
       "versions": [
         {
-          "version": "17.360.13",
-          "date": "2025-09-17",
-          "localizedDescription": "New release!",
           "downloadURL": "https://dnull.xyz/latest_coc_i",
-          "size": 150000000,
+          "size": 419000000,
+          "version": "18.200.19",
           "buildVersion": null,
+          "date": "2026-06-07T19:59:00-04:00",
+          "localizedDescription": null,
           "minOSVersion": null
         }
       ],
       "appPermissions": {
         "entitlements": [],
-        "privacy": {}
+        "privacy": {
+          "NSUserTrackingUsageDescription": "Clash of Clans would like permission to track you across apps and websites owned by other companies.\\n\\nYour data will be used for audience insights, analytics and improving our services.",
+          "NSPhotoLibraryUsageDescription": "Photo library access is needed if player wants to send screenshots to Supercell Player Support.",
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com",
+          "NSCameraUsageDescription": "Camera access is needed for scanning QR codes."
+        }
       },
       "patreon": {}
     },
     {
-      "name": "Nulls Royale",
+      "name": "NR v14.593.1",
       "bundleIdentifier": "nt.nr.ios",
       "marketplaceID": "",
-      "developerName": "Nulls Team",
-      "subtitle": "Private Clash Royale Server for iOS",
-      "localizedDescription": "Nulls Royale is a private server version of Clash Royale, featuring unlimited gems, custom cards, and enhanced gameplay features not found in the official game.",
-      "iconURL": "https://imgcdn.latestmodapks.com/api/resize?url=https://www.latestmodapks.com/wp-content/uploads/2022/05/nr-icon.png&width=160",
-      "tintColor": "#A020F0",
+      "developerName": "Null’s Team",
+      "subtitle": "A private server for Clash Royale with unlimited resources and unlocked content.",
+      "localizedDescription": "Null’s Royale v14.593.1 is an unofficial private server version of Clash Royale that allows players to access unlimited gems, gold, and star points, along with all cards, towers, emotes, and upgrades unlocked from the start. It runs on independent servers separate from Supercell and is designed for experimental and sandbox-style gameplay where users can test decks and features without progression limits. This version operates outside the official Clash Royale ecosystem and is not affiliated with Supercell.",
+      "iconURL": "https://i.imgur.com/y09xSVZ.png",
+      "tintColor": "#047cdc",
       "category": "other",
       "screenshots": [],
       "versions": [
         {
-          "version": "11.548.0",
-          "date": "2025-09-17",
-          "localizedDescription": "New release!",
           "downloadURL": "https://dnull.xyz/latest_cr_i",
-          "size": 120000000,
+          "size": 1073700000,
+          "version": "14.593.1",
           "buildVersion": null,
+          "date": "2026-06-07T19:57:00-04:00",
+          "localizedDescription": null,
           "minOSVersion": null
         }
       ],
       "appPermissions": {
         "entitlements": [],
-        "privacy": {}
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
+          "NSCameraUsageDescription": "Camera access is needed to scan QR codes.",
+          "NSUserTrackingUsageDescription": "Clash Royale would like permission to track you across apps and websites owned by other companies. Your data will be used for audience insights, analytics and improving our services.",
+          "NSPhotoLibraryUsageDescription": "Photo library access is needed to send screenshots to Supercell Player Support."
+        }
       },
       "patreon": {}
     },
     {
-      "name": "EZFN Season 7",
+      "name": "Fortnite - EZFN",
       "bundleIdentifier": "40ccc2b10c984097",
       "marketplaceID": "",
       "developerName": "EZFN Team",
-      "subtitle": "Relive Classic Fortnite",
-      "localizedDescription": "EZFN OG allows you to play the original Fortnite experience on various platforms, including Windows, iOS, Android, and Nintendo Switch.",
-      "iconURL": "https://media.pocketgamer.com/artwork/na-plaq/fortnite_icon.jpg",
-      "tintColor": "#A020F0",
+      "subtitle": "Relive classic Fortnite seasons with OG gameplay on custom servers.",
+      "localizedDescription": "Fortnite – EZFN is an unofficial community project that recreates older versions of Fortnite, allowing players to experience classic Chapter 1 seasons, maps, and mechanics through private servers. It uses EZFN accounts instead of Epic Games accounts and is designed for nostalgia and experimental gameplay. Compatible with PC and mobile builds depending on the release, it is not affiliated with Epic Games and operates separately from the official Fortnite servers.",
+      "iconURL": "https://i.imgur.com/rCzxllu.png",
+      "tintColor": "#2784bc",
       "category": "other",
       "screenshots": [],
       "versions": [
@@ -452,7 +398,11 @@
       ],
       "appPermissions": {
         "entitlements": [],
-        "privacy": {}
+        "privacy": {
+          "NSLocationAlwaysUsageDescription": "",
+          "NSLocationWhenInUseUsageDescription": "&gt;",
+          "NSMicrophoneUsageDescription": "Fortnite needs microphone access for voice chat."
+        }
       },
       "patreon": {}
     }
