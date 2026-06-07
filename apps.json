@@ -9,6 +9,68 @@
   "featuredApps": [],
   "apps": [
     {
+      "name": "EnsWilde",
+      "bundleIdentifier": "com.yangjiii.EnsWilde",
+      "marketplaceID": "",
+      "developerName": "YangJiiii",
+      "subtitle": "Advanced iOS customization and system utility tools for supported devices.",
+      "localizedDescription": "EnsWilde is an advanced iOS utility focused on system customization and device management features for supported iOS versions. Compatible with iOS 15.0 and later (varies by build), it provides tools for modifying certain system behaviors, managing device configurations, and applying custom tweaks without requiring a full jailbreak. Designed for power users and developers, EnsWilde streamlines advanced iOS workflows through an on-device interface while maintaining compatibility with modern iOS security restrictions.",
+      "iconURL": "https://i.imgur.com/CeNlhxw.png",
+      "tintColor": "#c0683c",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/YangJiiii/EnsWilde/releases/download/EnsWilde3.1.3/EnsWilde.ipa",
+          "size": 13600000,
+          "version": "3.1.3",
+          "buildVersion": null,
+          "date": "2026-06-06T22:42:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAccentColorName": "AccentColor"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "FilzaJailedDS",
+      "bundleIdentifier": "com.tigisoftware.Filza",
+      "marketplaceID": "",
+      "developerName": "FilzaJailedDS Team",
+      "subtitle": "Browse, manage, and organize files on iOS without a jailbreak.",
+      "localizedDescription": "FilzaJailedDS is a modified version of the popular Filza file manager designed to run on non-jailbroken iOS devices. Compatible with iOS 14.0 and later, it provides access to app containers, documents, downloads, and other user-accessible directories through a powerful file management interface. Featuring file editing, archive support, media previews, and file transfer tools, FilzaJailedDS brings many of the capabilities of a traditional iOS file manager to sideloaded environments without requiring full system access.",
+      "iconURL": "https://i.imgur.com/GRwODVv.png",
+      "tintColor": "#0cacd4",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/34306/FilzaJailedDS/releases/download/2.2/Filza.ipa",
+          "size": 14200000,
+          "version": "4.0",
+          "buildVersion": null,
+          "date": "2026-06-07T02:37:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "To save photos and videos to photo library.",
+          "NSPhotoLibraryAddUsageDescription": "To save photos and videos to photo library.",
+          "NSFaceIDUsageDescription": "Filza uses Face ID to authenticate"
+        }
+      },
+      "patreon": {}
+    },
+    {
       "name": "Pocket Poster",
       "bundleIdentifier": "com.lemin.Pocket-Poster",
       "marketplaceID": "",
