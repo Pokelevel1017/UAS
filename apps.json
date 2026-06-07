@@ -9,6 +9,96 @@
   "featuredApps": [],
   "apps": [
     {
+      "name": "Pocket Poster",
+      "bundleIdentifier": "com.lemin.Pocket-Poster",
+      "marketplaceID": "",
+      "developerName": "LeminLimez",
+      "subtitle": "Create and apply custom animated posters and lock screen experiences on iOS.",
+      "localizedDescription": "Pocket Poster is an iOS customization tool that allows users to create, import, and manage custom PosterBoard content, animated wallpapers, and personalized lock screen experiences. Compatible with iOS 16.0 and later on supported devices, it works alongside modern customization tools to bring unique visual effects and interactive designs to your device without requiring a traditional jailbreak. Designed for customization enthusiasts, Pocket Poster makes it easy to personalize your iPhone with custom posters, animations, and creative lock screen content.",
+      "iconURL": "https://i.imgur.com/abONTXL.png",
+      "tintColor": "#000000",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/leminlimez/Pocket-Poster/releases/download/v3.0/Pocket_Poster.ipa",
+          "size": 13700000,
+          "version": "3.0",
+          "buildVersion": null,
+          "date": "2026-06-07T14:26:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "iTorrent",
+      "bundleIdentifier": "com.xitrix.iTorrent2",
+      "marketplaceID": "",
+      "developerName": "XITRIX",
+      "subtitle": "Download, manage, and share torrents directly on your iPhone or iPad.",
+      "localizedDescription": "iTorrent is an open-source BitTorrent client for iOS that allows users to download and manage torrent files and magnet links directly from their device. Compatible with iOS 11.0 and later, it includes support for background downloading, file management, media previewing, seeding, and file sharing through a native iOS interface. Designed for both casual and advanced users, iTorrent brings a full-featured torrent experience to iPhone and iPad without requiring a jailbreak.",
+      "iconURL": "https://i.imgur.com/wyPlbfO.png",
+      "tintColor": "#f39c6b",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/v2.1.1-1/iTorrent.ipa",
+          "size": 8400000,
+          "version": "2.1.1",
+          "buildVersion": null,
+          "date": "2026-06-06T22:25:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAccentColorName": "AccentColor"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "StikDebug",
+      "bundleIdentifier": "com.stik.stikdebug",
+      "marketplaceID": "",
+      "developerName": "Stephen Bove",
+      "subtitle": "Enable JIT and access powerful debugging tools directly on iOS.",
+      "localizedDescription": "StikDebug is an advanced iOS developer utility that provides tools for enabling JIT compilation, viewing device logs, inspecting running processes, managing provisioning profiles, and troubleshooting sideloaded applications. Compatible with iOS 14.0 and later, it is designed for developers, emulator users, and power users who need greater visibility and control over their apps. With a focus on on-device debugging and diagnostics, StikDebug helps streamline development and testing workflows without requiring a jailbreak.",
+      "iconURL": "https://i.imgur.com/Lafl8Hj.png",
+      "tintColor": "#24ccfc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/StephenDev0/StikDebug/releases/download/3.1.5/StikDebug-3.1.5.ipa",
+          "size": 11000000,
+          "version": "3.1.5",
+          "buildVersion": null,
+          "date": "2026-06-07T02:22:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "StikDebug needs access to devices on your local network so it can connect to the targets you add to the Device Library.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "StikDebug uses location to stay running in the background and maintain your JIT connection.",
+          "NSLocationWhenInUseUsageDescription": "StikDebug uses location to stay running in the background and maintain your JIT connection."
+        }
+      },
+      "patreon": {}
+    },
+    {
       "name": "Feather",
       "bundleIdentifier": "thewonderofyou.Feather",
       "marketplaceID": "",
