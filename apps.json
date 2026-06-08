@@ -3,29 +3,57 @@
   "subtitle": "One of the best app stores!",
   "description": "",
   "iconURL": "https://i.imgur.com/BT6lHPF.png",
-  "website": "https://altstudio.app",
-  "patreonURL": "https://patreon.com/altstudio",
+  "website": "",
+  "patreonURL": "",
   "tintColor": "#000000",
   "featuredApps": [],
   "apps": [
     {
-      "name": "Rewound",
-      "bundleIdentifier": "com.louisanslow.record",
+      "name": "Flappy Bird",
+      "bundleIdentifier": "org.brandonplank.flappybird",
       "marketplaceID": "",
-      "developerName": "Louis Anslow",
-      "subtitle": "A customizable music player that brings classic iPod-style controls to modern iOS.",
-      "localizedDescription": "Rewound is an iOS music player app that lets users customize their playback experience with retro-inspired interfaces, including classic iPod click wheel controls. Compatible with iOS 11.0 and later, it works by integrating with the user’s existing music library and Apple Music playback while applying custom skins and control layouts. Designed for nostalgia and personalization, Rewound focuses on recreating the feel of older Apple music devices with modern functionality.",
-      "iconURL": "https://i.imgur.com/DbT27ud.png",
-      "tintColor": "#7f7f7f",
+      "developerName": "brandonplank",
+      "subtitle": "A simple open-source Flappy Bird remake for iOS and other platforms.",
+      "localizedDescription": "Flappy Bird is an open-source remake of the classic arcade-style game developed by brandonplank. It recreates the original tap-to-fly gameplay where players guide a bird through endless pipes while avoiding collisions. The project is designed as a lightweight demo of basic game mechanics such as physics, collision detection, and score tracking, and can be sideloaded on iOS depending on the build.",
+      "iconURL": "https://i.imgur.com/S7yPGcn.png",
+      "tintColor": "#7ce49c",
       "category": "other",
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://archive.org/download/rewound/Rewound_classic_fixed.zip/decrypted-app.ipa",
-          "size": 5600000,
-          "version": "2019.7",
+          "downloadURL": "https://github.com/brandonplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
+          "size": 2100000,
+          "version": "4.3",
           "buildVersion": null,
-          "date": "2026-06-07T00:38:00-04:00",
+          "date": "2026-06-06T16:26:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "ClassicPlayer",
+      "bundleIdentifier": "me.gmoran.ClassicPlayer",
+      "marketplaceID": "",
+      "developerName": "ClassicPlayer Team",
+      "subtitle": "A lightweight media player for playing local audio and video files on iOS.",
+      "localizedDescription": "ClassicPlayer is an iOS media player designed for offline playback of audio and video files stored on the device. Compatible with iOS 12.0 and later (varies by build), it supports common media formats, file importing, playlist creation, and background playback. The app focuses on simplicity and performance, giving users a straightforward way to manage and play local media without relying on streaming services.",
+      "iconURL": "https://i.imgur.com/kvon7OX.png",
+      "tintColor": "#8f8f6f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://gmoran.me/classicplayer/releases/ClassicPlayer_2.0.2.ipa",
+          "size": 37400000,
+          "version": "2.0.2",
+          "buildVersion": null,
+          "date": "2026-06-06T16:22:00-04:00",
           "localizedDescription": null,
           "minOSVersion": null
         }
@@ -33,8 +61,436 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSPhotoLibraryUsageDescription": "Rewound needs access to your library to get the media files.",
-          "NSAppleMusicUsageDescription": "Rewound needs access to your music library to control your music."
+          "NSAppleMusicUsageDescription": "Classic Player needs access to your library in order to work properly."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "EeveeSpotify",
+      "bundleIdentifier": "com.spotify.client",
+      "marketplaceID": "",
+      "developerName": "EeveeSpotify Team",
+      "subtitle": "A modified Spotify client with unlocked premium features and enhanced playback controls.",
+      "localizedDescription": "EeveeSpotify is an unofficial modified version of the Spotify iOS app that unlocks premium-style features such as ad-free listening, enhanced playback controls, and additional customization options. It is typically installed through sideloading methods and works by patching the official Spotify client to modify certain client-side restrictions. EeveeSpotify is not affiliated with Spotify and is intended for educational and experimental use within the sideloading community.",
+      "iconURL": "https://i.imgur.com/7oZELTv.png",
+      "tintColor": "#349c5c",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/package_files/303874879/download",
+          "size": 111200000,
+          "version": "9.1.48",
+          "buildVersion": null,
+          "date": "2026-06-06T15:50:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "This will let you play your imported music on Spotify.",
+          "NSBluetoothAlwaysUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
+          "NSCalendarsUsageDescription": "This lets Spotify view and add events to your calendar.",
+          "NSCalendarsWriteOnlyAccessUsageDescription": "This lets Spotify add events to your calendar.",
+          "NSCameraUsageDescription": "This lets you use your camera to scan or upload images.",
+          "NSContactsUsageDescription": "This lets Spotify access calendars you may have shared with your contacts.",
+          "NSFaceIDUsageDescription": "This lets you set access restrictions using Face ID.",
+          "NSHealthShareUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+          "NSHealthUpdateUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+          "NSLocalNetworkUsageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files.",
+          "NSLocationWhenInUseUsageDescription": "Your location is used to improve your recommendations and experience on Spotify.",
+          "NSMicrophoneUsageDescription": "This lets you control Spotify using your voice.",
+          "NSMotionUsageDescription": "We will use this to understand which audio motivates you most.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save images to your Photo Library.",
+          "NSPhotoLibraryUsageDescription": "This lets you select images from your Photo Library.",
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads or content to you."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Nuvio Media",
+      "bundleIdentifier": "com.nuvio.hub",
+      "marketplaceID": "",
+      "developerName": "Nuvio Team",
+      "subtitle": "A modern media hub for organizing and streaming movies and TV shows.",
+      "localizedDescription": "Nuvio Media Hub is a media management and streaming application that allows users to organize their libraries, track watch history, synchronize with Trakt, and browse content through a modern interface. Compatible with iOS 16.0 and later (varies by build), it supports multiple catalog sources, personalized recommendations, watchlist management, and high-quality video playback. Designed for media enthusiasts, Nuvio focuses on providing a streamlined and customizable viewing experience across iPhone and iPad devices.",
+      "iconURL": "https://i.imgur.com/pPLuqBn.png",
+      "tintColor": "#2cb0d8",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/1.4.2/Stable_1-4-2.ipa",
+          "size": 38800000,
+          "version": "1.4.2",
+          "buildVersion": null,
+          "date": "2026-06-06T15:39:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "Nuvio uses the local network to discover Cast-enabled devices on your WiFi network and to connect to local media servers.",
+          "NSMicrophoneUsageDescription": "This app does not require microphone access."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "DLiPA",
+      "bundleIdentifier": "com.ahmedbafkir.dlipa",
+      "marketplaceID": "",
+      "developerName": "Ahmed Bafkir",
+      "subtitle": "Download, install, and manage App Store IPA files directly on iOS.",
+      "localizedDescription": "DLiPA is an iOS application inspired by the ipatool project that allows users to search for, download, install, and share App Store applications using their own Apple ID. Compatible with iOS 13.0 and later, it supports downloading IPA files, managing multiple Apple accounts, installing apps directly on-device, and accessing older versions of applications that remain available on Apple's servers. Designed for sideloading enthusiasts and advanced users, DLiPA provides a native iOS interface for App Store package management without requiring a jailbreak.",
+      "iconURL": "https://i.imgur.com/OUv9EU6.png",
+      "tintColor": "#1ce4fc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/AhmedBafkir/DLiPA/releases/download/v1.2/DLiPA_v1.2.ipa",
+          "size": 500000,
+          "version": "1.2",
+          "buildVersion": null,
+          "date": "2026-06-06T15:35:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "Exchange data with nearby devices running the DLiPA."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "XeniOS",
+      "bundleIdentifier": "com.xenios.jp",
+      "marketplaceID": "",
+      "developerName": "XeniOS Team",
+      "subtitle": "Play Xbox 360 games on iPhone and iPad with a powerful experimental emulator.",
+      "localizedDescription": "XeniOS is an experimental Xbox 360 emulator for iPhone, iPad, and Mac based on the Xenia project. Compatible with modern iOS and iPadOS devices (tested on iOS 18.0+), it allows users to run legally owned Xbox 360 game backups through advanced emulation technology. XeniOS requires JIT to run games and is typically installed through sideloading tools such as SideStore. As an alpha-stage project, compatibility and performance vary by game and device, but it represents one of the first efforts to bring Xbox 360 emulation to Apple's mobile platform.",
+      "iconURL": "https://i.imgur.com/Esz6O6h.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/xenios-jp/XeniOS/releases/download/release-v2.0.1-build-9730/xenios_ios_iphone_ipad.ipa",
+          "size": 46300000,
+          "version": "2.0.1",
+          "buildVersion": null,
+          "date": "2026-06-06T15:33:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Chromium",
+      "bundleIdentifier": "org.chromium.chrome.ios.dev",
+      "marketplaceID": "",
+      "developerName": "The Chromium Project",
+      "subtitle": "An open-source web browser built on the Chromium project for iPhone and iPad.",
+      "localizedDescription": "Chromium for iOS is an open-source web browser based on the Chromium project, providing a clean and experimental browsing experience for iPhone and iPad users. Compatible with iOS 15.0 and later (varies by build), it offers many of the interface and feature concepts found in Chromium-based browsers while adhering to Apple's platform requirements. Designed for developers, enthusiasts, and testers, Chromium for iOS serves as a foundation for browser experimentation and web technology development on Apple devices.",
+      "iconURL": "https://i.imgur.com/DBiUAXk.png",
+      "tintColor": "#3c6cd5",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/TheNightmanCodeth/chromium-ios/releases/download/1.0.0/chromium.ipa",
+          "size": 106700000,
+          "version": "91.4458.0",
+          "buildVersion": null,
+          "date": "2026-06-06T15:29:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothPeripheralUsageDescription": "IDS_IOS_BLUETOOTH_USAGE_DESCRIPTION",
+          "NSCameraUsageDescription": "IDS_IOS_CAMERA_USAGE_DESCRIPTION",
+          "NSFaceIDUsageDescription": "IDS_IOS_FACE_ID_USAGE_DESCRIPTION",
+          "NSLocationWhenInUseUsageDescription": "IDS_IOS_LOCATION_WHEN_IN_USE_USAGE_DESCRIPTION",
+          "NSMicrophoneUsageDescription": "IDS_IOS_MICROPHONE_USAGE_DESCRIPTION",
+          "NSPhotoLibraryAddUsageDescription": "IDS_IOS_PHOTO_LIBRARY_ADD_USAGE_DESCRIPTION"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "They Are Coming Zombie Defense (MOD MENU)",
+      "bundleIdentifier": "dev.onhit.theyarecoming",
+      "marketplaceID": "",
+      "developerName": "DreamsDrive Limited",
+      "subtitle": "Survive endless zombie hordes with powerful mod menu features and unlocked upgrades.",
+      "localizedDescription": "They Are Coming: Zombie Defense (Mod Menu) is a modified version of the zombie survival shooter. Players battle increasingly difficult waves of zombies using weapons, traps, barricades, and equipment while trying to survive as long as possible. This modded build includes additional features such as a mod menu, free shopping, unlimited currency, no ads, and other gameplay-enhancing options depending on the release version. Compatible with modern iOS devices, it is intended for sandbox-style gameplay and experimentation beyond the standard game progression.",
+      "iconURL": "https://i.imgur.com/bsopMrD.png",
+      "tintColor": "#86946a",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://file.ipaomtk.com/they-are-coming-zombie-defense-ipa/They-Are-Coming-Zombie-IPAOMTK.COM.ipa",
+          "size": 48600000,
+          "version": "1.30.2",
+          "buildVersion": null,
+          "date": "2026-06-06T15:05:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "FNaF UCN",
+      "bundleIdentifier": "com.clickteam.ultimatecustomnight",
+      "marketplaceID": "",
+      "developerName": "Scott Cawthon",
+      "subtitle": "Free FNaF UCN.",
+      "localizedDescription": "The paid version of FNaF UCN but for free.",
+      "iconURL": "https://i.imgur.com/bDMz0ef.png",
+      "tintColor": "#877b77",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://dl.iosvizor.net/ultimate-custom-night/ultimate-custom-night-v1.0.6-iosvizor.ipa",
+          "size": 208200000,
+          "version": "1.0.6",
+          "buildVersion": null,
+          "date": "2026-06-06T14:58:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Five Nights at Freddys Sister Location",
+      "bundleIdentifier": "com.scottgames.sisterlocation",
+      "marketplaceID": "",
+      "developerName": "Scott Cawthon",
+      "subtitle": "Free FNaF SL.",
+      "localizedDescription": "The paid version of FNaF SL but for free.",
+      "iconURL": "https://i.imgur.com/e1BgNAU.png",
+      "tintColor": "#241cc4",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://dl.iosvizor.net/five-nights-at-freddys-sl/Five-Nights-at-Freddys-SL-v2-0-41.ipa",
+          "size": 289600000,
+          "version": "2.0.4",
+          "buildVersion": null,
+          "date": "2026-06-06T14:44:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "FNaF World",
+      "bundleIdentifier": "com.spriter.fnafworld",
+      "marketplaceID": "",
+      "developerName": "Scott Cawthon",
+      "subtitle": "FNaF World port for ios.",
+      "localizedDescription": "a port of FNaF World for ios.",
+      "iconURL": "https://i.imgur.com/eUHHtcE.png",
+      "tintColor": "#1951c4",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/fnaf-ios-ports-series/fnaf%20world.ipa",
+          "size": 353700000,
+          "version": "1.0",
+          "buildVersion": null,
+          "date": "2026-06-06T14:38:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocationWhenInUseUsageDescription": ""
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Five Nights at Freddys 4",
+      "bundleIdentifier": "com.scottgames.fnaf4",
+      "marketplaceID": "",
+      "developerName": "Scott Cawthon",
+      "subtitle": "Free FNaF 4.",
+      "localizedDescription": "The paid version of FNaF 4 but for free.",
+      "iconURL": "https://i.imgur.com/FGzs8LI.png",
+      "tintColor": "#c49c7c",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://dl.iosvizor.net/five-nights-at-freddys-4/Five-Nights-at-Freddys-4-v2-0-2.ipa",
+          "size": 43900000,
+          "version": "2.0.2",
+          "buildVersion": null,
+          "date": "2026-06-06T14:37:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Five Nights at Freddys 3",
+      "bundleIdentifier": "com.scottgames.fivenights3",
+      "marketplaceID": "",
+      "developerName": "Scott Cawthon",
+      "subtitle": "Free FNaF 3.",
+      "localizedDescription": "The paid version of FNaF 3 but for free.",
+      "iconURL": "https://i.imgur.com/eK3IpgH.png",
+      "tintColor": "#cc9424",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://dl.iosvizor.net/five-nights-at-freddys-3/Five-Nights-at-Freddys-3-v2-0-3.ipa",
+          "size": 65400000,
+          "version": "2.0.3",
+          "buildVersion": null,
+          "date": "2026-06-06T14:35:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Five Nights at Freddys 2",
+      "bundleIdentifier": "com.scottgames.fnaf2",
+      "marketplaceID": "",
+      "developerName": "Scott Cawthon",
+      "subtitle": "Free FNaF 2.",
+      "localizedDescription": "The paid version of FNaF 2 but for free.",
+      "iconURL": "https://i.imgur.com/u0xkmaN.png",
+      "tintColor": "#cc2c14",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://dl.iosvizor.net/five-nights-at-freddys-2/Five-Nights-at-Freddys-2-v2.0.5-iosvizor.com.ipa",
+          "size": 116700000,
+          "version": "2.0.5",
+          "buildVersion": null,
+          "date": "2026-06-06T14:33:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Five Nights at Freddys",
+      "bundleIdentifier": "com.scottgames.fivenights",
+      "marketplaceID": "",
+      "developerName": "Scott Cawthon",
+      "subtitle": "Free FNaF.",
+      "localizedDescription": "The paid version of FNaF but for free.",
+      "iconURL": "https://i.imgur.com/bzkM8WT.png",
+      "tintColor": "#d66528",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://dl.iosvizor.net/five-nights-at-freddys/Five-Nights-at-Freddys-v2.0.5-iosvizor.ipa",
+          "size": 108800000,
+          "version": "2.0.5",
+          "buildVersion": null,
+          "date": "2026-06-06T18:29:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Fortnite EZFN Season 12",
+      "bundleIdentifier": "dev.ezfn.FortniteS1261",
+      "marketplaceID": "",
+      "developerName": "EZFN Team",
+      "subtitle": "Revisit Fortnite Chapter 2 Season 2 with classic agents, locations, and gameplay.",
+      "localizedDescription": "Fortnite EZFN Season 12 is an unofficial community-made build that recreates the Chapter 2 Season 2 era of Fortnite, featuring iconic locations such as The Agency, The Shark, The Yacht, and The Grotto, along with the season’s spy-themed gameplay and loot pool. Designed for players who want to experience a classic version of Fortnite, it connects to EZFN's custom servers instead of official Epic Games services. Compatibility varies by build and platform, and the project is not affiliated with Epic Games.",
+      "iconURL": "https://i.imgur.com/n9t6p0s.png",
+      "tintColor": "#ac8c2c",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://ios.repressoh.it/ipa/c2_beta/12.61-CL-13498980_BETAv4.ipa",
+          "size": 131100000,
+          "version": "12.61.0",
+          "buildVersion": null,
+          "date": "2026-06-06T14:20:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocationWhenInUseUsageDescription": ">",
+          "NSCameraUsageDescription": "This application uses the camera for capturing photos",
+          "NSLocationAlwaysUsageDescription": "",
+          "NSPhotoLibraryAddUsageDescription": "This application stores screen recordings to your camera Roll.",
+          "NSMicrophoneUsageDescription": "This application uses the microphone for chatting with friends by voice."
         }
       },
       "patreon": {}
@@ -476,7 +932,7 @@
       "bundleIdentifier": "com.mojang.minecraftpe",
       "marketplaceID": "",
       "developerName": "Mojang",
-      "subtitle": "Free Minecraft",
+      "subtitle": "Free Minecraft.",
       "localizedDescription": "The paid version of Minecraft but for free.",
       "iconURL": "https://i.imgur.com/VSTLUjY.png",
       "tintColor": "#58ac3b",
@@ -509,39 +965,11 @@
       "patreon": {}
     },
     {
-      "name": "Prop Cash App",
-      "bundleIdentifier": "com.squareup.cash",
-      "marketplaceID": "",
-      "developerName": "ivglitched",
-      "subtitle": "Fake Cash App",
-      "localizedDescription": "A modified version of cash app where you can do what ever you want.",
-      "iconURL": "https://i.imgur.com/Qej26Th.png",
-      "tintColor": "#04d434",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://github.com/QxAngel/qxangel.github.io/releases/download/1/CashApp.ipa",
-          "size": 66500000,
-          "version": "4.5",
-          "buildVersion": null,
-          "date": "2026-06-06T23:39:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
       "name": "Geometry Dash",
       "bundleIdentifier": "com.robtop.geometryjump",
       "marketplaceID": "",
       "developerName": "RobTop Games",
-      "subtitle": "Free Geometry Dash",
+      "subtitle": "Free Geometry Dash.",
       "localizedDescription": "The paid version of Geometry Dash but for free.",
       "iconURL": "https://i.imgur.com/4ZSml80.png",
       "tintColor": "#fbcd05",
@@ -597,95 +1025,56 @@
       "patreon": {}
     },
     {
-      "name": "HD Flix",
-      "bundleIdentifier": "com.qxangel.dev",
+      "name": "Fortnite EZFN Season 7",
+      "bundleIdentifier": "40ccc2b10c984097",
       "marketplaceID": "",
-      "developerName": "HD Flix Team",
-      "subtitle": "A media browsing app for organizing and accessing video content sources.",
-      "localizedDescription": "HD Flix is a third-party iOS application designed for browsing and organizing video and media content from user-provided or external sources. Compatible with iOS 14.0 and later, it offers a simple interface for managing playlists, catalogs, and streaming links depending on configuration. The app is distributed outside the App Store and is intended for general media access use cases where content sources are supplied by the user or external services.",
-      "iconURL": "https://i.imgur.com/KzTRe8d.png",
-      "tintColor": "#d0041c",
+      "developerName": "EZFN Team",
+      "subtitle": "Experience Fortnite Chapter 1 Season 7 through community-hosted OG servers.",
+      "localizedDescription": "Fortnite EZFN Season 7 is an unofficial community-made build that recreates the Chapter 1 Season 7 era of Fortnite, featuring the winter-themed map, classic weapons, vehicles, cosmetics, and gameplay mechanics from that season. Designed for nostalgia-focused players, it connects to EZFN's custom servers rather than official Epic Games services and operates independently of the official Fortnite ecosystem. Compatibility varies by build and platform, and the project is not affiliated with Epic Games.",
+      "iconURL": "https://i.imgur.com/rCzxllu.png",
+      "tintColor": "#2784bc",
       "category": "other",
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/QxAngel/qxangel.github.io/releases/download/1/HDFlix.ipa",
-          "size": 14700000,
-          "version": "2.0",
+          "version": "7.40.2",
+          "date": "2025-09-17",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://cdn-test.ezfn.dev/IPAs/Fortnite+Release-7.40-CL-5011364-V2.ipa",
+          "size": 102400,
           "buildVersion": null,
-          "date": "2026-06-06T23:26:00-04:00",
-          "localizedDescription": null,
           "minOSVersion": null
         }
       ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSAdvertisingAttributionReportEndpoint": "https://postbacks-app.com",
-          "NSCameraUsageDescription": "",
-          "NSLocationWhenInUseUsageDescription": "",
-          "NSMicrophoneUsageDescription": "The application needs access to the microphone to recognize your voice to convert voice to title of the journey.",
-          "NSPhotoLibraryUsageDescription": "The application needs access to the photo library to create the journey.",
-          "NSSpeechRecognitionUsageDescription": "The application needs access to speech recognition to convert your voice to title of the journey.",
-          "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you."
+          "NSLocationAlwaysUsageDescription": "",
+          "NSLocationWhenInUseUsageDescription": "&gt;",
+          "NSMicrophoneUsageDescription": "Fortnite needs microphone access for voice chat."
         }
       },
       "patreon": {}
     },
     {
-      "name": "ESign",
-      "bundleIdentifier": "p3.xyz.yyyue.esign",
+      "name": "UTM SE",
+      "bundleIdentifier": "com.utmapp.UTM-SE",
       "marketplaceID": "",
-      "developerName": "ESign Team",
-      "subtitle": "Sign and install IPA files directly on iPhone or iPad.",
-      "localizedDescription": "ESign is an iOS sideloading utility that allows users to import, sign, and install IPA files directly on their device using certificates or provisioning profiles. Compatible with iOS 14.0 and later, it includes file management tools, app signing features, and installation options for third-party or modified apps without requiring a computer. Designed for advanced users and sideloading workflows, ESign provides a convenient way to manage and deploy iOS applications directly from the device.",
-      "iconURL": "https://i.imgur.com/YZHm9Cg.png",
-      "tintColor": "#4ca4f4",
+      "developerName": "Turing Software, LLC",
+      "subtitle": "Run virtual machines on iPhone and iPad without JIT support.",
+      "localizedDescription": "UTM SE (Slow Edition) is a lightweight version of UTM designed for iOS and iPadOS devices that do not support JIT. Compatible with iOS 14.0 and later, it allows users to run virtual machines using QEMU-based software emulation to launch operating systems like Linux and Windows. While performance is reduced compared to full UTM builds, it provides a convenient way to use desktop environments on mobile devices without requiring jailbreak or JIT-enabled tools.",
+      "iconURL": "https://i.imgur.com/QldcTEK.png",
+      "tintColor": "#3c7cec",
       "category": "other",
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://esign-ios.app/dl/esign_v5.0.2.ipa/",
-          "size": 7500000,
-          "version": "5.0.2",
-          "buildVersion": null,
-          "date": "2026-06-06T23:22:00-04:00",
+          "version": "4.7.5",
+          "date": "2026-06-07T00:04:00-04:00",
           "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSAppleMusicUsageDescription": "点允许，才能使用。",
-          "NSCameraUsageDescription": "授权后才能使用您的相机进行扫一扫",
-          "NSLocationWhenInUseUsageDescription": "开启定位服务，我们将根据您的位置,为您提供相关信息。在未经许可前不会开启定位服务，请放心使用。",
-          "NSPhotoLibraryAddUsageDescription": "授权后才能将图片保存到本地相册",
-          "NSPhotoLibraryUsageDescription": "授权后才能访问您的手机相册，您才能上传对应的图片",
-          "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you"
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "PostBox",
-      "bundleIdentifier": "com.simplycode.PostBox",
-      "marketplaceID": "",
-      "developerName": "PostBox Team",
-      "subtitle": "A jailbreak and iOS tweak news client for tracking repos, tools, and updates.",
-      "localizedDescription": "PostBox is an iOS application focused on jailbreak and sideloading news, providing updates about tools, tweaks, repositories, and community releases. Available through postbox.news, it acts as a centralized feed for jailbreak-related content, announcements, and downloads. Designed for enthusiasts in the iOS customization and sideloading community, PostBox helps users stay updated with the latest developments in jailbreak tools, IPA releases, and related projects.",
-      "iconURL": "https://i.imgur.com/7JQFhn2.png",
-      "tintColor": "#000000",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://github.com/PostBox-Team/PostBox-Releases/releases/download/beta-8.1/PostBox-0.8.1-beta.ipa",
-          "size": 8500000,
-          "version": "0.8.1",
+          "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.7.5/UTM-SE.ipa",
+          "size": 213900000,
           "buildVersion": null,
-          "date": "2026-06-07T03:19:00-04:00",
-          "localizedDescription": null,
           "minOSVersion": null
         }
       ],
@@ -693,30 +1082,30 @@
         "entitlements": [],
         "privacy": {
           "NSAccentColorName": "AccentColor",
-          "NSPhotoLibraryAddUsageDescription": "Please allow PostBox to save media into your photo library.",
-          "NSPhotoLibraryUsageDescription": "PostBox can save media (such as screenshots and banners) to your photo library."
+          "NSLocalNetworkUsageDescription": "The virtual machine may access the local network. UTM may also use the network to communicate with local servers.",
+          "NSMicrophoneUsageDescription": "Permission is required for any virtual machine to record from the microphone."
         }
       },
       "patreon": {}
     },
     {
-      "name": "EnsWilde",
-      "bundleIdentifier": "com.yangjiii.EnsWilde",
+      "name": "UTM",
+      "bundleIdentifier": "com.utmapp.UTM",
       "marketplaceID": "",
-      "developerName": "YangJiiii",
-      "subtitle": "Advanced iOS customization and system utility tools for supported devices.",
-      "localizedDescription": "EnsWilde is an advanced iOS utility focused on system customization and device management features for supported iOS versions. Compatible with iOS 15.0 and later (varies by build), it provides tools for modifying certain system behaviors, managing device configurations, and applying custom tweaks without requiring a full jailbreak. Designed for power users and developers, EnsWilde streamlines advanced iOS workflows through an on-device interface while maintaining compatibility with modern iOS security restrictions.",
-      "iconURL": "https://i.imgur.com/CeNlhxw.png",
-      "tintColor": "#c0683c",
+      "developerName": "Turing Software, LLC",
+      "subtitle": "Run Windows, Linux, and other operating systems on iPhone, iPad, and Mac.",
+      "localizedDescription": "UTM is a virtualization and emulation app for iOS, iPadOS, and macOS that lets users run full desktop operating systems such as Windows, Linux, and macOS in isolated virtual machines. Compatible with iOS 14.0 and later, it is built on QEMU and supports both emulation (for different CPU architectures) and virtualization on supported devices for improved performance. It is widely used for development, testing, and educational purposes, allowing users to experiment with different operating systems directly on Apple devices without modifying the system or requiring a jailbreak.",
+      "iconURL": "https://i.imgur.com/36wWIA6.png",
+      "tintColor": "#3c7cec",
       "category": "other",
       "screenshots": [],
       "versions": [
         {
-          "version": "3.1.3",
-          "date": "2026-06-06T22:42:00-04:00",
+          "version": "4.7.5",
+          "date": "2026-06-07T00:05:00-04:00",
           "localizedDescription": null,
-          "downloadURL": "https://github.com/YangJiiii/EnsWilde/releases/download/EnsWilde3.1.3/EnsWilde.ipa",
-          "size": 13600000,
+          "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.7.5/UTM.ipa",
+          "size": 130100000,
           "buildVersion": null,
           "minOSVersion": null
         }
@@ -724,29 +1113,34 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSAccentColorName": "AccentColor"
+          "NSAccentColorName": "AccentColor",
+          "NSLocalNetworkUsageDescription": "The virtual machine may access the local network. UTM may also use the network to communicate with local servers.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "UTM requests location data periodically to ensure the system keeps the background process active. Location data will never leave the device.",
+          "NSLocationAlwaysUsageDescription": "UTM requests location data periodically to ensure the system keeps the background process active. Location data will never leave the device.",
+          "NSLocationWhenInUseUsageDescription": "UTM requests location data periodically to ensure the system keeps the background process active. Location data will never leave the device.",
+          "NSMicrophoneUsageDescription": "Permission is required for any virtual machine to record from the microphone."
         }
       },
       "patreon": {}
     },
     {
-      "name": "FilzaJailedDS",
-      "bundleIdentifier": "com.tigisoftware.Filza",
+      "name": "Ksign",
+      "bundleIdentifier": "nya.asami.ksign",
       "marketplaceID": "",
-      "developerName": "FilzaJailedDS Team",
-      "subtitle": "Browse, manage, and organize files on iOS without a jailbreak.",
-      "localizedDescription": "FilzaJailedDS is a modified version of the popular Filza file manager designed to run on non-jailbroken iOS devices. Compatible with iOS 14.0 and later, it provides access to app containers, documents, downloads, and other user-accessible directories through a powerful file management interface. Featuring file editing, archive support, media previews, and file transfer tools, FilzaJailedDS brings many of the capabilities of a traditional iOS file manager to sideloaded environments without requiring full system access.",
-      "iconURL": "https://i.imgur.com/GRwODVv.png",
-      "tintColor": "#0cacd4",
+      "developerName": "Ksign Team",
+      "subtitle": "Sign and install IPA files directly on your iPhone or iPad.",
+      "localizedDescription": "Ksign is an iOS sideloading utility that allows users to sign, install, and manage IPA files directly on their device using certificates and provisioning profiles. Compatible with iOS 14.0 and later, it provides an easy-to-use interface for importing apps, applying signatures, and installing them without requiring a computer. Popular among sideloading enthusiasts, Ksign simplifies app management and makes it easier to deploy custom, development, and third-party applications on supported iOS devices.",
+      "iconURL": "https://i.imgur.com/GdPVi0K.png",
+      "tintColor": "#0491fc",
       "category": "other",
       "screenshots": [],
       "versions": [
         {
-          "version": "4.0",
-          "date": "2026-06-07T02:37:00-04:00",
+          "version": "1.6",
+          "date": "2026-06-07T00:08:00-04:00",
           "localizedDescription": null,
-          "downloadURL": "https://github.com/34306/FilzaJailedDS/releases/download/2.2/Filza.ipa",
-          "size": 14200000,
+          "downloadURL": "https://github.com/Nyasami/Ksign/releases/download/v1.6/Ksign.ipa",
+          "size": 16400000,
           "buildVersion": null,
           "minOSVersion": null
         }
@@ -754,99 +1148,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSPhotoLibraryUsageDescription": "To save photos and videos to photo library.",
-          "NSPhotoLibraryAddUsageDescription": "To save photos and videos to photo library.",
-          "NSFaceIDUsageDescription": "Filza uses Face ID to authenticate"
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Pocket Poster",
-      "bundleIdentifier": "com.lemin.Pocket-Poster",
-      "marketplaceID": "",
-      "developerName": "LeminLimez",
-      "subtitle": "Create and apply custom animated posters and lock screen experiences on iOS.",
-      "localizedDescription": "Pocket Poster is an iOS customization tool that allows users to create, import, and manage custom PosterBoard content, animated wallpapers, and personalized lock screen experiences. Compatible with iOS 16.0 and later on supported devices, it works alongside modern customization tools to bring unique visual effects and interactive designs to your device without requiring a traditional jailbreak. Designed for customization enthusiasts, Pocket Poster makes it easy to personalize your iPhone with custom posters, animations, and creative lock screen content.",
-      "iconURL": "https://i.imgur.com/abONTXL.png",
-      "tintColor": "#000000",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "3.0",
-          "date": "2026-06-07T14:26:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/leminlimez/Pocket-Poster/releases/download/v3.0/Pocket_Poster.ipa",
-          "size": 13700000,
-          "buildVersion": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "iTorrent",
-      "bundleIdentifier": "com.xitrix.iTorrent2",
-      "marketplaceID": "",
-      "developerName": "XITRIX",
-      "subtitle": "Download, manage, and share torrents directly on your iPhone or iPad.",
-      "localizedDescription": "iTorrent is an open-source BitTorrent client for iOS that allows users to download and manage torrent files and magnet links directly from their device. Compatible with iOS 11.0 and later, it includes support for background downloading, file management, media previewing, seeding, and file sharing through a native iOS interface. Designed for both casual and advanced users, iTorrent brings a full-featured torrent experience to iPhone and iPad without requiring a jailbreak.",
-      "iconURL": "https://i.imgur.com/wyPlbfO.png",
-      "tintColor": "#f39c6b",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "2.1.1",
-          "date": "2026-06-06T22:25:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/v2.1.1-1/iTorrent.ipa",
-          "size": 8400000,
-          "buildVersion": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSAccentColorName": "AccentColor"
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "StikDebug",
-      "bundleIdentifier": "com.stik.stikdebug",
-      "marketplaceID": "",
-      "developerName": "Stephen Bove",
-      "subtitle": "Enable JIT and access powerful debugging tools directly on iOS.",
-      "localizedDescription": "StikDebug is an advanced iOS developer utility that provides tools for enabling JIT compilation, viewing device logs, inspecting running processes, managing provisioning profiles, and troubleshooting sideloaded applications. Compatible with iOS 14.0 and later, it is designed for developers, emulator users, and power users who need greater visibility and control over their apps. With a focus on on-device debugging and diagnostics, StikDebug helps streamline development and testing workflows without requiring a jailbreak.",
-      "iconURL": "https://i.imgur.com/Lafl8Hj.png",
-      "tintColor": "#24ccfc",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "3.1.5",
-          "date": "2026-06-07T02:22:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/StephenDev0/StikDebug/releases/download/3.1.5/StikDebug-3.1.5.ipa",
-          "size": 11000000,
-          "buildVersion": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSLocalNetworkUsageDescription": "StikDebug needs access to devices on your local network so it can connect to the targets you add to the Device Library.",
-          "NSLocationAlwaysAndWhenInUseUsageDescription": "StikDebug uses location to stay running in the background and maintain your JIT connection.",
-          "NSLocationWhenInUseUsageDescription": "StikDebug uses location to stay running in the background and maintain your JIT connection."
+          "NSAccentColorName": "AccentColor",
+          "NSHumanReadableCopyright": "Copyright (c) 2025 Nagata Asami"
         }
       },
       "patreon": {}
@@ -912,23 +1215,58 @@
       "patreon": {}
     },
     {
-      "name": "Ksign",
-      "bundleIdentifier": "nya.asami.ksign",
+      "name": "ESign",
+      "bundleIdentifier": "p3.xyz.yyyue.esign",
       "marketplaceID": "",
-      "developerName": "Ksign Team",
-      "subtitle": "Sign and install IPA files directly on your iPhone or iPad.",
-      "localizedDescription": "Ksign is an iOS sideloading utility that allows users to sign, install, and manage IPA files directly on their device using certificates and provisioning profiles. Compatible with iOS 14.0 and later, it provides an easy-to-use interface for importing apps, applying signatures, and installing them without requiring a computer. Popular among sideloading enthusiasts, Ksign simplifies app management and makes it easier to deploy custom, development, and third-party applications on supported iOS devices.",
-      "iconURL": "https://i.imgur.com/GdPVi0K.png",
-      "tintColor": "#0491fc",
+      "developerName": "ESign Team",
+      "subtitle": "Sign and install IPA files directly on iPhone or iPad.",
+      "localizedDescription": "ESign is an iOS sideloading utility that allows users to import, sign, and install IPA files directly on their device using certificates or provisioning profiles. Compatible with iOS 14.0 and later, it includes file management tools, app signing features, and installation options for third-party or modified apps without requiring a computer. Designed for advanced users and sideloading workflows, ESign provides a convenient way to manage and deploy iOS applications directly from the device.",
+      "iconURL": "https://i.imgur.com/YZHm9Cg.png",
+      "tintColor": "#4ca4f4",
       "category": "other",
       "screenshots": [],
       "versions": [
         {
-          "version": "1.6",
-          "date": "2026-06-07T00:08:00-04:00",
+          "downloadURL": "https://esign-ios.app/dl/esign_v5.0.2.ipa/",
+          "size": 7500000,
+          "version": "5.0.2",
+          "buildVersion": null,
+          "date": "2026-06-06T23:22:00-04:00",
           "localizedDescription": null,
-          "downloadURL": "https://github.com/Nyasami/Ksign/releases/download/v1.6/Ksign.ipa",
-          "size": 16400000,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "点允许，才能使用。",
+          "NSCameraUsageDescription": "授权后才能使用您的相机进行扫一扫",
+          "NSLocationWhenInUseUsageDescription": "开启定位服务，我们将根据您的位置,为您提供相关信息。在未经许可前不会开启定位服务，请放心使用。",
+          "NSPhotoLibraryAddUsageDescription": "授权后才能将图片保存到本地相册",
+          "NSPhotoLibraryUsageDescription": "授权后才能访问您的手机相册，您才能上传对应的图片",
+          "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "StikDebug",
+      "bundleIdentifier": "com.stik.stikdebug",
+      "marketplaceID": "",
+      "developerName": "Stephen Bove",
+      "subtitle": "Enable JIT and access powerful debugging tools directly on iOS.",
+      "localizedDescription": "StikDebug is an advanced iOS developer utility that provides tools for enabling JIT compilation, viewing device logs, inspecting running processes, managing provisioning profiles, and troubleshooting sideloaded applications. Compatible with iOS 14.0 and later, it is designed for developers, emulator users, and power users who need greater visibility and control over their apps. With a focus on on-device debugging and diagnostics, StikDebug helps streamline development and testing workflows without requiring a jailbreak.",
+      "iconURL": "https://i.imgur.com/Lafl8Hj.png",
+      "tintColor": "#24ccfc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "3.1.5",
+          "date": "2026-06-07T02:22:00-04:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/StephenDev0/StikDebug/releases/download/3.1.5/StikDebug-3.1.5.ipa",
+          "size": 11000000,
           "buildVersion": null,
           "minOSVersion": null
         }
@@ -936,8 +1274,41 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSAccentColorName": "AccentColor",
-          "NSHumanReadableCopyright": "Copyright (c) 2025 Nagata Asami"
+          "NSLocalNetworkUsageDescription": "StikDebug needs access to devices on your local network so it can connect to the targets you add to the Device Library.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "StikDebug uses location to stay running in the background and maintain your JIT connection.",
+          "NSLocationWhenInUseUsageDescription": "StikDebug uses location to stay running in the background and maintain your JIT connection."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "FilzaJailedDS",
+      "bundleIdentifier": "com.tigisoftware.Filza",
+      "marketplaceID": "",
+      "developerName": "FilzaJailedDS Team",
+      "subtitle": "Browse, manage, and organize files on iOS without a jailbreak.",
+      "localizedDescription": "FilzaJailedDS is a modified version of the popular Filza file manager designed to run on non-jailbroken iOS devices. Compatible with iOS 14.0 and later, it provides access to app containers, documents, downloads, and other user-accessible directories through a powerful file management interface. Featuring file editing, archive support, media previews, and file transfer tools, FilzaJailedDS brings many of the capabilities of a traditional iOS file manager to sideloaded environments without requiring full system access.",
+      "iconURL": "https://i.imgur.com/GRwODVv.png",
+      "tintColor": "#0cacd4",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "4.0",
+          "date": "2026-06-07T02:37:00-04:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/34306/FilzaJailedDS/releases/download/2.2/Filza.ipa",
+          "size": 14200000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "To save photos and videos to photo library.",
+          "NSPhotoLibraryAddUsageDescription": "To save photos and videos to photo library.",
+          "NSFaceIDUsageDescription": "Filza uses Face ID to authenticate"
         }
       },
       "patreon": {}
@@ -1004,23 +1375,23 @@
       "patreon": {}
     },
     {
-      "name": "UTM",
-      "bundleIdentifier": "com.utmapp.UTM",
+      "name": "iTorrent",
+      "bundleIdentifier": "com.xitrix.iTorrent2",
       "marketplaceID": "",
-      "developerName": "Turing Software, LLC",
-      "subtitle": "Run Windows, Linux, and other operating systems on iPhone, iPad, and Mac.",
-      "localizedDescription": "UTM is a virtualization and emulation app for iOS, iPadOS, and macOS that lets users run full desktop operating systems such as Windows, Linux, and macOS in isolated virtual machines. Compatible with iOS 14.0 and later, it is built on QEMU and supports both emulation (for different CPU architectures) and virtualization on supported devices for improved performance. It is widely used for development, testing, and educational purposes, allowing users to experiment with different operating systems directly on Apple devices without modifying the system or requiring a jailbreak.",
-      "iconURL": "https://i.imgur.com/36wWIA6.png",
-      "tintColor": "#3c7cec",
+      "developerName": "XITRIX",
+      "subtitle": "Download, manage, and share torrents directly on your iPhone or iPad.",
+      "localizedDescription": "iTorrent is an open-source BitTorrent client for iOS that allows users to download and manage torrent files and magnet links directly from their device. Compatible with iOS 11.0 and later, it includes support for background downloading, file management, media previewing, seeding, and file sharing through a native iOS interface. Designed for both casual and advanced users, iTorrent brings a full-featured torrent experience to iPhone and iPad without requiring a jailbreak.",
+      "iconURL": "https://i.imgur.com/wyPlbfO.png",
+      "tintColor": "#f39c6b",
       "category": "other",
       "screenshots": [],
       "versions": [
         {
-          "version": "4.7.5",
-          "date": "2026-06-07T00:05:00-04:00",
+          "version": "2.1.1",
+          "date": "2026-06-06T22:25:00-04:00",
           "localizedDescription": null,
-          "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.7.5/UTM.ipa",
-          "size": 130100000,
+          "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/v2.1.1-1/iTorrent.ipa",
+          "size": 8400000,
           "buildVersion": null,
           "minOSVersion": null
         }
@@ -1028,34 +1399,29 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSAccentColorName": "AccentColor",
-          "NSLocalNetworkUsageDescription": "The virtual machine may access the local network. UTM may also use the network to communicate with local servers.",
-          "NSLocationAlwaysAndWhenInUseUsageDescription": "UTM requests location data periodically to ensure the system keeps the background process active. Location data will never leave the device.",
-          "NSLocationAlwaysUsageDescription": "UTM requests location data periodically to ensure the system keeps the background process active. Location data will never leave the device.",
-          "NSLocationWhenInUseUsageDescription": "UTM requests location data periodically to ensure the system keeps the background process active. Location data will never leave the device.",
-          "NSMicrophoneUsageDescription": "Permission is required for any virtual machine to record from the microphone."
+          "NSAccentColorName": "AccentColor"
         }
       },
       "patreon": {}
     },
     {
-      "name": "UTM SE",
-      "bundleIdentifier": "com.utmapp.UTM-SE",
+      "name": "EnsWilde",
+      "bundleIdentifier": "com.yangjiii.EnsWilde",
       "marketplaceID": "",
-      "developerName": "Turing Software, LLC",
-      "subtitle": "Run virtual machines on iPhone and iPad without JIT support.",
-      "localizedDescription": "UTM SE (Slow Edition) is a lightweight version of UTM designed for iOS and iPadOS devices that do not support JIT. Compatible with iOS 14.0 and later, it allows users to run virtual machines using QEMU-based software emulation to launch operating systems like Linux and Windows. While performance is reduced compared to full UTM builds, it provides a convenient way to use desktop environments on mobile devices without requiring jailbreak or JIT-enabled tools.",
-      "iconURL": "https://i.imgur.com/QldcTEK.png",
-      "tintColor": "#3c7cec",
+      "developerName": "YangJiiii",
+      "subtitle": "Advanced iOS customization and system utility tools for supported devices.",
+      "localizedDescription": "EnsWilde is an advanced iOS utility focused on system customization and device management features for supported iOS versions. Compatible with iOS 15.0 and later (varies by build), it provides tools for modifying certain system behaviors, managing device configurations, and applying custom tweaks without requiring a full jailbreak. Designed for power users and developers, EnsWilde streamlines advanced iOS workflows through an on-device interface while maintaining compatibility with modern iOS security restrictions.",
+      "iconURL": "https://i.imgur.com/CeNlhxw.png",
+      "tintColor": "#c0683c",
       "category": "other",
       "screenshots": [],
       "versions": [
         {
-          "version": "4.7.5",
-          "date": "2026-06-07T00:04:00-04:00",
+          "version": "3.1.3",
+          "date": "2026-06-06T22:42:00-04:00",
           "localizedDescription": null,
-          "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.7.5/UTM-SE.ipa",
-          "size": 213900000,
+          "downloadURL": "https://github.com/YangJiiii/EnsWilde/releases/download/EnsWilde3.1.3/EnsWilde.ipa",
+          "size": 13600000,
           "buildVersion": null,
           "minOSVersion": null
         }
@@ -1063,10 +1429,36 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSAccentColorName": "AccentColor",
-          "NSLocalNetworkUsageDescription": "The virtual machine may access the local network. UTM may also use the network to communicate with local servers.",
-          "NSMicrophoneUsageDescription": "Permission is required for any virtual machine to record from the microphone."
+          "NSAccentColorName": "AccentColor"
         }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Pocket Poster",
+      "bundleIdentifier": "com.lemin.Pocket-Poster",
+      "marketplaceID": "",
+      "developerName": "LeminLimez",
+      "subtitle": "Create and apply custom animated posters and lock screen experiences on iOS.",
+      "localizedDescription": "Pocket Poster is an iOS customization tool that allows users to create, import, and manage custom PosterBoard content, animated wallpapers, and personalized lock screen experiences. Compatible with iOS 16.0 and later on supported devices, it works alongside modern customization tools to bring unique visual effects and interactive designs to your device without requiring a traditional jailbreak. Designed for customization enthusiasts, Pocket Poster makes it easy to personalize your iPhone with custom posters, animations, and creative lock screen content.",
+      "iconURL": "https://i.imgur.com/abONTXL.png",
+      "tintColor": "#000000",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "3.0",
+          "date": "2026-06-07T14:26:00-04:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/leminlimez/Pocket-Poster/releases/download/v3.0/Pocket_Poster.ipa",
+          "size": 13700000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
       },
       "patreon": {}
     },
@@ -1109,33 +1501,464 @@
       "patreon": {}
     },
     {
-      "name": "Fortnite - EZFN",
-      "bundleIdentifier": "40ccc2b10c984097",
+      "name": "Rewound",
+      "bundleIdentifier": "com.louisanslow.record",
       "marketplaceID": "",
-      "developerName": "EZFN Team",
-      "subtitle": "Relive classic Fortnite seasons with OG gameplay on custom servers.",
-      "localizedDescription": "Fortnite – EZFN is an unofficial community project that recreates older versions of Fortnite, allowing players to experience classic Chapter 1 seasons, maps, and mechanics through private servers. It uses EZFN accounts instead of Epic Games accounts and is designed for nostalgia and experimental gameplay. Compatible with PC and mobile builds depending on the release, it is not affiliated with Epic Games and operates separately from the official Fortnite servers.",
-      "iconURL": "https://i.imgur.com/rCzxllu.png",
-      "tintColor": "#2784bc",
+      "developerName": "Louis Anslow",
+      "subtitle": "A customizable music player that brings classic iPod-style controls to modern iOS.",
+      "localizedDescription": "Rewound is an iOS music player app that lets users customize their playback experience with retro-inspired interfaces, including classic iPod click wheel controls. Compatible with iOS 11.0 and later, it works by integrating with the user’s existing music library and Apple Music playback while applying custom skins and control layouts. Designed for nostalgia and personalization, Rewound focuses on recreating the feel of older Apple music devices with modern functionality.",
+      "iconURL": "https://i.imgur.com/DbT27ud.png",
+      "tintColor": "#7f7f7f",
       "category": "other",
       "screenshots": [],
       "versions": [
         {
-          "version": "7.40.2",
-          "date": "2025-09-17",
-          "localizedDescription": "New release!",
-          "downloadURL": "https://cdn-test.ezfn.dev/IPAs/Fortnite+Release-7.40-CL-5011364-V2.ipa",
-          "size": 102400,
+          "downloadURL": "https://archive.org/download/rewound/Rewound_classic_fixed.zip/decrypted-app.ipa",
+          "size": 5600000,
+          "version": "2019.7",
           "buildVersion": null,
+          "date": "2026-06-07T00:38:00-04:00",
+          "localizedDescription": null,
           "minOSVersion": null
         }
       ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSLocationAlwaysUsageDescription": "",
-          "NSLocationWhenInUseUsageDescription": "&gt;",
-          "NSMicrophoneUsageDescription": "Fortnite needs microphone access for voice chat."
+          "NSPhotoLibraryUsageDescription": "Rewound needs access to your library to get the media files.",
+          "NSAppleMusicUsageDescription": "Rewound needs access to your music library to control your music."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "PostBox",
+      "bundleIdentifier": "com.simplycode.PostBox",
+      "marketplaceID": "",
+      "developerName": "PostBox Team",
+      "subtitle": "A jailbreak and iOS tweak news client for tracking repos, tools, and updates.",
+      "localizedDescription": "PostBox is an iOS application focused on jailbreak and sideloading news, providing updates about tools, tweaks, repositories, and community releases. Available through postbox.news, it acts as a centralized feed for jailbreak-related content, announcements, and downloads. Designed for enthusiasts in the iOS customization and sideloading community, PostBox helps users stay updated with the latest developments in jailbreak tools, IPA releases, and related projects.",
+      "iconURL": "https://i.imgur.com/7JQFhn2.png",
+      "tintColor": "#000000",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/PostBox-Team/PostBox-Releases/releases/download/beta-8.1/PostBox-0.8.1-beta.ipa",
+          "size": 8500000,
+          "version": "0.8.1",
+          "buildVersion": null,
+          "date": "2026-06-07T03:19:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAccentColorName": "AccentColor",
+          "NSPhotoLibraryAddUsageDescription": "Please allow PostBox to save media into your photo library.",
+          "NSPhotoLibraryUsageDescription": "PostBox can save media (such as screenshots and banners) to your photo library."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Taurine",
+      "bundleIdentifier": "org.coolstar.taurine",
+      "marketplaceID": "",
+      "developerName": "The Odyssey Team",
+      "subtitle": "A fast and stable jailbreak for iOS 14 devices with full tweak support.",
+      "localizedDescription": "Taurine is a semi-untethered jailbreak for iOS 14.0–14.3 developed by The Odyssey Team. Built on the Procursus bootstrap, it provides root access to compatible iPhones and iPads, allowing users to install jailbreak tweaks, themes, and system modifications through package managers like Sileo. Taurine focuses on performance, stability, and battery efficiency while offering a modern alternative to other iOS 14 jailbreak tools.",
+      "iconURL": "https://i.imgur.com/nZr2zmW.png",
+      "tintColor": "#c03c64",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.7-3/Taurine.1.1.7-3.ipa",
+          "size": 32200000,
+          "version": "1.1.7-3",
+          "buildVersion": null,
+          "date": "2026-06-06T15:48:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAccentColorName": "AccentColor"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Odyssey",
+      "bundleIdentifier": "org.coolstar.odyssey",
+      "marketplaceID": "",
+      "developerName": "The Odyssey Team",
+      "subtitle": "A modern iOS jailbreak for devices running iOS 13 with advanced tweak support.",
+      "localizedDescription": "Odyssey is a semi-untethered iOS jailbreak developed by The Odyssey Team, built on the Procursus bootstrap and designed for stability and performance. Compatible with iOS 13.0–13.7, it uses the exploits in those versions to provide root access and allow installation of jailbreak tweaks, themes, and system modifications through package managers like Sileo. Odyssey focuses on speed, security, and a modern user experience compared to older jailbreak tools, while remaining fully open-source.",
+      "iconURL": "https://i.imgur.com/N15Xtqa.png",
+      "tintColor": "#9510ee",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/Odyssey-Team/Odyssey/releases/download/v1.4.3/Odyssey-1.4.3.ipa",
+          "size": 27200000,
+          "version": "1.4.3",
+          "buildVersion": null,
+          "date": "2026-06-06T15:47:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "For selecting a custom theme image"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "unc0ver",
+      "bundleIdentifier": "science.xnu.undecimus",
+      "marketplaceID": "",
+      "developerName": "Pwn20wnd",
+      "subtitle": "A powerful iOS jailbreak tool supporting a wide range of iOS versions.",
+      "localizedDescription": "unc0ver is a semi-untethered iOS jailbreak developed by Pwn20wnd that allows users to gain root access on compatible devices, enabling the installation of jailbreak tweaks, themes, and system-level modifications. It supports multiple iOS versions depending on the device and exploit availability, and typically uses tools like Cydia or Sileo for package management. unc0ver is designed to be stable and user-friendly while providing deep system access for customization and development purposes.",
+      "iconURL": "https://i.imgur.com/4IW4ALD.png",
+      "tintColor": "#3636c8",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
+          "size": 54500000,
+          "version": "8.0.2",
+          "buildVersion": null,
+          "date": "2026-06-06T15:53:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Dopamine",
+      "bundleIdentifier": "com.opa334.Dopamine",
+      "marketplaceID": "",
+      "developerName": "opa334",
+      "subtitle": "A modern rootless jailbreak for iOS 15 and iOS 16 devices with strong stability and tweak support.",
+      "localizedDescription": "Dopamine is a semi-untethered, rootless iOS jailbreak developed by opa334 that allows users to install jailbreak tweaks and customize their device without modifying the system root filesystem. It uses modern exploit chains and the Procursus bootstrap to provide a stable and efficient jailbreak experience. Dopamine is designed for iOS 15.0–15.4.1 and iOS 16.0–16.6.1 (device-dependent support), and focuses on safety, performance, and long-term maintainability compared to older jailbreak methods.",
+      "iconURL": "https://i.imgur.com/DRqVomi.png",
+      "tintColor": "#000000",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.5b4/Dopamine.ipa",
+          "size": 53800000,
+          "version": "2.4.99",
+          "buildVersion": null,
+          "date": "2026-06-06T16:01:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Dopamine needs to access your photo library to support picking a boot logo"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Chimera",
+      "bundleIdentifier": "com.electrateam.chimera",
+      "marketplaceID": "",
+      "developerName": "Electra Team",
+      "subtitle": "A lightweight jailbreak for iOS 12 with Sileo support and modern stability.",
+      "localizedDescription": "Chimera is a semi-untethered jailbreak developed by the Electra Team for iOS 12 devices. It provides root access on compatible iPhones and iPads, allowing users to install tweaks, themes, and system modifications through the Sileo package manager. Built with a focus on speed and stability, Chimera uses modern jailbreak components compared to older tools and avoids modifying core system files directly where possible.",
+      "iconURL": "https://i.imgur.com/S0LXd5F.png",
+      "tintColor": "#10c2ee",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/coolstar/chimera-ipas/releases/download/1.6.4/1.6.4.ipa",
+          "size": 90100000,
+          "version": "1.6.4",
+          "buildVersion": null,
+          "date": "2026-06-06T15:58:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "daibutsu",
+      "bundleIdentifier": "com.sakuRdev.daibutsu",
+      "marketplaceID": "",
+      "developerName": "Luca Todesco",
+      "subtitle": "A semi-untethered jailbreak for older 32-bit iOS devices.",
+      "localizedDescription": "daibutsu is a semi-untethered jailbreak designed for older 32-bit iOS devices, primarily targeting iOS 9.x firmware. It allows users to gain root access on compatible devices, enabling installation of jailbreak tweaks and system modifications through traditional package managers like Cydia. daibutsu was created to provide a stable jailbreak solution for legacy devices that are no longer supported by modern jailbreak tools.",
+      "iconURL": "https://i.imgur.com/21hQFOO.png",
+      "tintColor": "#000000",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/kok3shidoll/daibutsu/releases/download/1.0/daibutsu_v1.0b3.ipa",
+          "size": 7900000,
+          "version": "1.0b3",
+          "buildVersion": null,
+          "date": "2026-06-06T16:04:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Electra",
+      "bundleIdentifier": "org.coolstar.electra1141",
+      "marketplaceID": "",
+      "developerName": "Electra Team",
+      "subtitle": "A semi-untethered jailbreak for iOS 11 with early modern tweak support.",
+      "localizedDescription": "Electra is a semi-untethered iOS jailbreak developed by the Electra Team that targets iOS 11 devices. It allows users to gain root access on compatible iPhones and iPads, enabling installation of jailbreak tweaks, themes, and system modifications through package managers such as Cydia or Sileo (depending on the build). Electra was one of the early modern jailbreaks to introduce improved stability and updated jailbreak frameworks for iOS 11.",
+      "iconURL": "https://i.imgur.com/4WvlDuB.png",
+      "tintColor": "#6b7f93",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/coolstar/electra-ipas/raw/master/Electra1141-2.0.ipa",
+          "size": 52200000,
+          "version": "2.0",
+          "buildVersion": null,
+          "date": "2026-06-06T16:07:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": " EverPwnage",
+      "bundleIdentifier": "com.lukezgd.everpwnage",
+      "marketplaceID": "",
+      "developerName": "iBSparkes",
+      "subtitle": "A legacy jailbreak tool for older 64-bit iOS devices with tweak support.",
+      "localizedDescription": "EverPwnage is a semi-untethered jailbreak developed for older 64-bit iOS devices, designed to provide persistent jailbreak capabilities across reboots. It allows users to install jailbreak tweaks, themes, and system modifications using traditional package managers like Cydia. EverPwnage is mainly intended for legacy devices and older iOS versions, focusing on maintaining jailbreak access for unsupported hardware and firmware.",
+      "iconURL": "https://i.imgur.com/o6qmGdA.png",
+      "tintColor": "#000000",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/LukeZGD/EverPwnage/releases/download/v2.0.1/EverPwnage-v2.0.1.ipa",
+          "size": 23100000,
+          "version": "2.0.1",
+          "buildVersion": null,
+          "date": "2026-06-06T16:09:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "p0laris",
+      "bundleIdentifier": "backwithavengeance",
+      "marketplaceID": "",
+      "developerName": "GeoSn0w",
+      "subtitle": "A modern jailbreak for iOS 9–10 devices focused on stability and tweak support.",
+      "localizedDescription": "p0laris is a semi-untethered jailbreak developed by GeoSn0w for select 64-bit iOS devices running older firmware. It provides root access that allows installation of jailbreak tweaks, themes, and system modifications through package managers like Cydia. Designed as a stable alternative for legacy devices, p0laris focuses on maintaining usability and compatibility on older iOS versions where modern jailbreak tools are no longer supported.",
+      "iconURL": "https://i.imgur.com/UGYJvZz.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/p0larisdev/app/releases/download/v1.0.1/p0laris-Release.ipa",
+          "size": 16800000,
+          "version": "1.0",
+          "buildVersion": null,
+          "date": "2026-06-06T16:11:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Phoenix",
+      "bundleIdentifier": "supplies.wall.phoenix",
+      "marketplaceID": "",
+      "developerName": "siguza",
+      "subtitle": "A lightweight jailbreak for 32-bit devices running iOS 9.3.5–9.3.6.",
+      "localizedDescription": "Phoenix is a semi-untethered jailbreak designed for 32-bit iOS devices running iOS 9.3.5 and 9.3.6. It allows users to gain root access on compatible devices, enabling installation of jailbreak tweaks and system modifications through Cydia. Phoenix was created to provide a simple and reliable jailbreak solution for older hardware that cannot use modern jailbreak tools.",
+      "iconURL": "https://i.imgur.com/KP1078i.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://phoenixpwn.com/download.php",
+          "size": 23400000,
+          "version": "6.0",
+          "buildVersion": null,
+          "date": "2026-06-06T16:13:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "rootlessJB4",
+      "bundleIdentifier": "org.brandonplank.rootlessJB",
+      "marketplaceID": "",
+      "developerName": "Jake James",
+      "subtitle": "A rootless jailbreak for iOS 12 focused on experimentation and tweak development.",
+      "localizedDescription": "rootlessJB4 is a semi-untethered, rootless jailbreak developed by Jake James for iOS 12 devices. It provides limited rootless access to the filesystem, allowing users to run jailbreak tweaks and test modifications without fully patching the system root. Designed primarily for developers and experimentation, rootlessJB4 focuses on stability and research-oriented jailbreak development rather than full daily-driver customization.",
+      "iconURL": "https://i.imgur.com/H8UH1kb.png",
+      "tintColor": "#6c9ccc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/brandonplank/rootlessJB4/releases/download/2.1/rootlessJB4.ipa",
+          "size": 38200000,
+          "version": "2.1",
+          "buildVersion": null,
+          "date": "2026-06-06T16:14:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "socket",
+      "bundleIdentifier": "com.staturnz.socket",
+      "marketplaceID": "",
+      "developerName": "Kanna",
+      "subtitle": "A lightweight jailbreak utility for iOS with focus on stability and tweak support.",
+      "localizedDescription": "Socket is a semi-untethered jailbreak for iOS 10.0 – iOS 10.3.4 that allows users to gain root access on compatible devices. It enables installation of jailbreak tweaks, themes, and system modifications through package managers such as Cydia or Sileo depending on setup. Designed to be lightweight and stable, Socket focuses on providing a smooth jailbreak experience for older supported devices while maintaining simplicity and reliability.",
+      "iconURL": "https://i.imgur.com/gFd9iu8.png",
+      "tintColor": "#3e23db",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/staturnzz/socket/releases/download/v1.2.2/socket.ipa",
+          "size": 17400000,
+          "version": "1.2.2",
+          "buildVersion": null,
+          "date": "2026-06-06T16:16:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "wtfis",
+      "bundleIdentifier": "com.therealclarity.wtfis",
+      "marketplaceID": "",
+      "developerName": "wtfis Team",
+      "subtitle": "A lightweight jailbreak for older iOS devices focused on stability and tweak support.",
+      "localizedDescription": "wtfis is a semi-untethered jailbreak for iOS 10.0 – iOS 10.3.3 that allows users to gain root access on compatible 64-bit devices. It enables installation of jailbreak tweaks, themes, and system modifications through package managers like Cydia. Designed as a simple and stable jailbreak solution for older firmware, wtfis focuses on reliability and ease of use for legacy iOS devices.",
+      "iconURL": "https://i.imgur.com/Cf2pHze.png",
+      "tintColor": "#4b6eb3",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/TheRealClarity/wtfis/releases/download/1.0-b2/wtfis-1.0-b2.ipa",
+          "size": 10400000,
+          "version": "1.0~b1",
+          "buildVersion": null,
+          "date": "2026-06-06T16:19:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "TrollInstallerX",
+      "bundleIdentifier": "com.Alfie.TrollInstallerX",
+      "marketplaceID": "",
+      "developerName": "opa334",
+      "subtitle": "Install TrollStore on supported iOS devices using CoreTrust exploits.",
+      "localizedDescription": "TrollInstallerX is an iOS utility used to install TrollStore on compatible devices by leveraging CoreTrust-related exploits. Compatible with specific iOS versions depending on device and exploit support (typically iOS 14.0 – iOS 15.4.1, and select iOS 15.5–15.7.x builds depending on method), it allows users to permanently sign and install IPA files without expiration. Designed for advanced users, TrollInstallerX simplifies the process of gaining TrollStore persistence on supported firmware.",
+      "iconURL": "https://i.imgur.com/wK4KC72.png",
+      "tintColor": "#04b9fc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.3/TrollInstallerX.ipa",
+          "size": 6900000,
+          "version": "1.0.3",
+          "buildVersion": null,
+          "date": "2026-06-06T16:23:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "Unsandboxing with MacDirtyCow"
         }
       },
       "patreon": {}
