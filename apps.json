@@ -3,8 +3,8 @@
   "subtitle": "One of the best app stores!",
   "description": "",
   "iconURL": "https://i.imgur.com/BT6lHPF.png",
-  "website": "",
-  "patreonURL": "",
+  "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com/altstudio",
   "tintColor": "#000000",
   "featuredApps": [],
   "apps": [
@@ -25,7 +25,7 @@
           "size": 2100000,
           "version": "4.3",
           "buildVersion": null,
-          "date": "2026-06-06T16:26:00-04:00",
+          "date": "2026-06-06T20:26:00-04:00",
           "localizedDescription": null,
           "minOSVersion": null
         }
@@ -53,7 +53,7 @@
           "size": 37400000,
           "version": "2.0.2",
           "buildVersion": null,
-          "date": "2026-06-06T16:22:00-04:00",
+          "date": "2026-06-06T20:22:00-04:00",
           "localizedDescription": null,
           "minOSVersion": null
         }
@@ -83,7 +83,7 @@
           "size": 111200000,
           "version": "9.1.48",
           "buildVersion": null,
-          "date": "2026-06-06T15:50:00-04:00",
+          "date": "2026-06-06T19:50:00-04:00",
           "localizedDescription": null,
           "minOSVersion": null
         }
@@ -128,7 +128,7 @@
           "size": 38800000,
           "version": "1.4.2",
           "buildVersion": null,
-          "date": "2026-06-06T15:39:00-04:00",
+          "date": "2026-06-06T19:39:00-04:00",
           "localizedDescription": null,
           "minOSVersion": null
         }
@@ -159,7 +159,7 @@
           "size": 500000,
           "version": "1.2",
           "buildVersion": null,
-          "date": "2026-06-06T15:35:00-04:00",
+          "date": "2026-06-06T19:35:00-04:00",
           "localizedDescription": null,
           "minOSVersion": null
         }
@@ -189,7 +189,7 @@
           "size": 46300000,
           "version": "2.0.1",
           "buildVersion": null,
-          "date": "2026-06-06T15:33:00-04:00",
+          "date": "2026-06-06T19:33:00-04:00",
           "localizedDescription": null,
           "minOSVersion": null
         }
@@ -217,7 +217,7 @@
           "size": 106700000,
           "version": "91.4458.0",
           "buildVersion": null,
-          "date": "2026-06-06T15:29:00-04:00",
+          "date": "2026-06-06T19:29:00-04:00",
           "localizedDescription": null,
           "minOSVersion": null
         }
@@ -252,7 +252,7 @@
           "size": 48600000,
           "version": "1.30.2",
           "buildVersion": null,
-          "date": "2026-06-06T15:05:00-04:00",
+          "date": "2026-06-06T19:05:00-04:00",
           "localizedDescription": null,
           "minOSVersion": null
         }
@@ -280,7 +280,7 @@
           "size": 208200000,
           "version": "1.0.6",
           "buildVersion": null,
-          "date": "2026-06-06T14:58:00-04:00",
+          "date": "2026-06-06T18:58:00-04:00",
           "localizedDescription": null,
           "minOSVersion": null
         }
@@ -308,7 +308,7 @@
           "size": 289600000,
           "version": "2.0.4",
           "buildVersion": null,
-          "date": "2026-06-06T14:44:00-04:00",
+          "date": "2026-06-06T18:44:00-04:00",
           "localizedDescription": null,
           "minOSVersion": null
         }
@@ -336,7 +336,7 @@
           "size": 353700000,
           "version": "1.0",
           "buildVersion": null,
-          "date": "2026-06-06T14:38:00-04:00",
+          "date": "2026-06-06T18:38:00-04:00",
           "localizedDescription": null,
           "minOSVersion": null
         }
@@ -366,7 +366,7 @@
           "size": 43900000,
           "version": "2.0.2",
           "buildVersion": null,
-          "date": "2026-06-06T14:37:00-04:00",
+          "date": "2026-06-06T18:37:00-04:00",
           "localizedDescription": null,
           "minOSVersion": null
         }
@@ -394,7 +394,7 @@
           "size": 65400000,
           "version": "2.0.3",
           "buildVersion": null,
-          "date": "2026-06-06T14:35:00-04:00",
+          "date": "2026-06-06T18:35:00-04:00",
           "localizedDescription": null,
           "minOSVersion": null
         }
@@ -422,7 +422,7 @@
           "size": 116700000,
           "version": "2.0.5",
           "buildVersion": null,
-          "date": "2026-06-06T14:33:00-04:00",
+          "date": "2026-06-06T18:33:00-04:00",
           "localizedDescription": null,
           "minOSVersion": null
         }
@@ -450,7 +450,7 @@
           "size": 108800000,
           "version": "2.0.5",
           "buildVersion": null,
-          "date": "2026-06-06T18:29:00-04:00",
+          "date": "2026-06-06T22:29:00-04:00",
           "localizedDescription": null,
           "minOSVersion": null
         }
@@ -478,7 +478,7 @@
           "size": 131100000,
           "version": "12.61.0",
           "buildVersion": null,
-          "date": "2026-06-06T14:20:00-04:00",
+          "date": "2026-06-06T18:20:00-04:00",
           "localizedDescription": null,
           "minOSVersion": null
         }
@@ -944,7 +944,7 @@
           "size": 620800000,
           "version": "1.26.13",
           "buildVersion": null,
-          "date": "2026-06-06T23:45:00-04:00",
+          "date": "2026-06-07T03:45:00-04:00",
           "localizedDescription": null,
           "minOSVersion": null
         }
@@ -981,7 +981,7 @@
           "size": 145300000,
           "version": "2.208",
           "buildVersion": null,
-          "date": "2026-06-06T23:36:00-04:00",
+          "date": "2026-06-07T03:36:00-04:00",
           "localizedDescription": null,
           "minOSVersion": null
         }
@@ -1009,7 +1009,7 @@
           "size": 13200000,
           "version": "1.5.4",
           "buildVersion": null,
-          "date": "2026-06-06T23:34:00-04:00",
+          "date": "2026-06-07T03:34:00-04:00",
           "localizedDescription": null,
           "minOSVersion": null
         }
@@ -1038,10 +1038,10 @@
       "versions": [
         {
           "version": "7.40.2",
-          "date": "2025-09-17",
+          "date": "2025-09-07T00:00:00-04:00",
           "localizedDescription": "New release!",
           "downloadURL": "https://cdn-test.ezfn.dev/IPAs/Fortnite+Release-7.40-CL-5011364-V2.ipa",
-          "size": 102400,
+          "size": 100000,
           "buildVersion": null,
           "minOSVersion": null
         }
@@ -1070,7 +1070,7 @@
       "versions": [
         {
           "version": "4.7.5",
-          "date": "2026-06-07T00:04:00-04:00",
+          "date": "2026-06-06T04:04:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.7.5/UTM-SE.ipa",
           "size": 213900000,
@@ -1102,7 +1102,7 @@
       "versions": [
         {
           "version": "4.7.5",
-          "date": "2026-06-07T00:05:00-04:00",
+          "date": "2026-06-06T16:34:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.7.5/UTM.ipa",
           "size": 130100000,
@@ -1137,7 +1137,7 @@
       "versions": [
         {
           "version": "1.6",
-          "date": "2026-06-07T00:08:00-04:00",
+          "date": "2026-06-06T04:08:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/Nyasami/Ksign/releases/download/v1.6/Ksign.ipa",
           "size": 16400000,
@@ -1168,7 +1168,7 @@
       "versions": [
         {
           "version": "2.8.2",
-          "date": "2026-06-07T00:11:00-04:00",
+          "date": "2026-06-06T04:11:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/claration/Feather/releases/download/v2.8.2/Feather.ipa",
           "size": 14200000,
@@ -1198,7 +1198,7 @@
       "versions": [
         {
           "version": "0.6.3",
-          "date": "2026-06-07T00:10:00-04:00",
+          "date": "2026-06-06T04:10:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.6.3/SideStore.ipa",
           "size": 28600000,
@@ -1231,7 +1231,7 @@
           "size": 7500000,
           "version": "5.0.2",
           "buildVersion": null,
-          "date": "2026-06-06T23:22:00-04:00",
+          "date": "2026-06-07T03:22:00-04:00",
           "localizedDescription": null,
           "minOSVersion": null
         }
@@ -1263,7 +1263,7 @@
       "versions": [
         {
           "version": "3.1.5",
-          "date": "2026-06-07T02:22:00-04:00",
+          "date": "2026-06-06T06:22:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/StephenDev0/StikDebug/releases/download/3.1.5/StikDebug-3.1.5.ipa",
           "size": 11000000,
@@ -1295,7 +1295,7 @@
       "versions": [
         {
           "version": "4.0",
-          "date": "2026-06-07T02:37:00-04:00",
+          "date": "2026-06-06T06:37:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/34306/FilzaJailedDS/releases/download/2.2/Filza.ipa",
           "size": 14200000,
@@ -1327,7 +1327,7 @@
       "versions": [
         {
           "version": "3.7.2",
-          "date": "2026-06-07T00:06:00-04:00",
+          "date": "2026-06-06T04:06:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.7.2/LiveContainer.ipa",
           "size": 4500000,
@@ -1388,7 +1388,7 @@
       "versions": [
         {
           "version": "2.1.1",
-          "date": "2026-06-06T22:25:00-04:00",
+          "date": "2026-06-07T02:25:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/v2.1.1-1/iTorrent.ipa",
           "size": 8400000,
@@ -1418,7 +1418,7 @@
       "versions": [
         {
           "version": "3.1.3",
-          "date": "2026-06-06T22:42:00-04:00",
+          "date": "2026-06-07T02:42:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/YangJiiii/EnsWilde/releases/download/EnsWilde3.1.3/EnsWilde.ipa",
           "size": 13600000,
@@ -1448,7 +1448,7 @@
       "versions": [
         {
           "version": "3.0",
-          "date": "2026-06-07T14:26:00-04:00",
+          "date": "2026-06-06T22:26:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/leminlimez/Pocket-Poster/releases/download/v3.0/Pocket_Poster.ipa",
           "size": 13700000,
@@ -1476,7 +1476,7 @@
       "versions": [
         {
           "version": "1.0",
-          "date": "2026-06-07T00:02:00-04:00",
+          "date": "2026-06-06T04:02:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/zzanehip/The-OldOS-Project/releases/download/2.0_7/OldOS.ipa",
           "size": 83200000,
@@ -1517,7 +1517,7 @@
           "size": 5600000,
           "version": "2019.7",
           "buildVersion": null,
-          "date": "2026-06-07T00:38:00-04:00",
+          "date": "2026-06-06T04:38:00-04:00",
           "localizedDescription": null,
           "minOSVersion": null
         }
@@ -1548,7 +1548,7 @@
           "size": 8500000,
           "version": "0.8.1",
           "buildVersion": null,
-          "date": "2026-06-07T03:19:00-04:00",
+          "date": "2026-06-06T07:19:00-04:00",
           "localizedDescription": null,
           "minOSVersion": null
         }
@@ -1559,406 +1559,6 @@
           "NSAccentColorName": "AccentColor",
           "NSPhotoLibraryAddUsageDescription": "Please allow PostBox to save media into your photo library.",
           "NSPhotoLibraryUsageDescription": "PostBox can save media (such as screenshots and banners) to your photo library."
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Taurine",
-      "bundleIdentifier": "org.coolstar.taurine",
-      "marketplaceID": "",
-      "developerName": "The Odyssey Team",
-      "subtitle": "A fast and stable jailbreak for iOS 14 devices with full tweak support.",
-      "localizedDescription": "Taurine is a semi-untethered jailbreak for iOS 14.0–14.3 developed by The Odyssey Team. Built on the Procursus bootstrap, it provides root access to compatible iPhones and iPads, allowing users to install jailbreak tweaks, themes, and system modifications through package managers like Sileo. Taurine focuses on performance, stability, and battery efficiency while offering a modern alternative to other iOS 14 jailbreak tools.",
-      "iconURL": "https://i.imgur.com/nZr2zmW.png",
-      "tintColor": "#c03c64",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.7-3/Taurine.1.1.7-3.ipa",
-          "size": 32200000,
-          "version": "1.1.7-3",
-          "buildVersion": null,
-          "date": "2026-06-06T15:48:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSAccentColorName": "AccentColor"
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Odyssey",
-      "bundleIdentifier": "org.coolstar.odyssey",
-      "marketplaceID": "",
-      "developerName": "The Odyssey Team",
-      "subtitle": "A modern iOS jailbreak for devices running iOS 13 with advanced tweak support.",
-      "localizedDescription": "Odyssey is a semi-untethered iOS jailbreak developed by The Odyssey Team, built on the Procursus bootstrap and designed for stability and performance. Compatible with iOS 13.0–13.7, it uses the exploits in those versions to provide root access and allow installation of jailbreak tweaks, themes, and system modifications through package managers like Sileo. Odyssey focuses on speed, security, and a modern user experience compared to older jailbreak tools, while remaining fully open-source.",
-      "iconURL": "https://i.imgur.com/N15Xtqa.png",
-      "tintColor": "#9510ee",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://github.com/Odyssey-Team/Odyssey/releases/download/v1.4.3/Odyssey-1.4.3.ipa",
-          "size": 27200000,
-          "version": "1.4.3",
-          "buildVersion": null,
-          "date": "2026-06-06T15:47:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSPhotoLibraryUsageDescription": "For selecting a custom theme image"
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "unc0ver",
-      "bundleIdentifier": "science.xnu.undecimus",
-      "marketplaceID": "",
-      "developerName": "Pwn20wnd",
-      "subtitle": "A powerful iOS jailbreak tool supporting a wide range of iOS versions.",
-      "localizedDescription": "unc0ver is a semi-untethered iOS jailbreak developed by Pwn20wnd that allows users to gain root access on compatible devices, enabling the installation of jailbreak tweaks, themes, and system-level modifications. It supports multiple iOS versions depending on the device and exploit availability, and typically uses tools like Cydia or Sileo for package management. unc0ver is designed to be stable and user-friendly while providing deep system access for customization and development purposes.",
-      "iconURL": "https://i.imgur.com/4IW4ALD.png",
-      "tintColor": "#3636c8",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
-          "size": 54500000,
-          "version": "8.0.2",
-          "buildVersion": null,
-          "date": "2026-06-06T15:53:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Dopamine",
-      "bundleIdentifier": "com.opa334.Dopamine",
-      "marketplaceID": "",
-      "developerName": "opa334",
-      "subtitle": "A modern rootless jailbreak for iOS 15 and iOS 16 devices with strong stability and tweak support.",
-      "localizedDescription": "Dopamine is a semi-untethered, rootless iOS jailbreak developed by opa334 that allows users to install jailbreak tweaks and customize their device without modifying the system root filesystem. It uses modern exploit chains and the Procursus bootstrap to provide a stable and efficient jailbreak experience. Dopamine is designed for iOS 15.0–15.4.1 and iOS 16.0–16.6.1 (device-dependent support), and focuses on safety, performance, and long-term maintainability compared to older jailbreak methods.",
-      "iconURL": "https://i.imgur.com/DRqVomi.png",
-      "tintColor": "#000000",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.5b4/Dopamine.ipa",
-          "size": 53800000,
-          "version": "2.4.99",
-          "buildVersion": null,
-          "date": "2026-06-06T16:01:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSPhotoLibraryUsageDescription": "Dopamine needs to access your photo library to support picking a boot logo"
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Chimera",
-      "bundleIdentifier": "com.electrateam.chimera",
-      "marketplaceID": "",
-      "developerName": "Electra Team",
-      "subtitle": "A lightweight jailbreak for iOS 12 with Sileo support and modern stability.",
-      "localizedDescription": "Chimera is a semi-untethered jailbreak developed by the Electra Team for iOS 12 devices. It provides root access on compatible iPhones and iPads, allowing users to install tweaks, themes, and system modifications through the Sileo package manager. Built with a focus on speed and stability, Chimera uses modern jailbreak components compared to older tools and avoids modifying core system files directly where possible.",
-      "iconURL": "https://i.imgur.com/S0LXd5F.png",
-      "tintColor": "#10c2ee",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://github.com/coolstar/chimera-ipas/releases/download/1.6.4/1.6.4.ipa",
-          "size": 90100000,
-          "version": "1.6.4",
-          "buildVersion": null,
-          "date": "2026-06-06T15:58:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "daibutsu",
-      "bundleIdentifier": "com.sakuRdev.daibutsu",
-      "marketplaceID": "",
-      "developerName": "Luca Todesco",
-      "subtitle": "A semi-untethered jailbreak for older 32-bit iOS devices.",
-      "localizedDescription": "daibutsu is a semi-untethered jailbreak designed for older 32-bit iOS devices, primarily targeting iOS 9.x firmware. It allows users to gain root access on compatible devices, enabling installation of jailbreak tweaks and system modifications through traditional package managers like Cydia. daibutsu was created to provide a stable jailbreak solution for legacy devices that are no longer supported by modern jailbreak tools.",
-      "iconURL": "https://i.imgur.com/21hQFOO.png",
-      "tintColor": "#000000",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://github.com/kok3shidoll/daibutsu/releases/download/1.0/daibutsu_v1.0b3.ipa",
-          "size": 7900000,
-          "version": "1.0b3",
-          "buildVersion": null,
-          "date": "2026-06-06T16:04:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Electra",
-      "bundleIdentifier": "org.coolstar.electra1141",
-      "marketplaceID": "",
-      "developerName": "Electra Team",
-      "subtitle": "A semi-untethered jailbreak for iOS 11 with early modern tweak support.",
-      "localizedDescription": "Electra is a semi-untethered iOS jailbreak developed by the Electra Team that targets iOS 11 devices. It allows users to gain root access on compatible iPhones and iPads, enabling installation of jailbreak tweaks, themes, and system modifications through package managers such as Cydia or Sileo (depending on the build). Electra was one of the early modern jailbreaks to introduce improved stability and updated jailbreak frameworks for iOS 11.",
-      "iconURL": "https://i.imgur.com/4WvlDuB.png",
-      "tintColor": "#6b7f93",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://github.com/coolstar/electra-ipas/raw/master/Electra1141-2.0.ipa",
-          "size": 52200000,
-          "version": "2.0",
-          "buildVersion": null,
-          "date": "2026-06-06T16:07:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": " EverPwnage",
-      "bundleIdentifier": "com.lukezgd.everpwnage",
-      "marketplaceID": "",
-      "developerName": "iBSparkes",
-      "subtitle": "A legacy jailbreak tool for older 64-bit iOS devices with tweak support.",
-      "localizedDescription": "EverPwnage is a semi-untethered jailbreak developed for older 64-bit iOS devices, designed to provide persistent jailbreak capabilities across reboots. It allows users to install jailbreak tweaks, themes, and system modifications using traditional package managers like Cydia. EverPwnage is mainly intended for legacy devices and older iOS versions, focusing on maintaining jailbreak access for unsupported hardware and firmware.",
-      "iconURL": "https://i.imgur.com/o6qmGdA.png",
-      "tintColor": "#000000",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://github.com/LukeZGD/EverPwnage/releases/download/v2.0.1/EverPwnage-v2.0.1.ipa",
-          "size": 23100000,
-          "version": "2.0.1",
-          "buildVersion": null,
-          "date": "2026-06-06T16:09:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "p0laris",
-      "bundleIdentifier": "backwithavengeance",
-      "marketplaceID": "",
-      "developerName": "GeoSn0w",
-      "subtitle": "A modern jailbreak for iOS 9–10 devices focused on stability and tweak support.",
-      "localizedDescription": "p0laris is a semi-untethered jailbreak developed by GeoSn0w for select 64-bit iOS devices running older firmware. It provides root access that allows installation of jailbreak tweaks, themes, and system modifications through package managers like Cydia. Designed as a stable alternative for legacy devices, p0laris focuses on maintaining usability and compatibility on older iOS versions where modern jailbreak tools are no longer supported.",
-      "iconURL": "https://i.imgur.com/UGYJvZz.png",
-      "tintColor": "#7f7f7f",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://github.com/p0larisdev/app/releases/download/v1.0.1/p0laris-Release.ipa",
-          "size": 16800000,
-          "version": "1.0",
-          "buildVersion": null,
-          "date": "2026-06-06T16:11:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Phoenix",
-      "bundleIdentifier": "supplies.wall.phoenix",
-      "marketplaceID": "",
-      "developerName": "siguza",
-      "subtitle": "A lightweight jailbreak for 32-bit devices running iOS 9.3.5–9.3.6.",
-      "localizedDescription": "Phoenix is a semi-untethered jailbreak designed for 32-bit iOS devices running iOS 9.3.5 and 9.3.6. It allows users to gain root access on compatible devices, enabling installation of jailbreak tweaks and system modifications through Cydia. Phoenix was created to provide a simple and reliable jailbreak solution for older hardware that cannot use modern jailbreak tools.",
-      "iconURL": "https://i.imgur.com/KP1078i.png",
-      "tintColor": "#7f7f7f",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://phoenixpwn.com/download.php",
-          "size": 23400000,
-          "version": "6.0",
-          "buildVersion": null,
-          "date": "2026-06-06T16:13:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "rootlessJB4",
-      "bundleIdentifier": "org.brandonplank.rootlessJB",
-      "marketplaceID": "",
-      "developerName": "Jake James",
-      "subtitle": "A rootless jailbreak for iOS 12 focused on experimentation and tweak development.",
-      "localizedDescription": "rootlessJB4 is a semi-untethered, rootless jailbreak developed by Jake James for iOS 12 devices. It provides limited rootless access to the filesystem, allowing users to run jailbreak tweaks and test modifications without fully patching the system root. Designed primarily for developers and experimentation, rootlessJB4 focuses on stability and research-oriented jailbreak development rather than full daily-driver customization.",
-      "iconURL": "https://i.imgur.com/H8UH1kb.png",
-      "tintColor": "#6c9ccc",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://github.com/brandonplank/rootlessJB4/releases/download/2.1/rootlessJB4.ipa",
-          "size": 38200000,
-          "version": "2.1",
-          "buildVersion": null,
-          "date": "2026-06-06T16:14:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "socket",
-      "bundleIdentifier": "com.staturnz.socket",
-      "marketplaceID": "",
-      "developerName": "Kanna",
-      "subtitle": "A lightweight jailbreak utility for iOS with focus on stability and tweak support.",
-      "localizedDescription": "Socket is a semi-untethered jailbreak for iOS 10.0 – iOS 10.3.4 that allows users to gain root access on compatible devices. It enables installation of jailbreak tweaks, themes, and system modifications through package managers such as Cydia or Sileo depending on setup. Designed to be lightweight and stable, Socket focuses on providing a smooth jailbreak experience for older supported devices while maintaining simplicity and reliability.",
-      "iconURL": "https://i.imgur.com/gFd9iu8.png",
-      "tintColor": "#3e23db",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://github.com/staturnzz/socket/releases/download/v1.2.2/socket.ipa",
-          "size": 17400000,
-          "version": "1.2.2",
-          "buildVersion": null,
-          "date": "2026-06-06T16:16:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "wtfis",
-      "bundleIdentifier": "com.therealclarity.wtfis",
-      "marketplaceID": "",
-      "developerName": "wtfis Team",
-      "subtitle": "A lightweight jailbreak for older iOS devices focused on stability and tweak support.",
-      "localizedDescription": "wtfis is a semi-untethered jailbreak for iOS 10.0 – iOS 10.3.3 that allows users to gain root access on compatible 64-bit devices. It enables installation of jailbreak tweaks, themes, and system modifications through package managers like Cydia. Designed as a simple and stable jailbreak solution for older firmware, wtfis focuses on reliability and ease of use for legacy iOS devices.",
-      "iconURL": "https://i.imgur.com/Cf2pHze.png",
-      "tintColor": "#4b6eb3",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://github.com/TheRealClarity/wtfis/releases/download/1.0-b2/wtfis-1.0-b2.ipa",
-          "size": 10400000,
-          "version": "1.0~b1",
-          "buildVersion": null,
-          "date": "2026-06-06T16:19:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "TrollInstallerX",
-      "bundleIdentifier": "com.Alfie.TrollInstallerX",
-      "marketplaceID": "",
-      "developerName": "opa334",
-      "subtitle": "Install TrollStore on supported iOS devices using CoreTrust exploits.",
-      "localizedDescription": "TrollInstallerX is an iOS utility used to install TrollStore on compatible devices by leveraging CoreTrust-related exploits. Compatible with specific iOS versions depending on device and exploit support (typically iOS 14.0 – iOS 15.4.1, and select iOS 15.5–15.7.x builds depending on method), it allows users to permanently sign and install IPA files without expiration. Designed for advanced users, TrollInstallerX simplifies the process of gaining TrollStore persistence on supported firmware.",
-      "iconURL": "https://i.imgur.com/wK4KC72.png",
-      "tintColor": "#04b9fc",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.3/TrollInstallerX.ipa",
-          "size": 6900000,
-          "version": "1.0.3",
-          "buildVersion": null,
-          "date": "2026-06-06T16:23:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSAppleMusicUsageDescription": "Unsandboxing with MacDirtyCow"
         }
       },
       "patreon": {}
