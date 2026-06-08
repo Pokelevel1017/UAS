@@ -9,23 +9,181 @@
   "featuredApps": [],
   "apps": [
     {
-      "name": "Flappy Bird",
-      "bundleIdentifier": "org.brandonplank.flappybird",
+      "name": "Magic Brawl",
+      "bundleIdentifier": "mt.mb.ios",
       "marketplaceID": "",
-      "developerName": "brandonplank",
-      "subtitle": "A simple open-source Flappy Bird remake for iOS and other platforms.",
-      "localizedDescription": "Flappy Bird is an open-source remake of the classic arcade-style game developed by brandonplank. It recreates the original tap-to-fly gameplay where players guide a bird through endless pipes while avoiding collisions. The project is designed as a lightweight demo of basic game mechanics such as physics, collision detection, and score tracking, and can be sideloaded on iOS depending on the build.",
-      "iconURL": "https://i.imgur.com/S7yPGcn.png",
-      "tintColor": "#7ce49c",
+      "developerName": "Magic Team",
+      "subtitle": "A private server version of Brawl Stars featuring classic and custom content.",
+      "localizedDescription": "Magic Brawl is an unofficial private server version of Brawl Stars developed by Magic Team. It recreates earlier eras of the game while also adding custom content such as unique brawlers, skins, game modes, and progression systems. The project is designed for players who want a modified or “classic” experience of Brawl Stars with additional features not found in the official Supercell release. It runs on separate servers and is not affiliated with Supercell.",
+      "iconURL": "https://i.imgur.com/1NLBqkg.png",
+      "tintColor": "#09d4f1",
       "category": "other",
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/brandonplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
-          "size": 2100000,
-          "version": "4.3",
+          "downloadURL": "https://magicbrawl.gg/latest_mb_ipa",
+          "size": 473800000,
+          "version": "52.177",
           "buildVersion": null,
-          "date": "2026-06-06T20:26:00-04:00",
+          "date": "2026-06-06T23:50:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
+          "NSCameraUsageDescription": "Camera access is needed for scanning QR codes.",
+          "NSPhotoLibraryUsageDescription": "Photo library access is needed if player contacts Supercell Player Support to send screenshots."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Terraria",
+      "bundleIdentifier": "com.505games.terraria",
+      "marketplaceID": "",
+      "developerName": "Re-Logic (community iOS port)",
+      "subtitle": "An unofficial iOS port of Terraria with touch and controller support.",
+      "localizedDescription": "Terraria for iOS (unofficial port) is a community-made adaptation of the original sandbox game developed by Re-Logic. It brings the full Terraria experience to iPhone and iPad, including exploration, crafting, building, combat, and boss fights in procedurally generated worlds. The iOS port typically runs through a wrapper or compatibility layer and includes touch controls and optional external controller support. Performance, features, and stability vary depending on the port build and device.",
+      "iconURL": "https://i.imgur.com/y1EyJqO.png",
+      "tintColor": "#7ca0cc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/picture-this-5.41.0-15.0-le-ti/Terraria_4.5.4_13.0_LeTi.ipa",
+          "size": 190800000,
+          "version": "4.5.4",
+          "buildVersion": null,
+          "date": "2026-06-06T23:42:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "Terraria uses the local network to announce, discover and connect to multiplayer sessions."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Undertale",
+      "bundleIdentifier": "com.1iol12bhr8.4h4wu7c9cr",
+      "marketplaceID": "",
+      "developerName": "Toby Fox (community iOS port)",
+      "subtitle": "An unofficial iOS port of the indie RPG Undertale with touch and controller support.",
+      "localizedDescription": "Undertale for iOS is an unofficial community-made port of the original RPG developed by Toby Fox. It allows players to experience the full story-driven gameplay, including turn-based combat, bullet-dodging mechanics, exploration, and multiple story routes. The iOS version is typically distributed through sideloaded builds using wrappers or porting tools, with adaptations for touch controls and optional external controller support. Performance and stability vary depending on the device and port method used.",
+      "iconURL": "https://i.imgur.com/GoNgBV4.png",
+      "tintColor": "#fc0404",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/undertale_202409/Undertale.ipa",
+          "size": 140600000,
+          "version": "2.0.0",
+          "buildVersion": null,
+          "date": "2026-06-06T23:39:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSMainNibFile": "MainWindow-iPhone",
+          "NSMainNibFile~ipad": "MainWindow",
+          "NSMainNibFile~iphone": "MainWindow-iPhone"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Deltarune",
+      "bundleIdentifier": "com.jockeholm.undertale",
+      "marketplaceID": "",
+      "developerName": "Toby Fox (community iOS port)",
+      "subtitle": "An unofficial iOS port of the episodic RPG Deltarune with touch and controller support.",
+      "localizedDescription": "Deltarune for iOS is an unofficial community-made port of the original game created by Toby Fox. It brings the full RPG experience to iPhone and iPad, including turn-based combat, bullet-dodging mechanics, story progression, and exploration of its chapter-based narrative. The iOS build typically runs through a wrapper or porting framework and includes touch controls and optional external controller support. Performance and stability vary depending on the device and port method used.",
+      "iconURL": "https://i.imgur.com/oSyoiWR.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/undertale_202409/Deltarune.ipa",
+          "size": 70300000,
+          "version": "2.0.0",
+          "buildVersion": null,
+          "date": "2026-06-06T23:36:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSMainNibFile": "MainWindow-iPhone",
+          "NSMainNibFile~ipad": "MainWindow",
+          "NSMainNibFile~iphone": "MainWindow-iPhone"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "CrazyCattle3D",
+      "bundleIdentifier": "com.nathan.cc3dios",
+      "marketplaceID": "",
+      "developerName": "Anna’s Games (community iOS port)",
+      "subtitle": "A chaotic physics-based battle game featuring explosive sheep combat in 3D arenas.",
+      "localizedDescription": "Crazy Cattle 3D for iOS is a community-made port of the indie physics-based arena game Crazy Cattle 3D. Players control explosive sheep in fast-paced 3D matches where the goal is to knock opponents off the map using momentum, collisions, and environmental hazards. The iOS version is typically distributed as an unofficial build via sideloading tools and may include touch controls, performance adjustments, and simplified graphics depending on the port. As a non-official release, stability and features vary by build.",
+      "iconURL": "https://i.imgur.com/ADTVQyt.png",
+      "tintColor": "#ccc404",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/CrazyCattle3D_1.0.0_ios_14.0/CrazyCattle3D_1.0.0_ios_14.0.ipa",
+          "size": 59400000,
+          "version": "1.0.0",
+          "buildVersion": null,
+          "date": "2026-06-06T23:34:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "",
+          "NSMicrophoneUsageDescription": "",
+          "NSPhotoLibraryUsageDescription": ""
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Hollow Knight",
+      "bundleIdentifier": "com.GLESign.HollowKnight",
+      "marketplaceID": "",
+      "developerName": "Hollow Knight iOS Community (unofficial port)",
+      "subtitle": "An experimental port of Hollow Knight brought to iOS through community tools.",
+      "localizedDescription": "Hollow Knight for iOS is an unofficial, community-made port of the original PC/console game developed by Team Cherry. It runs through experimental compatibility layers or packaged runtime environments depending on the build. The port allows players to experience the full Metroidvania gameplay, including exploration of Hallownest, boss battles, and progression systems, adapted for touch controls and optional external controllers. Performance and stability vary significantly depending on device and port method.",
+      "iconURL": "https://i.imgur.com/0IH5BrW.png",
+      "tintColor": "#887f76",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/Hollow_Knight_1.5.78.11833_ios_11.0/Hollow_Knight_1.5.78.11833_ios_11.0.ipa",
+          "size": 1077100000,
+          "version": "1.5.78.11833",
+          "buildVersion": null,
+          "date": "2026-06-06T23:32:00-04:00",
           "localizedDescription": null,
           "minOSVersion": null
         }
@@ -37,23 +195,135 @@
       "patreon": {}
     },
     {
-      "name": "ClassicPlayer",
-      "bundleIdentifier": "me.gmoran.ClassicPlayer",
+      "name": "appdb",
+      "bundleIdentifier": "it.ned.appdb-ios",
       "marketplaceID": "",
-      "developerName": "ClassicPlayer Team",
-      "subtitle": "A lightweight media player for playing local audio and video files on iOS.",
-      "localizedDescription": "ClassicPlayer is an iOS media player designed for offline playback of audio and video files stored on the device. Compatible with iOS 12.0 and later (varies by build), it supports common media formats, file importing, playlist creation, and background playback. The app focuses on simplicity and performance, giving users a straightforward way to manage and play local media without relying on streaming services.",
-      "iconURL": "https://i.imgur.com/kvon7OX.png",
-      "tintColor": "#8f8f6f",
+      "developerName": "n3d1117",
+      "subtitle": "A native iOS client for appdb with browsing, installation, and repository features.",
+      "localizedDescription": "appdb is an open-source iOS application developed by n3d1117 that acts as a native client for the appdb platform. Built in Swift 5, it allows users to browse featured apps, search repositories, view app details, manage downloads, and interact with appdb services directly from iOS. The app integrates multiple APIs from appdb.to to provide app discovery, installation management, and system status features. Version v1.1.6 includes bug fixes, updated API support, and improvements to installation handling and repository management.",
+      "iconURL": "https://i.imgur.com/Ujh6Jz2.png",
+      "tintColor": "#04acfc",
       "category": "other",
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://gmoran.me/classicplayer/releases/ClassicPlayer_2.0.2.ipa",
-          "size": 37400000,
-          "version": "2.0.2",
+          "downloadURL": "https://github.com/n3d1117/appdb/releases/download/v1.1.6/appdb-v1.1.6-stev3fvcks.ipa",
+          "size": 23200000,
+          "version": "1.1.6",
           "buildVersion": null,
-          "date": "2026-06-06T20:22:00-04:00",
+          "date": "2026-06-06T23:15:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Super Mario 64",
+      "bundleIdentifier": "com.christiankosman.sm64ios",
+      "marketplaceID": "",
+      "developerName": "sm64ios Community (community build)",
+      "subtitle": "A native iOS port of Super Mario 64 with modern controls and enhancements.",
+      "localizedDescription": "Super Mario 64 for iOS is an unofficial community port of the classic Nintendo 64 game built from a decompiled source project. It allows the game to run natively on iPhone and iPad with support for touch controls, external controllers, and optional graphical improvements such as widescreen support and performance enhancements depending on the build. This project is intended for users who legally own the original game and want to experience it on modern mobile devices.",
+      "iconURL": "https://i.imgur.com/waQBzhm.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/super-mario-64_202409/SuperMario64.ipa",
+          "size": 31200000,
+          "version": "1.0.0",
+          "buildVersion": null,
+          "date": "2026-06-06T23:12:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "sm64ios 30FPS",
+      "bundleIdentifier": "xyz.cypwn.sm64ios-30fps",
+      "marketplaceID": "",
+      "developerName": "sm64ios Community (community build)",
+      "subtitle": "A stable Super Mario 64 iOS port optimized for consistent 30 FPS gameplay.",
+      "localizedDescription": "sm64ios 30FPS is a community-maintained build of the Super Mario 64 iOS port based on the decompiled game source. It is optimized to run at a stable 30 frames per second for improved compatibility and consistent performance across a wider range of iOS devices. The port supports touch controls, external controllers, and optional graphical enhancements depending on the build. It is intended for users who legally own the original Super Mario 64 game and want a stable mobile experience on iPhone and iPad.",
+      "iconURL": "https://i.imgur.com/5Hb5mvU.png",
+      "tintColor": "#0464fc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/super-mario-64_202409/SuperMario64_30FPS_1.2.1.ipa",
+          "size": 8400000,
+          "version": "1.2.1",
+          "buildVersion": null,
+          "date": "2026-06-06T23:11:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "sm64ios 60 FPS",
+      "bundleIdentifier": "xyz.cypwn.sm64ios-60fps",
+      "marketplaceID": "",
+      "developerName": "sm64ios Community (community build)",
+      "subtitle": "A Super Mario 64 iOS port optimized for smoother 60 FPS gameplay.",
+      "localizedDescription": "sm64ios 60 FPS is a community-modified build of the Super Mario 64 iOS port that focuses on improving performance and increasing the frame rate to a smoother 60 frames per second where supported. Based on the decompiled Super Mario 64 source project, it runs natively on iOS and iPadOS devices and includes enhancements such as improved frame timing, controller support, and optional graphical tweaks. It is intended for users who already own a legal copy of the original game and want a more fluid gameplay experience on modern Apple hardware.",
+      "iconURL": "https://i.imgur.com/0F81kRV.png",
+      "tintColor": "#0464fc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/super-mario-64_202409/SuperMario64_60FPS_1.2.1.ipa",
+          "size": 9200000,
+          "version": "1.2.1",
+          "buildVersion": null,
+          "date": "2026-06-06T23:09:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "iNDS",
+      "bundleIdentifier": "net.nerd.iNDS",
+      "marketplaceID": "",
+      "developerName": "iNDS Team",
+      "subtitle": "A Nintendo DS emulator for iPhone and iPad with save states and cheat support.",
+      "localizedDescription": "iNDS is an open-source Nintendo DS emulator for iOS and iPadOS that allows users to play DS games on their device. It supports ROM loading, save states, fast-forward, cheat codes, and customizable on-screen controls. Depending on the build and device, it may also support external controllers for improved gameplay. iNDS is commonly installed through sideloading tools and is used for retro gaming and preservation of Nintendo DS titles on modern Apple devices.",
+      "iconURL": "https://i.imgur.com/mCqUYJK.png",
+      "tintColor": "#000000",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
+          "size": 8600000,
+          "version": "1.10.8",
+          "buildVersion": null,
+          "date": "2026-06-06T22:50:00-04:00",
           "localizedDescription": null,
           "minOSVersion": null
         }
@@ -61,29 +331,86 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSAppleMusicUsageDescription": "Classic Player needs access to your library in order to work properly."
+          "NSPhotoLibraryUsageDescription": "Need Permission to Access Photos",
+          "NSMicrophoneUsageDescription": "For DS Microphone"
         }
       },
       "patreon": {}
     },
     {
-      "name": "EeveeSpotify",
-      "bundleIdentifier": "com.spotify.client",
+      "name": "XPatcher",
+      "bundleIdentifier": "com.wh0ba.xpatcher",
       "marketplaceID": "",
-      "developerName": "EeveeSpotify Team",
-      "subtitle": "A modified Spotify client with unlocked premium features and enhanced playback controls.",
-      "localizedDescription": "EeveeSpotify is an unofficial modified version of the Spotify iOS app that unlocks premium-style features such as ad-free listening, enhanced playback controls, and additional customization options. It is typically installed through sideloading methods and works by patching the official Spotify client to modify certain client-side restrictions. EeveeSpotify is not affiliated with Spotify and is intended for educational and experimental use within the sideloading community.",
-      "iconURL": "https://i.imgur.com/7oZELTv.png",
-      "tintColor": "#349c5c",
+      "developerName": "Wh0ba",
+      "subtitle": "A ROM and file patching tool for iOS supporting IPS, UPS, BPS, and XDelta formats.",
+      "localizedDescription": "XPatcher is an iOS utility developed by Wh0ba that acts as a graphical frontend for patching libraries such as Flips, libppf, libRUP, and XDelta. It allows users to apply ROM patches (such as game mods and translations) directly on iOS devices by selecting a base file and a patch file, then generating a modified output. Compatible with iOS 9.0 and later, XPatcher is commonly used for applying ROM hacks for emulators like Delta and other retro gaming tools. It is designed to simplify patching workflows with a lightweight and easy-to-use interface.",
+      "iconURL": "https://i.imgur.com/Lanc1Ec.png",
+      "tintColor": "#000000",
       "category": "other",
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/package_files/303874879/download",
-          "size": 111200000,
-          "version": "9.1.48",
+          "downloadURL": "https://github.com/Wh0ba/XPatcher/releases/download/v2.2/XPatcher_2.2.ipa",
+          "size": 400000,
+          "version": "2.2",
           "buildVersion": null,
-          "date": "2026-06-06T19:50:00-04:00",
+          "date": "2026-06-06T22:44:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Mini vMac",
+      "bundleIdentifier": "net.namedfork.minivmac",
+      "marketplaceID": "",
+      "developerName": "Paul C. Pratt",
+      "subtitle": "A classic Macintosh emulator for running early Mac OS software on iOS and other platforms.",
+      "localizedDescription": "Mini vMac is an open-source emulator that simulates early Apple Macintosh computers, allowing users to run classic Mac OS software on modern devices including iOS and iPadOS. It supports vintage Macintosh system environments, disk image loading, keyboard input, and basic system emulation. Depending on the build, it can emulate early 68000-based Macintosh systems such as the Macintosh Plus. It is commonly used for retro computing, software preservation, and educational purposes.",
+      "iconURL": "https://i.imgur.com/6GQ817l.png",
+      "tintColor": "#0c34dc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/zydeco/minivmac4ios/releases/download/v2.6/minivmac4ios-2.6.ipa",
+          "size": 700000,
+          "version": "2.6",
+          "buildVersion": null,
+          "date": "2026-06-06T22:42:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "MAME4iOS",
+      "bundleIdentifier": "com.example.mame4ios",
+      "marketplaceID": "",
+      "developerName": "yoshisuga",
+      "subtitle": "An arcade emulator for iPhone and iPad supporting classic arcade machine games.",
+      "localizedDescription": "MAME4iOS is an iOS port of the Multiple Arcade Machine Emulator (MAME) project, allowing users to run classic arcade games on iPhone and iPad. It supports a wide range of arcade ROMs, input controls, save states, and configurable performance options depending on the build. Designed for retro gaming preservation, MAME4iOS brings thousands of arcade titles from different eras into a single emulator environment on iOS devices. Compatibility and performance vary depending on device capabilities and ROM requirements.",
+      "iconURL": "https://i.imgur.com/Ybn5kJ1.png",
+      "tintColor": "#3676a2",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/yoshisuga/MAME4iOS/releases/download/2022.5/MAME4iOS-2022.5-250.ipa",
+          "size": 107700000,
+          "version": "2022.5",
+          "buildVersion": null,
+          "date": "2026-06-06T22:40:00-04:00",
           "localizedDescription": null,
           "minOSVersion": null
         }
@@ -91,44 +418,272 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSAppleMusicUsageDescription": "This will let you play your imported music on Spotify.",
-          "NSBluetoothAlwaysUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
-          "NSCalendarsUsageDescription": "This lets Spotify view and add events to your calendar.",
-          "NSCalendarsWriteOnlyAccessUsageDescription": "This lets Spotify add events to your calendar.",
-          "NSCameraUsageDescription": "This lets you use your camera to scan or upload images.",
-          "NSContactsUsageDescription": "This lets Spotify access calendars you may have shared with your contacts.",
-          "NSFaceIDUsageDescription": "This lets you set access restrictions using Face ID.",
-          "NSHealthShareUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
-          "NSHealthUpdateUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
-          "NSLocalNetworkUsageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files.",
-          "NSLocationWhenInUseUsageDescription": "Your location is used to improve your recommendations and experience on Spotify.",
-          "NSMicrophoneUsageDescription": "This lets you control Spotify using your voice.",
-          "NSMotionUsageDescription": "We will use this to understand which audio motivates you most.",
-          "NSPhotoLibraryAddUsageDescription": "This lets you save images to your Photo Library.",
-          "NSPhotoLibraryUsageDescription": "This lets you select images from your Photo Library.",
-          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads or content to you."
+          "NSBluetoothAlwaysUsageDescription": "We need bluetooth for steam controllers"
         }
       },
       "patreon": {}
     },
     {
-      "name": "Nuvio Media",
+      "name": "Firebird",
+      "bundleIdentifier": "com.adriweb.firebird-emu",
+      "marketplaceID": "",
+      "developerName": "nspire-emus",
+      "subtitle": "A multi-platform TI-Nspire calculator emulator for iOS, Android, Windows, macOS, and Linux.",
+      "localizedDescription": "Firebird is an open-source, multi-platform emulator for TI-Nspire calculators, developed by the nspire-emus project. It allows users to emulate TI-Nspire Touchpad, CX, and CX II calculators on iOS, Android, Windows, macOS, and Linux. The emulator supports features such as flash image management, save states, JIT acceleration, and mobile UI controls. Version 1.6 includes improved performance, expanded calculator support, and enhanced cross-platform build systems. It is primarily used for educational and development purposes to run TI-Nspire operating systems and software in a virtual environment.",
+      "iconURL": "https://i.imgur.com/aYrnaVG.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/nspire-emus/firebird/releases/download/v1.6/firebird-iOS.ipa",
+          "size": 10000000,
+          "version": "1.5",
+          "buildVersion": null,
+          "date": "2026-06-06T22:38:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Play!",
+      "bundleIdentifier": "com.virtualapplications.play",
+      "marketplaceID": "",
+      "developerName": "Jean-Philip Desjardins",
+      "subtitle": "A PlayStation 2 emulator for iPhone and iPad focused on compatibility and experimentation.",
+      "localizedDescription": "Play! is an open-source PlayStation 2 emulator that allows users to run PS2 games on iOS and iPadOS devices. It focuses on compatibility and portability rather than speed, supporting features such as game loading, basic rendering, input controls, and save states depending on the build. Compatible with iOS 14.0 and later (varies by version), Play! is commonly installed via sideloading tools and may require JIT for improved performance. It is designed for experimentation and early-stage PS2 emulation on Apple devices.",
+      "iconURL": "https://i.imgur.com/W1RjIYh.png",
+      "tintColor": "#2f00fc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://purei.org/downloads/play/stable/0.70/Play.ipa",
+          "size": 3600000,
+          "version": "0.70",
+          "buildVersion": null,
+          "date": "2026-06-06T22:35:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "Play! uses the local network to find and communicate with AltServer."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "StikNES",
+      "bundleIdentifier": "com.stik.StikNES",
+      "marketplaceID": "",
+      "developerName": "Stephen Bove",
+      "subtitle": "A lightweight NES emulator for iPhone and iPad with controller support and save states.",
+      "localizedDescription": "StikNES is an NES (Nintendo Entertainment System) emulator for iOS and iPadOS designed to run classic 8-bit games with smooth performance and a simple interface. It supports ROM loading, save states, external controller input, and customizable controls depending on the build. Compatible with iOS 14.0 and later (varies by version), StikNES is commonly used with sideloading tools and focuses on providing an easy way to play retro NES games on modern Apple devices.",
+      "iconURL": "https://i.imgur.com/18qm5sD.png",
+      "tintColor": "#4cc1dc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/StikEMU/StikNES-2.0/releases/download/v2.0.2/StikNES.ipa",
+          "size": 7100000,
+          "version": "5.2",
+          "buildVersion": null,
+          "date": "2026-06-06T22:34:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "This app needs access to your photo library to import images for customization."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Angel Aura Amethyst",
+      "bundleIdentifier": "org.angelauramc.amethyst",
+      "marketplaceID": "",
+      "developerName": "AngelAuraMC",
+      "subtitle": "A Minecraft-inspired iOS project and experimental launcher-style app with modded gameplay features.",
+      "localizedDescription": "Amethyst-iOS is an open-source iOS project developed by AngelAuraMC that focuses on bringing a Minecraft-like experience and experimental launcher functionality to iOS devices. The project is designed for sideloading and may include custom runtime features, mod support, and integration with external tools such as container-based execution environments. Depending on the build, it can be used to launch or manage Minecraft Java-based gameplay environments on iOS through compatibility layers and experimental rendering systems.",
+      "iconURL": "https://i.imgur.com/7Py3S6t.png",
+      "tintColor": "#c5399c",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://alt.crystall1ne.dev/resources/amethyst/00678b0/org.angelauramc.amethyst-1.0-ios.ipa",
+          "size": 150300000,
+          "version": "1.0.00678b0",
+          "buildVersion": null,
+          "date": "2026-06-06T22:28:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "Angel Aura Amethyst uses the local network to find and communicate with AltServer and LAN servers.",
+          "NSMicrophoneUsageDescription": "Angel Aura Amethyst uses the microphone to enable support for voice chat mods."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "PojavLauncher",
+      "bundleIdentifier": "net.kdt.pojavlauncher",
+      "marketplaceID": "",
+      "developerName": "PojavLauncher Team",
+      "subtitle": "Run Java Edition Minecraft on iPhone and iPad with mod support.",
+      "localizedDescription": "PojavLauncher is an open-source Minecraft: Java Edition launcher that allows users to run Minecraft on iOS and iPadOS devices. It supports multiple Minecraft versions, custom Java arguments, mod loaders like Forge and Fabric, and external resource packs. Compatible with iOS 14.0 and later (varies by build), it often requires JIT for acceptable performance and is commonly installed through sideloading tools such as SideStore or TrollStore. It is designed for players who want to experience full Java Edition Minecraft on mobile devices.",
+      "iconURL": "https://i.imgur.com/GJ3Lp63.png",
+      "tintColor": "#b4745c",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.2/net.kdt.pojavlauncher-2.2-ios.ipa",
+          "size": 108200000,
+          "version": "2.2",
+          "buildVersion": null,
+          "date": "2026-06-06T22:24:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "PojavLauncher uses the local network to find and communicate with AltServer and LAN servers.",
+          "NSMicrophoneUsageDescription": "PojavLauncher uses the microphone to enable support for voice chat mods."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Flycast",
+      "bundleIdentifier": "com.chachirie.FlycastiOS",
+      "marketplaceID": "",
+      "developerName": "Flyinghead",
+      "subtitle": "A Dreamcast and arcade emulator for iPhone and iPad.",
+      "localizedDescription": "Flycast for iOS is an open-source emulator based on the Flycast project that allows users to run Sega Dreamcast, Naomi, and Atomiswave games on iPhone and iPad. It supports features such as save states, controller input, graphics enhancements, and performance tuning depending on the device. Compatible with iOS 14.0 and later (varies by build), Flycast is commonly used with sideloading tools and may require JIT for optimal performance. It is designed for retro gaming enthusiasts and emulator users on Apple devices.",
+      "iconURL": "https://i.imgur.com/pjA3gkf.png",
+      "tintColor": "#9748e2",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/chachillie/Flycast-iOS/releases/download/v1.0/Flycast-iOS.ipa",
+          "size": 8300000,
+          "version": "v2.6",
+          "buildVersion": null,
+          "date": "2026-06-06T22:23:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "Flycast uses the local network to find and communicate with AltServer.",
+          "NSMicrophoneUsageDescription": "Flycast requires microphone access to emulate the Dreamcast microphone",
+          "NSPhotoLibraryAddUsageDescription": "Flycast can save screenshots to your Photo library."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "DolphiniOS (Public Beta)",
+      "bundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
+      "marketplaceID": "",
+      "developerName": "OatmealDome",
+      "subtitle": "The public beta of the Dolphin-based GameCube and Wii emulator for iOS.",
+      "localizedDescription": "DolphiniOS (Public Beta) is the experimental beta release of the DolphiniOS emulator, allowing users to run GameCube and Wii games on iPhone and iPad. Built on the Dolphin emulator core, it provides support for save states, controller input, graphics enhancements, and performance tweaks. As a beta build, it may include unfinished features and stability issues compared to stable releases. It typically requires JIT for full performance and is commonly installed through sideloading tools such as SideStore.",
+      "iconURL": "https://i.imgur.com/lwBu21n.png",
+      "tintColor": "#000000",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b4/Non-Jailbroken.ipa",
+          "size": 18000000,
+          "version": "5.0.0b4",
+          "buildVersion": null,
+          "date": "2026-06-06T22:20:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "DolphiniOS uses the local network to find and communicate with AltServer."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "DolphiniOS",
+      "bundleIdentifier": "me.oatmealdome.DolphiniOS-njb",
+      "marketplaceID": "",
+      "developerName": "OatmealDome",
+      "subtitle": "A powerful GameCube and Wii emulator for iPhone and iPad.",
+      "localizedDescription": "DolphiniOS is an open-source emulator based on the Dolphin project that allows users to run GameCube and Wii games on iOS and iPadOS devices. It supports high-performance emulation features such as save states, controller support, graphics enhancements, and custom configurations. Compatible with iOS 14.0 and later (varies by build), DolphiniOS often requires JIT for optimal performance and is commonly used with sideloading tools like SideStore. It is designed for gaming enthusiasts and developers who want to experience console games on Apple devices.",
+      "iconURL": "https://i.imgur.com/950SqmI.png",
+      "tintColor": "#54ccfc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1/DolphiniOS-NJB-3.2.1-213.ipa",
+          "size": 80300000,
+          "version": "3.2.1",
+          "buildVersion": null,
+          "date": "2026-06-06T22:17:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSMotionUsageDescription": "DolphiniOS uses your device's accelerometer and gyroscope to emulate the Wii Remote's built-in accelerometer and gyroscope.",
+          "NSLocalNetworkUsageDescription": "DolphiniOS uses the local network to find and communicate with AltServer."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Nuvio",
       "bundleIdentifier": "com.nuvio.hub",
       "marketplaceID": "",
-      "developerName": "Nuvio Team",
-      "subtitle": "A modern media hub for organizing and streaming movies and TV shows.",
-      "localizedDescription": "Nuvio Media Hub is a media management and streaming application that allows users to organize their libraries, track watch history, synchronize with Trakt, and browse content through a modern interface. Compatible with iOS 16.0 and later (varies by build), it supports multiple catalog sources, personalized recommendations, watchlist management, and high-quality video playback. Designed for media enthusiasts, Nuvio focuses on providing a streamlined and customizable viewing experience across iPhone and iPad devices.",
-      "iconURL": "https://i.imgur.com/pPLuqBn.png",
+      "developerName": "Nuvio",
+      "subtitle": "A modern media hub for managing and streaming movies and TV shows.",
+      "localizedDescription": "Nuvio is a third-party media application designed to organize, browse, and stream video content from user-provided sources. It typically supports library management, watchlists, Trakt integration, and customizable media catalogs depending on the build. Designed for iOS devices, Nuvio provides a clean interface for managing entertainment content and playback through external or self-hosted sources. It is distributed outside the App Store and its features may vary depending on the specific release.",
+      "iconURL": "https://i.imgur.com/1K5wwoy.png",
       "tintColor": "#2cb0d8",
       "category": "other",
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/1.4.2/Stable_1-4-2.ipa",
+          "downloadURL": "https://github.com/tapframe/NuvioStreaming/releases/download/1.4.2/Stable_1-4-2.ipa",
           "size": 38800000,
           "version": "1.4.2",
           "buildVersion": null,
-          "date": "2026-06-06T19:39:00-04:00",
+          "date": "2026-06-06T22:12:00-04:00",
           "localizedDescription": null,
           "minOSVersion": null
         }
@@ -139,325 +694,6 @@
           "NSLocalNetworkUsageDescription": "Nuvio uses the local network to discover Cast-enabled devices on your WiFi network and to connect to local media servers.",
           "NSMicrophoneUsageDescription": "This app does not require microphone access."
         }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "DLiPA",
-      "bundleIdentifier": "com.ahmedbafkir.dlipa",
-      "marketplaceID": "",
-      "developerName": "Ahmed Bafkir",
-      "subtitle": "Download, install, and manage App Store IPA files directly on iOS.",
-      "localizedDescription": "DLiPA is an iOS application inspired by the ipatool project that allows users to search for, download, install, and share App Store applications using their own Apple ID. Compatible with iOS 13.0 and later, it supports downloading IPA files, managing multiple Apple accounts, installing apps directly on-device, and accessing older versions of applications that remain available on Apple's servers. Designed for sideloading enthusiasts and advanced users, DLiPA provides a native iOS interface for App Store package management without requiring a jailbreak.",
-      "iconURL": "https://i.imgur.com/OUv9EU6.png",
-      "tintColor": "#1ce4fc",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://github.com/AhmedBafkir/DLiPA/releases/download/v1.2/DLiPA_v1.2.ipa",
-          "size": 500000,
-          "version": "1.2",
-          "buildVersion": null,
-          "date": "2026-06-06T19:35:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSLocalNetworkUsageDescription": "Exchange data with nearby devices running the DLiPA."
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "XeniOS",
-      "bundleIdentifier": "com.xenios.jp",
-      "marketplaceID": "",
-      "developerName": "XeniOS Team",
-      "subtitle": "Play Xbox 360 games on iPhone and iPad with a powerful experimental emulator.",
-      "localizedDescription": "XeniOS is an experimental Xbox 360 emulator for iPhone, iPad, and Mac based on the Xenia project. Compatible with modern iOS and iPadOS devices (tested on iOS 18.0+), it allows users to run legally owned Xbox 360 game backups through advanced emulation technology. XeniOS requires JIT to run games and is typically installed through sideloading tools such as SideStore. As an alpha-stage project, compatibility and performance vary by game and device, but it represents one of the first efforts to bring Xbox 360 emulation to Apple's mobile platform.",
-      "iconURL": "https://i.imgur.com/Esz6O6h.png",
-      "tintColor": "#7f7f7f",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://github.com/xenios-jp/XeniOS/releases/download/release-v2.0.1-build-9730/xenios_ios_iphone_ipad.ipa",
-          "size": 46300000,
-          "version": "2.0.1",
-          "buildVersion": null,
-          "date": "2026-06-06T19:33:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Chromium",
-      "bundleIdentifier": "org.chromium.chrome.ios.dev",
-      "marketplaceID": "",
-      "developerName": "The Chromium Project",
-      "subtitle": "An open-source web browser built on the Chromium project for iPhone and iPad.",
-      "localizedDescription": "Chromium for iOS is an open-source web browser based on the Chromium project, providing a clean and experimental browsing experience for iPhone and iPad users. Compatible with iOS 15.0 and later (varies by build), it offers many of the interface and feature concepts found in Chromium-based browsers while adhering to Apple's platform requirements. Designed for developers, enthusiasts, and testers, Chromium for iOS serves as a foundation for browser experimentation and web technology development on Apple devices.",
-      "iconURL": "https://i.imgur.com/DBiUAXk.png",
-      "tintColor": "#3c6cd5",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://github.com/TheNightmanCodeth/chromium-ios/releases/download/1.0.0/chromium.ipa",
-          "size": 106700000,
-          "version": "91.4458.0",
-          "buildVersion": null,
-          "date": "2026-06-06T19:29:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSBluetoothPeripheralUsageDescription": "IDS_IOS_BLUETOOTH_USAGE_DESCRIPTION",
-          "NSCameraUsageDescription": "IDS_IOS_CAMERA_USAGE_DESCRIPTION",
-          "NSFaceIDUsageDescription": "IDS_IOS_FACE_ID_USAGE_DESCRIPTION",
-          "NSLocationWhenInUseUsageDescription": "IDS_IOS_LOCATION_WHEN_IN_USE_USAGE_DESCRIPTION",
-          "NSMicrophoneUsageDescription": "IDS_IOS_MICROPHONE_USAGE_DESCRIPTION",
-          "NSPhotoLibraryAddUsageDescription": "IDS_IOS_PHOTO_LIBRARY_ADD_USAGE_DESCRIPTION"
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "They Are Coming Zombie Defense (MOD MENU)",
-      "bundleIdentifier": "dev.onhit.theyarecoming",
-      "marketplaceID": "",
-      "developerName": "DreamsDrive Limited",
-      "subtitle": "Survive endless zombie hordes with powerful mod menu features and unlocked upgrades.",
-      "localizedDescription": "They Are Coming: Zombie Defense (Mod Menu) is a modified version of the zombie survival shooter. Players battle increasingly difficult waves of zombies using weapons, traps, barricades, and equipment while trying to survive as long as possible. This modded build includes additional features such as a mod menu, free shopping, unlimited currency, no ads, and other gameplay-enhancing options depending on the release version. Compatible with modern iOS devices, it is intended for sandbox-style gameplay and experimentation beyond the standard game progression.",
-      "iconURL": "https://i.imgur.com/bsopMrD.png",
-      "tintColor": "#86946a",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://file.ipaomtk.com/they-are-coming-zombie-defense-ipa/They-Are-Coming-Zombie-IPAOMTK.COM.ipa",
-          "size": 48600000,
-          "version": "1.30.2",
-          "buildVersion": null,
-          "date": "2026-06-06T19:05:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "FNaF UCN",
-      "bundleIdentifier": "com.clickteam.ultimatecustomnight",
-      "marketplaceID": "",
-      "developerName": "Scott Cawthon",
-      "subtitle": "Free FNaF UCN.",
-      "localizedDescription": "The paid version of FNaF UCN but for free.",
-      "iconURL": "https://i.imgur.com/bDMz0ef.png",
-      "tintColor": "#877b77",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://dl.iosvizor.net/ultimate-custom-night/ultimate-custom-night-v1.0.6-iosvizor.ipa",
-          "size": 208200000,
-          "version": "1.0.6",
-          "buildVersion": null,
-          "date": "2026-06-06T18:58:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Five Nights at Freddys Sister Location",
-      "bundleIdentifier": "com.scottgames.sisterlocation",
-      "marketplaceID": "",
-      "developerName": "Scott Cawthon",
-      "subtitle": "Free FNaF SL.",
-      "localizedDescription": "The paid version of FNaF SL but for free.",
-      "iconURL": "https://i.imgur.com/e1BgNAU.png",
-      "tintColor": "#241cc4",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://dl.iosvizor.net/five-nights-at-freddys-sl/Five-Nights-at-Freddys-SL-v2-0-41.ipa",
-          "size": 289600000,
-          "version": "2.0.4",
-          "buildVersion": null,
-          "date": "2026-06-06T18:44:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "FNaF World",
-      "bundleIdentifier": "com.spriter.fnafworld",
-      "marketplaceID": "",
-      "developerName": "Scott Cawthon",
-      "subtitle": "FNaF World port for ios.",
-      "localizedDescription": "a port of FNaF World for ios.",
-      "iconURL": "https://i.imgur.com/eUHHtcE.png",
-      "tintColor": "#1951c4",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://archive.org/download/fnaf-ios-ports-series/fnaf%20world.ipa",
-          "size": 353700000,
-          "version": "1.0",
-          "buildVersion": null,
-          "date": "2026-06-06T18:38:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSLocationWhenInUseUsageDescription": ""
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Five Nights at Freddys 4",
-      "bundleIdentifier": "com.scottgames.fnaf4",
-      "marketplaceID": "",
-      "developerName": "Scott Cawthon",
-      "subtitle": "Free FNaF 4.",
-      "localizedDescription": "The paid version of FNaF 4 but for free.",
-      "iconURL": "https://i.imgur.com/FGzs8LI.png",
-      "tintColor": "#c49c7c",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://dl.iosvizor.net/five-nights-at-freddys-4/Five-Nights-at-Freddys-4-v2-0-2.ipa",
-          "size": 43900000,
-          "version": "2.0.2",
-          "buildVersion": null,
-          "date": "2026-06-06T18:37:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Five Nights at Freddys 3",
-      "bundleIdentifier": "com.scottgames.fivenights3",
-      "marketplaceID": "",
-      "developerName": "Scott Cawthon",
-      "subtitle": "Free FNaF 3.",
-      "localizedDescription": "The paid version of FNaF 3 but for free.",
-      "iconURL": "https://i.imgur.com/eK3IpgH.png",
-      "tintColor": "#cc9424",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://dl.iosvizor.net/five-nights-at-freddys-3/Five-Nights-at-Freddys-3-v2-0-3.ipa",
-          "size": 65400000,
-          "version": "2.0.3",
-          "buildVersion": null,
-          "date": "2026-06-06T18:35:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Five Nights at Freddys 2",
-      "bundleIdentifier": "com.scottgames.fnaf2",
-      "marketplaceID": "",
-      "developerName": "Scott Cawthon",
-      "subtitle": "Free FNaF 2.",
-      "localizedDescription": "The paid version of FNaF 2 but for free.",
-      "iconURL": "https://i.imgur.com/u0xkmaN.png",
-      "tintColor": "#cc2c14",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://dl.iosvizor.net/five-nights-at-freddys-2/Five-Nights-at-Freddys-2-v2.0.5-iosvizor.com.ipa",
-          "size": 116700000,
-          "version": "2.0.5",
-          "buildVersion": null,
-          "date": "2026-06-06T18:33:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Five Nights at Freddys",
-      "bundleIdentifier": "com.scottgames.fivenights",
-      "marketplaceID": "",
-      "developerName": "Scott Cawthon",
-      "subtitle": "Free FNaF.",
-      "localizedDescription": "The paid version of FNaF but for free.",
-      "iconURL": "https://i.imgur.com/bzkM8WT.png",
-      "tintColor": "#d66528",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://dl.iosvizor.net/five-nights-at-freddys/Five-Nights-at-Freddys-v2.0.5-iosvizor.ipa",
-          "size": 108800000,
-          "version": "2.0.5",
-          "buildVersion": null,
-          "date": "2026-06-06T22:29:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
       },
       "patreon": {}
     },
@@ -474,12 +710,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://ios.repressoh.it/ipa/c2_beta/12.61-CL-13498980_BETAv4.ipa",
-          "size": 131100000,
           "version": "12.61.0",
-          "buildVersion": null,
           "date": "2026-06-06T18:20:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://ios.repressoh.it/ipa/c2_beta/12.61-CL-13498980_BETAv4.ipa",
+          "size": 131100000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -491,535 +727,6 @@
           "NSLocationAlwaysUsageDescription": "",
           "NSPhotoLibraryAddUsageDescription": "This application stores screen recordings to your camera Roll.",
           "NSMicrophoneUsageDescription": "This application uses the microphone for chatting with friends by voice."
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Angry Birds Star Wars II",
-      "bundleIdentifier": "com.rovio.angrybirdsstarwarsii",
-      "marketplaceID": "",
-      "developerName": "Rovio Entertainment",
-      "subtitle": "A sequel Star Wars crossover with switchable characters and expanded abilities.",
-      "localizedDescription": "Angry Birds Star Wars II is a physics-based puzzle game developed by Rovio Entertainment in collaboration with Lucasfilm. It serves as a sequel to Angry Birds Star Wars and introduces a larger roster of playable characters from both the bird and pig sides, each with unique abilities inspired by the Star Wars universe. The game features the ability to switch characters mid-level using Telepods, along with expanded levels based on iconic Star Wars locations and storylines.",
-      "iconURL": "https://i.imgur.com/LrTbLD1.png",
-      "tintColor": "#e8662c",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Star%20Wars%20II/Angry%20Birds%20Star%20Wars%20II%201.9.24%2064Bit.ipa",
-          "size": 197000000,
-          "version": "1.9.24",
-          "buildVersion": null,
-          "date": "2026-06-06T04:35:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSCalendarsUsageDescription": "Adding events",
-          "NSCameraUsageDescription": "Taking pictures",
-          "NSMotionUsageDescription": "Interactive ad controls",
-          "NSPhotoLibraryUsageDescription": "Taking pictures"
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Angry Birds Star Wars HD",
-      "bundleIdentifier": "com.rovio.angrybirdsstarwarsHD",
-      "marketplaceID": "",
-      "developerName": "Rovio Entertainment",
-      "subtitle": "A high-resolution Star Wars crossover version of Angry Birds for tablets.",
-      "localizedDescription": "Angry Birds Star Wars HD is a tablet-optimized edition of Angry Birds Star Wars developed by Rovio Entertainment in collaboration with Lucasfilm. It features the same physics-based slingshot gameplay where players use Star Wars-inspired bird characters with unique abilities like lightsabers and Force powers. This HD version includes enhanced high-resolution graphics, improved textures, and visual upgrades designed for larger screens while keeping the original crossover gameplay intact.",
-      "iconURL": "https://i.imgur.com/C16TK59.png",
-      "tintColor": "#000000",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Star%20Wars%20HD/Angry%20Birds%20Star%20Wars%20HD%201.5.12%2064Bit.ipa",
-          "size": 190900000,
-          "version": "1.5.12",
-          "buildVersion": null,
-          "date": "2026-06-07T00:33:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSCalendarsUsageDescription": "Adding events",
-          "NSCameraUsageDescription": "Taking pictures",
-          "NSMotionUsageDescription": "Interactive ad controls",
-          "NSPhotoLibraryUsageDescription": "Taking pictures"
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Angry Birds Star Wars",
-      "bundleIdentifier": "com.rovio.angrybirdsstarwars",
-      "marketplaceID": "",
-      "developerName": "Rovio Entertainment",
-      "subtitle": "A Star Wars crossover that blends Angry Birds gameplay with iconic sci-fi characters.",
-      "localizedDescription": "Angry Birds Star Wars is a physics-based puzzle game developed by Rovio Entertainment in collaboration with Lucasfilm. It combines classic slingshot gameplay with characters, locations, and abilities inspired by the Star Wars universe. Players control bird versions of Jedi, Sith, and other iconic characters, each with unique powers such as lightsaber attacks or Force abilities, across themed levels set on planets from the Star Wars saga.",
-      "iconURL": "https://i.imgur.com/f3bPrMT.png",
-      "tintColor": "#1454a5",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Star%20Wars/Angry%20Birds%20Star%20Wars%201.5.12%2064Bit.ipa",
-          "size": 155800000,
-          "version": "1.5.12",
-          "buildVersion": null,
-          "date": "2026-06-07T00:31:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSCalendarsUsageDescription": "Adding events",
-          "NSCameraUsageDescription": "Taking pictures",
-          "NSMotionUsageDescription": "Interactive ad controls",
-          "NSPhotoLibraryUsageDescription": "Taking pictures"
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Angry Birds Space HD",
-      "bundleIdentifier": "com.rovio.AngryBirdsSpaceHD",
-      "marketplaceID": "",
-      "developerName": "Rovio Entertainment",
-      "subtitle": "A high-resolution version of Angry Birds Space optimized for tablets.",
-      "localizedDescription": "Angry Birds Space HD is a tablet-optimized version of Angry Birds Space developed by Rovio Entertainment. It features the same gravity-based gameplay where players launch birds through space, using planetary gravity fields, orbits, and zero-gravity mechanics to solve puzzles. This HD edition includes enhanced high-resolution graphics, improved textures, and visual optimizations designed for larger screens while preserving the original space-themed gameplay experience.",
-      "iconURL": "https://i.imgur.com/57Ud6mQ.png",
-      "tintColor": "#dc7c1c",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Space%20HD/Angry%20Birds%20Space%20HD%202.2.9%2064Bit.ipa",
-          "size": 160400000,
-          "version": "2.2.9",
-          "buildVersion": null,
-          "date": "2026-06-07T00:29:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSCalendarsUsageDescription": "Adding events",
-          "NSCameraUsageDescription": "Taking pictures",
-          "NSMotionUsageDescription": "Interactive ad controls",
-          "NSPhotoLibraryUsageDescription": "Taking pictures"
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Angry Birds Space",
-      "bundleIdentifier": "com.rovio.AngryBirdsSpace",
-      "marketplaceID": "",
-      "developerName": "Rovio Entertainment",
-      "subtitle": "A gravity-based Angry Birds adventure set across space and planets.",
-      "localizedDescription": "Angry Birds Space is a physics-based puzzle game developed by Rovio Entertainment that introduces zero-gravity mechanics and planetary gravity fields. Players launch birds through space environments, using gravitational pulls from planets and asteroids to curve trajectories and solve puzzles. The game features new bird abilities, unique level mechanics, and space-themed worlds that add a strategic twist to the classic slingshot gameplay.",
-      "iconURL": "https://i.imgur.com/SmbFiX0.png",
-      "tintColor": "#0d8ff1",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Space/Angry%20Birds%20Space%202.2.9%2064Bit.ipa",
-          "size": 149100000,
-          "version": "2.2.9",
-          "buildVersion": null,
-          "date": "2026-06-06T04:26:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSCalendarsUsageDescription": "Adding events",
-          "NSCameraUsageDescription": "Taking pictures",
-          "NSMotionUsageDescription": "Interactive ad controls",
-          "NSPhotoLibraryUsageDescription": "Taking pictures"
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Angry Birds Seasons HD",
-      "bundleIdentifier": "com.rovio.AngryBirdsHalloweenHD",
-      "marketplaceID": "",
-      "developerName": "Rovio Entertainment",
-      "subtitle": "A high-resolution version of Angry Birds Seasons with enhanced visuals for tablets.",
-      "localizedDescription": "Angry Birds Seasons HD is a tablet-optimized version of Angry Birds Seasons developed by Rovio Entertainment. It features the same seasonal, physics-based slingshot gameplay where players complete themed levels based on holidays and events such as Halloween, Christmas, and Valentine’s Day. This HD edition includes improved high-resolution graphics, sharper textures, and visual enhancements designed for larger screens while keeping the original gameplay experience intact.",
-      "iconURL": "https://i.imgur.com/wUtNPtr.png",
-      "tintColor": "#000000",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Seasons%20HD/Angry%20Birds%20Seasons%20HD%206.6.2%2064Bit.ipa",
-          "size": 678000000,
-          "version": "6.6.2",
-          "buildVersion": null,
-          "date": "2026-06-07T00:25:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSCalendarsUsageDescription": "This lets you add events to your calendar from the game.",
-          "NSCameraUsageDescription": "This lets the game use the camera for taking photos and videos. ",
-          "NSMotionUsageDescription ": "This lets the game sense your device motion and orientation.",
-          "NSPhotoLibraryUsageDescription": "This lets the game access your photos and add screenshots to your Camera Roll."
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Angry Birds Seasons",
-      "bundleIdentifier": "com.rovio.AngryBirdsHalloween",
-      "marketplaceID": "",
-      "developerName": "Rovio Entertainment",
-      "subtitle": "A seasonal twist on classic slingshot gameplay with themed levels year-round.",
-      "localizedDescription": "Angry Birds Seasons is a physics-based puzzle game developed by Rovio Entertainment that expands the original Angry Birds formula with themed episodes based on real-world holidays and seasonal events. Players use a slingshot to launch birds at pig-built structures across levels inspired by celebrations like Halloween, Christmas, Valentine’s Day, and more. Each update introduces new mechanics, environments, and challenges tied to its seasonal theme.",
-      "iconURL": "https://i.imgur.com/lQjhocP.png",
-      "tintColor": "#1cc4f4",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Seasons%20/Angry%20Birds%20Seasons%206.6.2%2064Bit.ipa",
-          "size": 279400000,
-          "version": "6.6.2",
-          "buildVersion": null,
-          "date": "2026-06-07T04:17:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSCalendarsUsageDescription": "This lets you add events to your calendar from the game.",
-          "NSCameraUsageDescription": "This lets the game use the camera for taking photos and videos. ",
-          "NSMotionUsageDescription ": "This lets the game sense your device motion and orientation.",
-          "NSPhotoLibraryUsageDescription": "This lets the game access your photos and add screenshots to your Camera Roll."
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Angry Birds Rio HD",
-      "bundleIdentifier": "com.rovio.angrybirdsriohd",
-      "marketplaceID": "",
-      "developerName": "Rovio Entertainment",
-      "subtitle": "A high-resolution version of Angry Birds Rio optimized for tablets.",
-      "localizedDescription": "Angry Birds Rio HD is an enhanced, high-resolution edition of Angry Birds Rio designed for larger screens and tablet devices. Developed by Rovio Entertainment in collaboration with 20th Century Studios, it features the same physics-based slingshot gameplay as the original, where players rescue birds by breaking cages across tropical environments inspired by the Rio films. This HD version includes improved graphics, higher-resolution textures, and optimized visuals for modern devices while keeping the original gameplay intact.",
-      "iconURL": "https://i.imgur.com/EGJBZFW.png",
-      "tintColor": "#000000",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Rio%20HD/Angry%20Birds%20Rio%20HD%202.6.9%2064Bit.ipa",
-          "size": 211200000,
-          "version": "2.6.9",
-          "buildVersion": null,
-          "date": "2026-06-07T04:13:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSCalendarsUsageDescription": "This lets you add events to your calendar from the game.",
-          "NSCameraUsageDescription": "This lets the game use the camera for taking photos and videos.",
-          "NSMotionUsageDescription": "This lets the game sense your device motion and orientation.",
-          "NSPhotoLibraryUsageDescription": "This lets the game access your photos and add screenshots to your Camera Roll."
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Angry Birds Rio",
-      "bundleIdentifier": "com.rovio.angrybirdsrio",
-      "marketplaceID": "",
-      "developerName": "Rovio Entertainment",
-      "subtitle": "A movie-themed slingshot puzzle game set in the Rio universe.",
-      "localizedDescription": "Angry Birds Rio is a physics-based puzzle game developed by Rovio Entertainment in collaboration with 20th Century Studios. Based on the Rio film franchise, it features classic slingshot gameplay where players launch birds to break cages and defeat enemies across tropical environments. The game includes themed episodes, unique level mechanics, and boss encounters inspired by locations and characters from the Rio movies.",
-      "iconURL": "https://i.imgur.com/WRNTzJz.png",
-      "tintColor": "#04a414",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Rio/Angry%20Birds%20Rio%202.6.9%2064Bit.ipa",
-          "size": 122700000,
-          "version": "2.6.9",
-          "buildVersion": null,
-          "date": "2026-06-07T00:12:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSCalendarsUsageDescription": "This lets you add events to your calendar from the game.",
-          "NSCameraUsageDescription": "This lets the game use the camera for taking photos and videos.",
-          "NSMotionUsageDescription": "This lets the game sense your device motion and orientation.",
-          "NSPhotoLibraryUsageDescription": "This lets the game access your photos and add screenshots to your Camera Roll."
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Angry Birds Classic HD",
-      "bundleIdentifier": "com.chillingo.angrybirdsipad",
-      "marketplaceID": "",
-      "developerName": "Rovio Entertainment",
-      "subtitle": "A high-resolution version of the original Angry Birds with enhanced visuals for tablets.",
-      "localizedDescription": "Angry Birds Classic HD is an enhanced version of the original physics-based slingshot puzzle game designed for larger screens and higher-resolution displays. Developed by Rovio Entertainment, it features the same core gameplay as Angry Birds Classic—where players launch birds to destroy structures and defeat pigs—while offering improved graphics, sharper textures, and optimized visuals for tablets and modern devices.",
-      "iconURL": "https://i.imgur.com/W6b6hQ3.png",
-      "tintColor": "#000000",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20HD/Angry%20Birds%20HD%208.0.3%2064Bit.ipa",
-          "size": 132800000,
-          "version": "8.0.3",
-          "buildVersion": null,
-          "date": "2026-06-07T00:07:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSCalendarsUsageDescription": "Adding events",
-          "NSCameraUsageDescription": "Taking Pictures ",
-          "NSMotionUsageDescription ": "Interactive ad controls",
-          "NSPhotoLibraryUsageDescription": "Taking pictures"
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Angry Birds GO!",
-      "bundleIdentifier": "com.rovio.angrybirdsgo",
-      "marketplaceID": "",
-      "developerName": "Rovio Entertainment",
-      "subtitle": "A fast-paced kart racing game set in the Angry Birds universe.",
-      "localizedDescription": "Angry Birds GO! is a 3D kart racing game where players race as characters from the Angry Birds universe on dynamic tracks filled with shortcuts, ramps, and hazards. Developed by Rovio Entertainment, the game features vehicle upgrades, character abilities, multiple race modes, and a progression system where players unlock new racers and karts. It combines arcade-style racing with familiar Angry Birds characters and environments.",
-      "iconURL": "https://i.imgur.com/i0GeacF.png",
-      "tintColor": "#dc2424",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Go/Angry%20Birds%20Go%202.8.3%2064Bit.ipa",
-          "size": 478800000,
-          "version": "2.8.3",
-          "buildVersion": null,
-          "date": "2026-06-06T04:06:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSBluetoothPeripheralUsageDescription": "Angry Birds Go! would like to use bluetooth.",
-          "NSCalendarsUsageDescription": "Adding events",
-          "NSCameraUsageDescription": "Taking Pictures ",
-          "NSLocationWhenInUseUsageDescription": "",
-          "NSMicrophoneUsageDescription": "Angry Birds Go! would like to use the microphone.",
-          "NSMotionUsageDescription ": "Interactive ad controls",
-          "NSPhotoLibraryUsageDescription": "Taking pictures"
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Angry Birds Epic",
-      "bundleIdentifier": "com.rovio.gold",
-      "marketplaceID": "",
-      "developerName": "Rovio Entertainment",
-      "subtitle": "A turn-based RPG adventure set in the Angry Birds universe.",
-      "localizedDescription": "Angry Birds Epic is a turn-based role-playing game where players assemble a team of birds to battle pigs across fantasy-themed islands. Developed by Rovio Entertainment, it features strategic combat, character progression, crafting systems, and gear upgrades instead of traditional slingshot gameplay. Players take turns in battles, using unique abilities and equipment to defeat enemies and progress through a story-driven campaign.",
-      "iconURL": "https://i.imgur.com/g3natxw.png",
-      "tintColor": "#4094e8",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Epic/Angry%20Birds%20Epic%203.0.1%2064Bit.ipa",
-          "size": 615900000,
-          "version": "3.0.1",
-          "buildVersion": null,
-          "date": "2026-06-07T00:00:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSCalendarsUsageDescription": "This lets you add events to your calendar from the game.",
-          "NSCameraUsageDescription": "This lets the game use the camera for taking photos and videos.",
-          "NSMotionUsageDescription": "This lets the game sense your device motion and orientation.",
-          "NSPhotoLibraryUsageDescription": "This lets the game access your photos and add screenshots to your Camera Roll."
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Angry Birds Classic",
-      "bundleIdentifier": "com.clickgamer.AngryBirds",
-      "marketplaceID": "",
-      "developerName": "Rovio Entertainment",
-      "subtitle": "The original physics-based slingshot game that started the Angry Birds series.",
-      "localizedDescription": "Angry Birds Classic is a physics-based puzzle game where players use a slingshot to launch birds at structures built by pigs in order to defeat them. Developed by Rovio Entertainment, it features progressively challenging levels, unique bird abilities, and destructible environments that reward precision and strategy. The game became one of the most iconic mobile titles of all time and helped define the early era of mobile gaming.",
-      "iconURL": "https://i.imgur.com/v4WaNyk.png",
-      "tintColor": "#16b4dc",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds/Angry%20Birds%208.0.3%2064Bit.ipa",
-          "size": 133000000,
-          "version": "8.0.3",
-          "buildVersion": null,
-          "date": "2026-06-06T23:50:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSCalendarsUsageDescription": "Adding events",
-          "NSCameraUsageDescription": "Taking Pictures ",
-          "NSMotionUsageDescription ": "Interactive ad controls",
-          "NSPhotoLibraryUsageDescription": "Taking pictures"
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Minecraft",
-      "bundleIdentifier": "com.mojang.minecraftpe",
-      "marketplaceID": "",
-      "developerName": "Mojang",
-      "subtitle": "Free Minecraft.",
-      "localizedDescription": "The paid version of Minecraft but for free.",
-      "iconURL": "https://i.imgur.com/VSTLUjY.png",
-      "tintColor": "#58ac3b",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://archive.org/download/musi-6.2.41-decrypted-le-ti/Minecraft_%20Dream%20it,%20Build%20it!_1.26.13_13.0_LeTi.ipa",
-          "size": 620800000,
-          "version": "1.26.13",
-          "buildVersion": null,
-          "date": "2026-06-07T03:45:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSCameraUsageDescription": "Used for Live Broadcast",
-          "NSContactsUsageDescription": "When you use the Xbox Live Friend Finder, it will access your contacts to help you find your friends.",
-          "NSLocalNetworkUsageDescription": "Minecraft wants to access your local network. This allows you and others on your local network to play together. Declining this permission does not affect online features or gameplay. But will prevent you and others, on the same network, from playing together.",
-          "NSMainNibFile": "MainWindow",
-          "NSMicrophoneUsageDescription": "Used for Live Broadcast",
-          "NSPhotoLibraryAddUsageDescription": "Used to read and write Minecraft images.",
-          "NSPhotoLibraryUsageDescription": "Used to read and write Minecraft images.",
-          "NSUserTrackingUsageDescription": "Your data will be used to track advertising efficiency."
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Geometry Dash",
-      "bundleIdentifier": "com.robtop.geometryjump",
-      "marketplaceID": "",
-      "developerName": "RobTop Games",
-      "subtitle": "Free Geometry Dash.",
-      "localizedDescription": "The paid version of Geometry Dash but for free.",
-      "iconURL": "https://i.imgur.com/4ZSml80.png",
-      "tintColor": "#fbcd05",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://archive.org/download/geometry-dash-2.208-12.0-le-ti/Geometry%20Dash_2.208_12.0_LeTi.ipa",
-          "size": 145300000,
-          "version": "2.208",
-          "buildVersion": null,
-          "date": "2026-06-07T03:36:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Geode",
-      "bundleIdentifier": "com.geode.launcher",
-      "marketplaceID": "",
-      "developerName": "Geode Team",
-      "subtitle": "A modern mod loader for Geometry Dash with powerful customization support.",
-      "localizedDescription": "Geode is an open-source modding framework for Geometry Dash that allows users to install and manage gameplay mods, plugins, and extensions directly on supported versions of the game. Compatible with Geometry Dash 2.2+ (platform support varies by build), it provides a unified system for loading mods, customizing gameplay features, and enhancing the game experience without manual patching. Designed for the Geometry Dash modding community, Geode simplifies mod installation and enables a stable ecosystem for community-created extensions.",
-      "iconURL": "https://i.imgur.com/SK6ZQGm.png",
-      "tintColor": "#956995",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://github.com/geode-sdk/ios-launcher/releases/download/v1.5.4/com.geode.launcher_1.5.4.ipa",
-          "size": 13200000,
-          "version": "1.5.4",
-          "buildVersion": null,
-          "date": "2026-06-07T03:34:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSMicrophoneUsageDescription": "A mod you are using is requesting this permission.",
-          "NSCameraUsageDescription": "A mod you are using is requesting this permission.",
-          "NSLocalNetworkUsageDescription": "This permission is needed for accessing the JIT server."
         }
       },
       "patreon": {}
@@ -1052,6 +759,636 @@
           "NSLocationAlwaysUsageDescription": "",
           "NSLocationWhenInUseUsageDescription": "&gt;",
           "NSMicrophoneUsageDescription": "Fortnite needs microphone access for voice chat."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "EeveeSpotify",
+      "bundleIdentifier": "com.spotify.client",
+      "marketplaceID": "",
+      "developerName": "whoeevee",
+      "subtitle": "A modified Spotify client with unlocked premium features and enhanced playback controls.",
+      "localizedDescription": "EeveeSpotify is an unofficial modified version of the Spotify iOS app that unlocks premium-style features such as ad-free listening, enhanced playback controls, and additional customization options. It is typically installed through sideloading methods and works by patching the official Spotify client to modify certain client-side restrictions. EeveeSpotify is not affiliated with Spotify and is intended for educational and experimental use within the sideloading community.",
+      "iconURL": "https://i.imgur.com/7oZELTv.png",
+      "tintColor": "#349c5c",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "9.1.48",
+          "date": "2026-06-06T19:50:00-04:00",
+          "localizedDescription": null,
+          "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/package_files/303874879/download",
+          "size": 111200000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "This will let you play your imported music on Spotify.",
+          "NSBluetoothAlwaysUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
+          "NSCalendarsUsageDescription": "This lets Spotify view and add events to your calendar.",
+          "NSCalendarsWriteOnlyAccessUsageDescription": "This lets Spotify add events to your calendar.",
+          "NSCameraUsageDescription": "This lets you use your camera to scan or upload images.",
+          "NSContactsUsageDescription": "This lets Spotify access calendars you may have shared with your contacts.",
+          "NSFaceIDUsageDescription": "This lets you set access restrictions using Face ID.",
+          "NSHealthShareUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+          "NSHealthUpdateUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+          "NSLocalNetworkUsageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files.",
+          "NSLocationWhenInUseUsageDescription": "Your location is used to improve your recommendations and experience on Spotify.",
+          "NSMicrophoneUsageDescription": "This lets you control Spotify using your voice.",
+          "NSMotionUsageDescription": "We will use this to understand which audio motivates you most.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save images to your Photo Library.",
+          "NSPhotoLibraryUsageDescription": "This lets you select images from your Photo Library.",
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads or content to you."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "XeniOS",
+      "bundleIdentifier": "com.xenios.jp",
+      "marketplaceID": "",
+      "developerName": "N3xoX1",
+      "subtitle": "Play Xbox 360 games on iPhone and iPad with a powerful experimental emulator.",
+      "localizedDescription": "XeniOS is an experimental Xbox 360 emulator for iPhone, iPad, and Mac based on the Xenia project. Compatible with modern iOS and iPadOS devices (tested on iOS 18.0+), it allows users to run legally owned Xbox 360 game backups through advanced emulation technology. XeniOS requires JIT to run games and is typically installed through sideloading tools such as SideStore. As an alpha-stage project, compatibility and performance vary by game and device, but it represents one of the first efforts to bring Xbox 360 emulation to Apple's mobile platform.",
+      "iconURL": "https://i.imgur.com/Esz6O6h.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "2.0.1",
+          "date": "2026-06-06T19:33:00-04:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/xenios-jp/XeniOS/releases/download/release-v2.0.1-build-9730/xenios_ios_iphone_ipad.ipa",
+          "size": 46300000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "They Are Coming Zombie Defense (MOD MENU)",
+      "bundleIdentifier": "dev.onhit.theyarecoming",
+      "marketplaceID": "",
+      "developerName": "DreamsDrive Limited",
+      "subtitle": "Survive endless zombie hordes with powerful mod menu features and unlocked upgrades.",
+      "localizedDescription": "They Are Coming: Zombie Defense (Mod Menu) is a modified version of the zombie survival shooter. Players battle increasingly difficult waves of zombies using weapons, traps, barricades, and equipment while trying to survive as long as possible. This modded build includes additional features such as a mod menu, free shopping, unlimited currency, no ads, and other gameplay-enhancing options depending on the release version. Compatible with modern iOS devices, it is intended for sandbox-style gameplay and experimentation beyond the standard game progression.",
+      "iconURL": "https://i.imgur.com/bsopMrD.png",
+      "tintColor": "#86946a",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.30.2",
+          "date": "2026-06-06T19:05:00-04:00",
+          "localizedDescription": null,
+          "downloadURL": "https://file.ipaomtk.com/they-are-coming-zombie-defense-ipa/They-Are-Coming-Zombie-IPAOMTK.COM.ipa",
+          "size": 48600000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Angry Birds Star Wars II",
+      "bundleIdentifier": "com.rovio.angrybirdsstarwarsii",
+      "marketplaceID": "",
+      "developerName": "Rovio Entertainment",
+      "subtitle": "A sequel Star Wars crossover with switchable characters and expanded abilities.",
+      "localizedDescription": "Angry Birds Star Wars II is a physics-based puzzle game developed by Rovio Entertainment in collaboration with Lucasfilm. It serves as a sequel to Angry Birds Star Wars and introduces a larger roster of playable characters from both the bird and pig sides, each with unique abilities inspired by the Star Wars universe. The game features the ability to switch characters mid-level using Telepods, along with expanded levels based on iconic Star Wars locations and storylines.",
+      "iconURL": "https://i.imgur.com/LrTbLD1.png",
+      "tintColor": "#e8662c",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.9.24",
+          "date": "2026-06-06T04:35:00-04:00",
+          "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Star%20Wars%20II/Angry%20Birds%20Star%20Wars%20II%201.9.24%2064Bit.ipa",
+          "size": 197000000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsUsageDescription": "Adding events",
+          "NSCameraUsageDescription": "Taking pictures",
+          "NSMotionUsageDescription": "Interactive ad controls",
+          "NSPhotoLibraryUsageDescription": "Taking pictures"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Angry Birds Star Wars HD",
+      "bundleIdentifier": "com.rovio.angrybirdsstarwarsHD",
+      "marketplaceID": "",
+      "developerName": "Rovio Entertainment",
+      "subtitle": "A high-resolution Star Wars crossover version of Angry Birds for tablets.",
+      "localizedDescription": "Angry Birds Star Wars HD is a tablet-optimized edition of Angry Birds Star Wars developed by Rovio Entertainment in collaboration with Lucasfilm. It features the same physics-based slingshot gameplay where players use Star Wars-inspired bird characters with unique abilities like lightsabers and Force powers. This HD version includes enhanced high-resolution graphics, improved textures, and visual upgrades designed for larger screens while keeping the original crossover gameplay intact.",
+      "iconURL": "https://i.imgur.com/C16TK59.png",
+      "tintColor": "#1454a5",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.5.12",
+          "date": "2026-06-07T00:33:00-04:00",
+          "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Star%20Wars%20HD/Angry%20Birds%20Star%20Wars%20HD%201.5.12%2064Bit.ipa",
+          "size": 190900000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsUsageDescription": "Adding events",
+          "NSCameraUsageDescription": "Taking pictures",
+          "NSMotionUsageDescription": "Interactive ad controls",
+          "NSPhotoLibraryUsageDescription": "Taking pictures"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Angry Birds Star Wars",
+      "bundleIdentifier": "com.rovio.angrybirdsstarwars",
+      "marketplaceID": "",
+      "developerName": "Rovio Entertainment",
+      "subtitle": "A Star Wars crossover that blends Angry Birds gameplay with iconic sci-fi characters.",
+      "localizedDescription": "Angry Birds Star Wars is a physics-based puzzle game developed by Rovio Entertainment in collaboration with Lucasfilm. It combines classic slingshot gameplay with characters, locations, and abilities inspired by the Star Wars universe. Players control bird versions of Jedi, Sith, and other iconic characters, each with unique powers such as lightsaber attacks or Force abilities, across themed levels set on planets from the Star Wars saga.",
+      "iconURL": "https://i.imgur.com/f3bPrMT.png",
+      "tintColor": "#1454a5",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.5.12",
+          "date": "2026-06-07T00:31:00-04:00",
+          "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Star%20Wars/Angry%20Birds%20Star%20Wars%201.5.12%2064Bit.ipa",
+          "size": 155800000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsUsageDescription": "Adding events",
+          "NSCameraUsageDescription": "Taking pictures",
+          "NSMotionUsageDescription": "Interactive ad controls",
+          "NSPhotoLibraryUsageDescription": "Taking pictures"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Angry Birds Space HD",
+      "bundleIdentifier": "com.rovio.AngryBirdsSpaceHD",
+      "marketplaceID": "",
+      "developerName": "Rovio Entertainment",
+      "subtitle": "A high-resolution version of Angry Birds Space optimized for tablets.",
+      "localizedDescription": "Angry Birds Space HD is a tablet-optimized version of Angry Birds Space developed by Rovio Entertainment. It features the same gravity-based gameplay where players launch birds through space, using planetary gravity fields, orbits, and zero-gravity mechanics to solve puzzles. This HD edition includes enhanced high-resolution graphics, improved textures, and visual optimizations designed for larger screens while preserving the original space-themed gameplay experience.",
+      "iconURL": "https://i.imgur.com/57Ud6mQ.png",
+      "tintColor": "#0d8ff1",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "2.2.9",
+          "date": "2026-06-07T00:29:00-04:00",
+          "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Space%20HD/Angry%20Birds%20Space%20HD%202.2.9%2064Bit.ipa",
+          "size": 160400000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsUsageDescription": "Adding events",
+          "NSCameraUsageDescription": "Taking pictures",
+          "NSMotionUsageDescription": "Interactive ad controls",
+          "NSPhotoLibraryUsageDescription": "Taking pictures"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Angry Birds Space",
+      "bundleIdentifier": "com.rovio.AngryBirdsSpace",
+      "marketplaceID": "",
+      "developerName": "Rovio Entertainment",
+      "subtitle": "A gravity-based Angry Birds adventure set across space and planets.",
+      "localizedDescription": "Angry Birds Space is a physics-based puzzle game developed by Rovio Entertainment that introduces zero-gravity mechanics and planetary gravity fields. Players launch birds through space environments, using gravitational pulls from planets and asteroids to curve trajectories and solve puzzles. The game features new bird abilities, unique level mechanics, and space-themed worlds that add a strategic twist to the classic slingshot gameplay.",
+      "iconURL": "https://i.imgur.com/SmbFiX0.png",
+      "tintColor": "#0d8ff1",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "2.2.9",
+          "date": "2026-06-06T04:26:00-04:00",
+          "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Space/Angry%20Birds%20Space%202.2.9%2064Bit.ipa",
+          "size": 149100000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsUsageDescription": "Adding events",
+          "NSCameraUsageDescription": "Taking pictures",
+          "NSMotionUsageDescription": "Interactive ad controls",
+          "NSPhotoLibraryUsageDescription": "Taking pictures"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Angry Birds Seasons HD",
+      "bundleIdentifier": "com.rovio.AngryBirdsHalloweenHD",
+      "marketplaceID": "",
+      "developerName": "Rovio Entertainment",
+      "subtitle": "A high-resolution version of Angry Birds Seasons with enhanced visuals for tablets.",
+      "localizedDescription": "Angry Birds Seasons HD is a tablet-optimized version of Angry Birds Seasons developed by Rovio Entertainment. It features the same seasonal, physics-based slingshot gameplay where players complete themed levels based on holidays and events such as Halloween, Christmas, and Valentine’s Day. This HD edition includes improved high-resolution graphics, sharper textures, and visual enhancements designed for larger screens while keeping the original gameplay experience intact.",
+      "iconURL": "https://i.imgur.com/YtK8w3v.png",
+      "tintColor": "#1cc4f4",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "6.6.2",
+          "date": "2026-06-07T00:25:00-04:00",
+          "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Seasons%20HD/Angry%20Birds%20Seasons%20HD%206.6.2%2064Bit.ipa",
+          "size": 678000000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsUsageDescription": "This lets you add events to your calendar from the game.",
+          "NSCameraUsageDescription": "This lets the game use the camera for taking photos and videos. ",
+          "NSMotionUsageDescription ": "This lets the game sense your device motion and orientation.",
+          "NSPhotoLibraryUsageDescription": "This lets the game access your photos and add screenshots to your Camera Roll."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Angry Birds Seasons",
+      "bundleIdentifier": "com.rovio.AngryBirdsHalloween",
+      "marketplaceID": "",
+      "developerName": "Rovio Entertainment",
+      "subtitle": "A seasonal twist on classic slingshot gameplay with themed levels year-round.",
+      "localizedDescription": "Angry Birds Seasons is a physics-based puzzle game developed by Rovio Entertainment that expands the original Angry Birds formula with themed episodes based on real-world holidays and seasonal events. Players use a slingshot to launch birds at pig-built structures across levels inspired by celebrations like Halloween, Christmas, Valentine’s Day, and more. Each update introduces new mechanics, environments, and challenges tied to its seasonal theme.",
+      "iconURL": "https://i.imgur.com/lQjhocP.png",
+      "tintColor": "#1cc4f4",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "6.6.2",
+          "date": "2026-06-07T04:17:00-04:00",
+          "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Seasons%20/Angry%20Birds%20Seasons%206.6.2%2064Bit.ipa",
+          "size": 279400000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsUsageDescription": "This lets you add events to your calendar from the game.",
+          "NSCameraUsageDescription": "This lets the game use the camera for taking photos and videos. ",
+          "NSMotionUsageDescription ": "This lets the game sense your device motion and orientation.",
+          "NSPhotoLibraryUsageDescription": "This lets the game access your photos and add screenshots to your Camera Roll."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Angry Birds Rio HD",
+      "bundleIdentifier": "com.rovio.angrybirdsriohd",
+      "marketplaceID": "",
+      "developerName": "Rovio Entertainment",
+      "subtitle": "A high-resolution version of Angry Birds Rio optimized for tablets.",
+      "localizedDescription": "Angry Birds Rio HD is an enhanced, high-resolution edition of Angry Birds Rio designed for larger screens and tablet devices. Developed by Rovio Entertainment in collaboration with 20th Century Studios, it features the same physics-based slingshot gameplay as the original, where players rescue birds by breaking cages across tropical environments inspired by the Rio films. This HD version includes improved graphics, higher-resolution textures, and optimized visuals for modern devices while keeping the original gameplay intact.",
+      "iconURL": "https://i.imgur.com/f3eA1zt.png",
+      "tintColor": "#04a414",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "2.6.9",
+          "date": "2026-06-07T04:13:00-04:00",
+          "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Rio%20HD/Angry%20Birds%20Rio%20HD%202.6.9%2064Bit.ipa",
+          "size": 211200000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsUsageDescription": "This lets you add events to your calendar from the game.",
+          "NSCameraUsageDescription": "This lets the game use the camera for taking photos and videos.",
+          "NSMotionUsageDescription": "This lets the game sense your device motion and orientation.",
+          "NSPhotoLibraryUsageDescription": "This lets the game access your photos and add screenshots to your Camera Roll."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Angry Birds Rio",
+      "bundleIdentifier": "com.rovio.angrybirdsrio",
+      "marketplaceID": "",
+      "developerName": "Rovio Entertainment",
+      "subtitle": "A movie-themed slingshot puzzle game set in the Rio universe.",
+      "localizedDescription": "Angry Birds Rio is a physics-based puzzle game developed by Rovio Entertainment in collaboration with 20th Century Studios. Based on the Rio film franchise, it features classic slingshot gameplay where players launch birds to break cages and defeat enemies across tropical environments. The game includes themed episodes, unique level mechanics, and boss encounters inspired by locations and characters from the Rio movies.",
+      "iconURL": "https://i.imgur.com/WRNTzJz.png",
+      "tintColor": "#04a414",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "2.6.9",
+          "date": "2026-06-07T00:12:00-04:00",
+          "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Rio/Angry%20Birds%20Rio%202.6.9%2064Bit.ipa",
+          "size": 122700000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsUsageDescription": "This lets you add events to your calendar from the game.",
+          "NSCameraUsageDescription": "This lets the game use the camera for taking photos and videos.",
+          "NSMotionUsageDescription": "This lets the game sense your device motion and orientation.",
+          "NSPhotoLibraryUsageDescription": "This lets the game access your photos and add screenshots to your Camera Roll."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Angry Birds Classic HD",
+      "bundleIdentifier": "com.chillingo.angrybirdsipad",
+      "marketplaceID": "",
+      "developerName": "Rovio Entertainment",
+      "subtitle": "A high-resolution version of the original Angry Birds with enhanced visuals for tablets.",
+      "localizedDescription": "Angry Birds Classic HD is an enhanced version of the original physics-based slingshot puzzle game designed for larger screens and higher-resolution displays. Developed by Rovio Entertainment, it features the same core gameplay as Angry Birds Classic—where players launch birds to destroy structures and defeat pigs—while offering improved graphics, sharper textures, and optimized visuals for tablets and modern devices.",
+      "iconURL": "https://i.imgur.com/W6b6hQ3.png",
+      "tintColor": "#16b4dc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "8.0.3",
+          "date": "2026-06-07T00:07:00-04:00",
+          "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20HD/Angry%20Birds%20HD%208.0.3%2064Bit.ipa",
+          "size": 132800000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsUsageDescription": "Adding events",
+          "NSCameraUsageDescription": "Taking Pictures ",
+          "NSMotionUsageDescription ": "Interactive ad controls",
+          "NSPhotoLibraryUsageDescription": "Taking pictures"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Angry Birds GO!",
+      "bundleIdentifier": "com.rovio.angrybirdsgo",
+      "marketplaceID": "",
+      "developerName": "Rovio Entertainment",
+      "subtitle": "A fast-paced kart racing game set in the Angry Birds universe.",
+      "localizedDescription": "Angry Birds GO! is a 3D kart racing game where players race as characters from the Angry Birds universe on dynamic tracks filled with shortcuts, ramps, and hazards. Developed by Rovio Entertainment, the game features vehicle upgrades, character abilities, multiple race modes, and a progression system where players unlock new racers and karts. It combines arcade-style racing with familiar Angry Birds characters and environments.",
+      "iconURL": "https://i.imgur.com/i0GeacF.png",
+      "tintColor": "#dc2424",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "2.8.3",
+          "date": "2026-06-06T04:06:00-04:00",
+          "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Go/Angry%20Birds%20Go%202.8.3%2064Bit.ipa",
+          "size": 478800000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothPeripheralUsageDescription": "Angry Birds Go! would like to use bluetooth.",
+          "NSCalendarsUsageDescription": "Adding events",
+          "NSCameraUsageDescription": "Taking Pictures ",
+          "NSLocationWhenInUseUsageDescription": "",
+          "NSMicrophoneUsageDescription": "Angry Birds Go! would like to use the microphone.",
+          "NSMotionUsageDescription ": "Interactive ad controls",
+          "NSPhotoLibraryUsageDescription": "Taking pictures"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Angry Birds Epic",
+      "bundleIdentifier": "com.rovio.gold",
+      "marketplaceID": "",
+      "developerName": "Rovio Entertainment",
+      "subtitle": "A turn-based RPG adventure set in the Angry Birds universe.",
+      "localizedDescription": "Angry Birds Epic is a turn-based role-playing game where players assemble a team of birds to battle pigs across fantasy-themed islands. Developed by Rovio Entertainment, it features strategic combat, character progression, crafting systems, and gear upgrades instead of traditional slingshot gameplay. Players take turns in battles, using unique abilities and equipment to defeat enemies and progress through a story-driven campaign.",
+      "iconURL": "https://i.imgur.com/g3natxw.png",
+      "tintColor": "#4094e8",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "3.0.1",
+          "date": "2026-06-07T00:00:00-04:00",
+          "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Epic/Angry%20Birds%20Epic%203.0.1%2064Bit.ipa",
+          "size": 615900000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsUsageDescription": "This lets you add events to your calendar from the game.",
+          "NSCameraUsageDescription": "This lets the game use the camera for taking photos and videos.",
+          "NSMotionUsageDescription": "This lets the game sense your device motion and orientation.",
+          "NSPhotoLibraryUsageDescription": "This lets the game access your photos and add screenshots to your Camera Roll."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Angry Birds Classic",
+      "bundleIdentifier": "com.clickgamer.AngryBirds",
+      "marketplaceID": "",
+      "developerName": "Rovio Entertainment",
+      "subtitle": "The original physics-based slingshot game that started the Angry Birds series.",
+      "localizedDescription": "Angry Birds Classic is a physics-based puzzle game where players use a slingshot to launch birds at structures built by pigs in order to defeat them. Developed by Rovio Entertainment, it features progressively challenging levels, unique bird abilities, and destructible environments that reward precision and strategy. The game became one of the most iconic mobile titles of all time and helped define the early era of mobile gaming.",
+      "iconURL": "https://i.imgur.com/v4WaNyk.png",
+      "tintColor": "#16b4dc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "8.0.3",
+          "date": "2026-06-06T23:50:00-04:00",
+          "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds/Angry%20Birds%208.0.3%2064Bit.ipa",
+          "size": 133000000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsUsageDescription": "Adding events",
+          "NSCameraUsageDescription": "Taking Pictures ",
+          "NSMotionUsageDescription ": "Interactive ad controls",
+          "NSPhotoLibraryUsageDescription": "Taking pictures"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "marketplaceID": "",
+      "developerName": "Mojang",
+      "subtitle": "Free Minecraft.",
+      "localizedDescription": "The paid version of Minecraft but for free.",
+      "iconURL": "https://i.imgur.com/VSTLUjY.png",
+      "tintColor": "#58ac3b",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.26.13",
+          "date": "2026-06-07T03:45:00-04:00",
+          "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/musi-6.2.41-decrypted-le-ti/Minecraft_%20Dream%20it,%20Build%20it!_1.26.13_13.0_LeTi.ipa",
+          "size": 620800000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Used for Live Broadcast",
+          "NSContactsUsageDescription": "When you use the Xbox Live Friend Finder, it will access your contacts to help you find your friends.",
+          "NSLocalNetworkUsageDescription": "Minecraft wants to access your local network. This allows you and others on your local network to play together. Declining this permission does not affect online features or gameplay. But will prevent you and others, on the same network, from playing together.",
+          "NSMainNibFile": "MainWindow",
+          "NSMicrophoneUsageDescription": "Used for Live Broadcast",
+          "NSPhotoLibraryAddUsageDescription": "Used to read and write Minecraft images.",
+          "NSPhotoLibraryUsageDescription": "Used to read and write Minecraft images.",
+          "NSUserTrackingUsageDescription": "Your data will be used to track advertising efficiency."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Geometry Dash",
+      "bundleIdentifier": "com.robtop.geometryjump",
+      "marketplaceID": "",
+      "developerName": "RobTop Games",
+      "subtitle": "Free Geometry Dash.",
+      "localizedDescription": "The paid version of Geometry Dash but for free.",
+      "iconURL": "https://i.imgur.com/4ZSml80.png",
+      "tintColor": "#fbcd05",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "2.208",
+          "date": "2026-06-07T03:36:00-04:00",
+          "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/geometry-dash-2.208-12.0-le-ti/Geometry%20Dash_2.208_12.0_LeTi.ipa",
+          "size": 145300000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Geode",
+      "bundleIdentifier": "com.geode.launcher",
+      "marketplaceID": "",
+      "developerName": "Geode Team",
+      "subtitle": "A modern mod loader for Geometry Dash with powerful customization support.",
+      "localizedDescription": "Geode is an open-source modding framework for Geometry Dash that allows users to install and manage gameplay mods, plugins, and extensions directly on supported versions of the game. Compatible with Geometry Dash 2.2+ (platform support varies by build), it provides a unified system for loading mods, customizing gameplay features, and enhancing the game experience without manual patching. Designed for the Geometry Dash modding community, Geode simplifies mod installation and enables a stable ecosystem for community-created extensions.",
+      "iconURL": "https://i.imgur.com/SK6ZQGm.png",
+      "tintColor": "#956995",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.5.4",
+          "date": "2026-06-07T03:34:00-04:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/geode-sdk/ios-launcher/releases/download/v1.5.4/com.geode.launcher_1.5.4.ipa",
+          "size": 13200000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSMicrophoneUsageDescription": "A mod you are using is requesting this permission.",
+          "NSCameraUsageDescription": "A mod you are using is requesting this permission.",
+          "NSLocalNetworkUsageDescription": "This permission is needed for accessing the JIT server."
         }
       },
       "patreon": {}
@@ -1124,132 +1461,6 @@
       "patreon": {}
     },
     {
-      "name": "Ksign",
-      "bundleIdentifier": "nya.asami.ksign",
-      "marketplaceID": "",
-      "developerName": "Ksign Team",
-      "subtitle": "Sign and install IPA files directly on your iPhone or iPad.",
-      "localizedDescription": "Ksign is an iOS sideloading utility that allows users to sign, install, and manage IPA files directly on their device using certificates and provisioning profiles. Compatible with iOS 14.0 and later, it provides an easy-to-use interface for importing apps, applying signatures, and installing them without requiring a computer. Popular among sideloading enthusiasts, Ksign simplifies app management and makes it easier to deploy custom, development, and third-party applications on supported iOS devices.",
-      "iconURL": "https://i.imgur.com/GdPVi0K.png",
-      "tintColor": "#0491fc",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "1.6",
-          "date": "2026-06-06T04:08:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/Nyasami/Ksign/releases/download/v1.6/Ksign.ipa",
-          "size": 16400000,
-          "buildVersion": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSAccentColorName": "AccentColor",
-          "NSHumanReadableCopyright": "Copyright (c) 2025 Nagata Asami"
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Feather",
-      "bundleIdentifier": "thewonderofyou.Feather",
-      "marketplaceID": "",
-      "developerName": "khcrysalis",
-      "subtitle": "A modern and lightweight app for signing and installing IPA files on iOS.",
-      "localizedDescription": "Feather is an open-source iOS sideloading utility that allows users to sign, install, and manage IPA files directly on their device using certificates and provisioning profiles. Compatible with iOS 15.0 and later, it features a modern interface, certificate management, app library organization, and support for importing apps from local files or online sources. Designed for both casual users and advanced sideloading enthusiasts, Feather provides a streamlined way to install and maintain third-party apps without requiring a jailbreak.",
-      "iconURL": "https://i.imgur.com/Dvm5k1Z.png",
-      "tintColor": "#0522f9",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "2.8.2",
-          "date": "2026-06-06T04:11:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/claration/Feather/releases/download/v2.8.2/Feather.ipa",
-          "size": 14200000,
-          "buildVersion": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSHumanReadableCopyright": "Copyright (c) 2024 Samara M"
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "SideStore",
-      "bundleIdentifier": "com.SideStore.SideStore",
-      "marketplaceID": "",
-      "developerName": "SideStore Team",
-      "subtitle": "Install and refresh sideloaded apps without a computer or jailbreak.",
-      "localizedDescription": "SideStore is an open-source iOS sideloading platform that allows users to install, manage, and refresh IPA files directly on their device using their own Apple ID. Compatible with iOS 14.0 and later, it builds upon the AltStore ecosystem while enabling app refreshes over Wi-Fi without requiring a constant connection to a computer. Designed for developers, testers, and enthusiasts, SideStore provides a convenient way to run third-party apps while staying within Apple's standard device restrictions.",
-      "iconURL": "https://i.imgur.com/15djH4y.png",
-      "tintColor": "#04d4f9",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "0.6.3",
-          "date": "2026-06-06T04:10:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.6.3/SideStore.ipa",
-          "size": 28600000,
-          "buildVersion": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSLocalNetworkUsageDescription": "SideStore uses the local network to find and communicate with your device."
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "ESign",
-      "bundleIdentifier": "p3.xyz.yyyue.esign",
-      "marketplaceID": "",
-      "developerName": "ESign Team",
-      "subtitle": "Sign and install IPA files directly on iPhone or iPad.",
-      "localizedDescription": "ESign is an iOS sideloading utility that allows users to import, sign, and install IPA files directly on their device using certificates or provisioning profiles. Compatible with iOS 14.0 and later, it includes file management tools, app signing features, and installation options for third-party or modified apps without requiring a computer. Designed for advanced users and sideloading workflows, ESign provides a convenient way to manage and deploy iOS applications directly from the device.",
-      "iconURL": "https://i.imgur.com/YZHm9Cg.png",
-      "tintColor": "#4ca4f4",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://esign-ios.app/dl/esign_v5.0.2.ipa/",
-          "size": 7500000,
-          "version": "5.0.2",
-          "buildVersion": null,
-          "date": "2026-06-07T03:22:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSAppleMusicUsageDescription": "点允许，才能使用。",
-          "NSCameraUsageDescription": "授权后才能使用您的相机进行扫一扫",
-          "NSLocationWhenInUseUsageDescription": "开启定位服务，我们将根据您的位置,为您提供相关信息。在未经许可前不会开启定位服务，请放心使用。",
-          "NSPhotoLibraryAddUsageDescription": "授权后才能将图片保存到本地相册",
-          "NSPhotoLibraryUsageDescription": "授权后才能访问您的手机相册，您才能上传对应的图片",
-          "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you"
-        }
-      },
-      "patreon": {}
-    },
-    {
       "name": "StikDebug",
       "bundleIdentifier": "com.stik.stikdebug",
       "marketplaceID": "",
@@ -1285,7 +1496,7 @@
       "name": "FilzaJailedDS",
       "bundleIdentifier": "com.tigisoftware.Filza",
       "marketplaceID": "",
-      "developerName": "FilzaJailedDS Team",
+      "developerName": "AppleDry05 & TIGI Software",
       "subtitle": "Browse, manage, and organize files on iOS without a jailbreak.",
       "localizedDescription": "FilzaJailedDS is a modified version of the popular Filza file manager designed to run on non-jailbroken iOS devices. Compatible with iOS 14.0 and later, it provides access to app containers, documents, downloads, and other user-accessible directories through a powerful file management interface. Featuring file editing, archive support, media previews, and file transfer tools, FilzaJailedDS brings many of the capabilities of a traditional iOS file manager to sideloaded environments without requiring full system access.",
       "iconURL": "https://i.imgur.com/GRwODVv.png",
@@ -1513,12 +1724,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://archive.org/download/rewound/Rewound_classic_fixed.zip/decrypted-app.ipa",
-          "size": 5600000,
           "version": "2019.7",
-          "buildVersion": null,
           "date": "2026-06-06T04:38:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/rewound/Rewound_classic_fixed.zip/decrypted-app.ipa",
+          "size": 5600000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -1532,24 +1743,24 @@
       "patreon": {}
     },
     {
-      "name": "PostBox",
-      "bundleIdentifier": "com.simplycode.PostBox",
+      "name": "Ksign",
+      "bundleIdentifier": "nya.asami.ksign",
       "marketplaceID": "",
-      "developerName": "PostBox Team",
-      "subtitle": "A jailbreak and iOS tweak news client for tracking repos, tools, and updates.",
-      "localizedDescription": "PostBox is an iOS application focused on jailbreak and sideloading news, providing updates about tools, tweaks, repositories, and community releases. Available through postbox.news, it acts as a centralized feed for jailbreak-related content, announcements, and downloads. Designed for enthusiasts in the iOS customization and sideloading community, PostBox helps users stay updated with the latest developments in jailbreak tools, IPA releases, and related projects.",
-      "iconURL": "https://i.imgur.com/7JQFhn2.png",
-      "tintColor": "#000000",
+      "developerName": "Ksign Team",
+      "subtitle": "Sign and install IPA files directly on your iPhone or iPad.",
+      "localizedDescription": "Ksign is an iOS sideloading utility that allows users to sign, install, and manage IPA files directly on their device using certificates and provisioning profiles. Compatible with iOS 14.0 and later, it provides an easy-to-use interface for importing apps, applying signatures, and installing them without requiring a computer. Popular among sideloading enthusiasts, Ksign simplifies app management and makes it easier to deploy custom, development, and third-party applications on supported iOS devices.",
+      "iconURL": "https://i.imgur.com/GdPVi0K.png",
+      "tintColor": "#0491fc",
       "category": "other",
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/PostBox-Team/PostBox-Releases/releases/download/beta-8.1/PostBox-0.8.1-beta.ipa",
-          "size": 8500000,
-          "version": "0.8.1",
-          "buildVersion": null,
-          "date": "2026-06-06T07:19:00-04:00",
+          "version": "1.6",
+          "date": "2026-06-06T04:08:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/Nyasami/Ksign/releases/download/v1.6/Ksign.ipa",
+          "size": 16400000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -1557,8 +1768,132 @@
         "entitlements": [],
         "privacy": {
           "NSAccentColorName": "AccentColor",
-          "NSPhotoLibraryAddUsageDescription": "Please allow PostBox to save media into your photo library.",
-          "NSPhotoLibraryUsageDescription": "PostBox can save media (such as screenshots and banners) to your photo library."
+          "NSHumanReadableCopyright": "Copyright (c) 2025 Nagata Asami"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "ESign",
+      "bundleIdentifier": "p3.xyz.yyyue.esign",
+      "marketplaceID": "",
+      "developerName": "ESign Team",
+      "subtitle": "Sign and install IPA files directly on iPhone or iPad.",
+      "localizedDescription": "ESign is an iOS sideloading utility that allows users to import, sign, and install IPA files directly on their device using certificates or provisioning profiles. Compatible with iOS 14.0 and later, it includes file management tools, app signing features, and installation options for third-party or modified apps without requiring a computer. Designed for advanced users and sideloading workflows, ESign provides a convenient way to manage and deploy iOS applications directly from the device.",
+      "iconURL": "https://i.imgur.com/YZHm9Cg.png",
+      "tintColor": "#4ca4f4",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "5.0.2",
+          "date": "2026-06-07T03:22:00-04:00",
+          "localizedDescription": null,
+          "downloadURL": "https://esign-ios.app/dl/esign_v5.0.2.ipa/",
+          "size": 7500000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "点允许，才能使用。",
+          "NSCameraUsageDescription": "授权后才能使用您的相机进行扫一扫",
+          "NSLocationWhenInUseUsageDescription": "开启定位服务，我们将根据您的位置,为您提供相关信息。在未经许可前不会开启定位服务，请放心使用。",
+          "NSPhotoLibraryAddUsageDescription": "授权后才能将图片保存到本地相册",
+          "NSPhotoLibraryUsageDescription": "授权后才能访问您的手机相册，您才能上传对应的图片",
+          "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Feather",
+      "bundleIdentifier": "thewonderofyou.Feather",
+      "marketplaceID": "",
+      "developerName": "khcrysalis",
+      "subtitle": "A modern and lightweight app for signing and installing IPA files on iOS.",
+      "localizedDescription": "Feather is an open-source iOS sideloading utility that allows users to sign, install, and manage IPA files directly on their device using certificates and provisioning profiles. Compatible with iOS 15.0 and later, it features a modern interface, certificate management, app library organization, and support for importing apps from local files or online sources. Designed for both casual users and advanced sideloading enthusiasts, Feather provides a streamlined way to install and maintain third-party apps without requiring a jailbreak.",
+      "iconURL": "https://i.imgur.com/Dvm5k1Z.png",
+      "tintColor": "#0522f9",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "2.8.2",
+          "date": "2026-06-06T04:11:00-04:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/claration/Feather/releases/download/v2.8.2/Feather.ipa",
+          "size": 14200000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSHumanReadableCopyright": "Copyright (c) 2024 Samara M"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "SideStore",
+      "bundleIdentifier": "com.SideStore.SideStore",
+      "marketplaceID": "",
+      "developerName": "SideStore Team",
+      "subtitle": "Install and refresh sideloaded apps without a computer or jailbreak.",
+      "localizedDescription": "SideStore is an open-source iOS sideloading platform that allows users to install, manage, and refresh IPA files directly on their device using their own Apple ID. Compatible with iOS 14.0 and later, it builds upon the AltStore ecosystem while enabling app refreshes over Wi-Fi without requiring a constant connection to a computer. Designed for developers, testers, and enthusiasts, SideStore provides a convenient way to run third-party apps while staying within Apple's standard device restrictions.",
+      "iconURL": "https://i.imgur.com/15djH4y.png",
+      "tintColor": "#04d4f9",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "0.6.3",
+          "date": "2026-06-06T04:10:00-04:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.6.3/SideStore.ipa",
+          "size": 28600000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "SideStore uses the local network to find and communicate with your device."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "DLiPA",
+      "bundleIdentifier": "com.ahmedbafkir.dlipa",
+      "marketplaceID": "",
+      "developerName": "Ahmed Bafkir",
+      "subtitle": "Download, install, and manage App Store IPA files directly on iOS.",
+      "localizedDescription": "DLiPA is an iOS application inspired by the ipatool project that allows users to search for, download, install, and share App Store applications using their own Apple ID. Compatible with iOS 13.0 and later, it supports downloading IPA files, managing multiple Apple accounts, installing apps directly on-device, and accessing older versions of applications that remain available on Apple's servers. Designed for sideloading enthusiasts and advanced users, DLiPA provides a native iOS interface for App Store package management without requiring a jailbreak.",
+      "iconURL": "https://i.imgur.com/OUv9EU6.png",
+      "tintColor": "#1ce4fc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.2",
+          "date": "2026-06-06T19:35:00-04:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/AhmedBafkir/DLiPA/releases/download/v1.2/DLiPA_v1.2.ipa",
+          "size": 500000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "Exchange data with nearby devices running the DLiPA."
         }
       },
       "patreon": {}
