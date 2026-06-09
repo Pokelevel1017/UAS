@@ -3,8 +3,8 @@
   "subtitle": "One of the best app stores!",
   "description": "",
   "iconURL": "https://i.imgur.com/BT6lHPF.png",
-  "website": "https://altstudio.app",
-  "patreonURL": "https://patreon.com/altstudio",
+  "website": "",
+  "patreonURL": "",
   "tintColor": "#000000",
   "featuredApps": [],
   "apps": [
@@ -1510,5 +1510,16 @@
       "patreon": {}
     }
   ],
-  "news": []
+  "news": [
+    {
+      "title": "UNIVERSAL APP STORE",
+      "identifier": "news_csl0dklksp",
+      "caption": "Welcome to Universal App Store!",
+      "date": "2026-06-07T20:33",
+      "tintColor": "#000000",
+      "notify": true,
+      "url": "https://example.com/new_feature_details",
+      "appID": null
+    }
+  ]
 }
