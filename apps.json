@@ -1510,16 +1510,5 @@
       "patreon": {}
     }
   ],
-  "news": [
-    {
-      "title": "UNIVERSAL APP STORE",
-      "identifier": "news_csl0dklksp",
-      "caption": "Welcome to Universal App Store!",
-      "date": "2026-06-07T20:33",
-      "tintColor": "#000000",
-      "notify": true,
-      "url": "https://example.com/new_feature_details",
-      "appID": null
-    }
-  ]
+  "news": []
 }
