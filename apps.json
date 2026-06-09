@@ -9,132 +9,6 @@
   "featuredApps": [],
   "apps": [
     {
-      "name": "Magic Brawl",
-      "bundleIdentifier": "mt.mb.ios",
-      "marketplaceID": "",
-      "developerName": "Magic Team",
-      "subtitle": "A private server version of Brawl Stars featuring classic and custom content.",
-      "localizedDescription": "Magic Brawl is an unofficial private server version of Brawl Stars developed by Magic Team. It recreates earlier eras of the game while also adding custom content such as unique brawlers, skins, game modes, and progression systems. The project is designed for players who want a modified or “classic” experience of Brawl Stars with additional features not found in the official Supercell release. It runs on separate servers and is not affiliated with Supercell.",
-      "iconURL": "https://i.imgur.com/1NLBqkg.png",
-      "tintColor": "#09d4f1",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://magicbrawl.gg/latest_mb_ipa",
-          "size": 473800000,
-          "version": "52.177",
-          "buildVersion": null,
-          "date": "2026-06-06T23:50:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
-          "NSCameraUsageDescription": "Camera access is needed for scanning QR codes.",
-          "NSPhotoLibraryUsageDescription": "Photo library access is needed if player contacts Supercell Player Support to send screenshots."
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Terraria",
-      "bundleIdentifier": "com.505games.terraria",
-      "marketplaceID": "",
-      "developerName": "Re-Logic (community iOS port)",
-      "subtitle": "An unofficial iOS port of Terraria with touch and controller support.",
-      "localizedDescription": "Terraria for iOS (unofficial port) is a community-made adaptation of the original sandbox game developed by Re-Logic. It brings the full Terraria experience to iPhone and iPad, including exploration, crafting, building, combat, and boss fights in procedurally generated worlds. The iOS port typically runs through a wrapper or compatibility layer and includes touch controls and optional external controller support. Performance, features, and stability vary depending on the port build and device.",
-      "iconURL": "https://i.imgur.com/y1EyJqO.png",
-      "tintColor": "#7ca0cc",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://archive.org/download/picture-this-5.41.0-15.0-le-ti/Terraria_4.5.4_13.0_LeTi.ipa",
-          "size": 190800000,
-          "version": "4.5.4",
-          "buildVersion": null,
-          "date": "2026-06-06T23:42:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSLocalNetworkUsageDescription": "Terraria uses the local network to announce, discover and connect to multiplayer sessions."
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Undertale",
-      "bundleIdentifier": "com.1iol12bhr8.4h4wu7c9cr",
-      "marketplaceID": "",
-      "developerName": "Toby Fox (community iOS port)",
-      "subtitle": "An unofficial iOS port of the indie RPG Undertale with touch and controller support.",
-      "localizedDescription": "Undertale for iOS is an unofficial community-made port of the original RPG developed by Toby Fox. It allows players to experience the full story-driven gameplay, including turn-based combat, bullet-dodging mechanics, exploration, and multiple story routes. The iOS version is typically distributed through sideloaded builds using wrappers or porting tools, with adaptations for touch controls and optional external controller support. Performance and stability vary depending on the device and port method used.",
-      "iconURL": "https://i.imgur.com/GoNgBV4.png",
-      "tintColor": "#fc0404",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://archive.org/download/undertale_202409/Undertale.ipa",
-          "size": 140600000,
-          "version": "2.0.0",
-          "buildVersion": null,
-          "date": "2026-06-06T23:39:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSMainNibFile": "MainWindow-iPhone",
-          "NSMainNibFile~ipad": "MainWindow",
-          "NSMainNibFile~iphone": "MainWindow-iPhone"
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Deltarune",
-      "bundleIdentifier": "com.jockeholm.undertale",
-      "marketplaceID": "",
-      "developerName": "Toby Fox (community iOS port)",
-      "subtitle": "An unofficial iOS port of the episodic RPG Deltarune with touch and controller support.",
-      "localizedDescription": "Deltarune for iOS is an unofficial community-made port of the original game created by Toby Fox. It brings the full RPG experience to iPhone and iPad, including turn-based combat, bullet-dodging mechanics, story progression, and exploration of its chapter-based narrative. The iOS build typically runs through a wrapper or porting framework and includes touch controls and optional external controller support. Performance and stability vary depending on the device and port method used.",
-      "iconURL": "https://i.imgur.com/oSyoiWR.png",
-      "tintColor": "#7f7f7f",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://archive.org/download/undertale_202409/Deltarune.ipa",
-          "size": 70300000,
-          "version": "2.0.0",
-          "buildVersion": null,
-          "date": "2026-06-06T23:36:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSMainNibFile": "MainWindow-iPhone",
-          "NSMainNibFile~ipad": "MainWindow",
-          "NSMainNibFile~iphone": "MainWindow-iPhone"
-        }
-      },
-      "patreon": {}
-    },
-    {
       "name": "CrazyCattle3D",
       "bundleIdentifier": "com.nathan.cc3dios",
       "marketplaceID": "",
@@ -147,12 +21,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://archive.org/download/CrazyCattle3D_1.0.0_ios_14.0/CrazyCattle3D_1.0.0_ios_14.0.ipa",
-          "size": 59400000,
           "version": "1.0.0",
-          "buildVersion": null,
           "date": "2026-06-06T23:34:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/CrazyCattle3D_1.0.0_ios_14.0/CrazyCattle3D_1.0.0_ios_14.0.ipa",
+          "size": 59400000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -179,12 +53,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://archive.org/download/Hollow_Knight_1.5.78.11833_ios_11.0/Hollow_Knight_1.5.78.11833_ios_11.0.ipa",
-          "size": 1077100000,
           "version": "1.5.78.11833",
-          "buildVersion": null,
           "date": "2026-06-06T23:32:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/Hollow_Knight_1.5.78.11833_ios_11.0/Hollow_Knight_1.5.78.11833_ios_11.0.ipa",
+          "size": 1077100000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -207,12 +81,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/n3d1117/appdb/releases/download/v1.1.6/appdb-v1.1.6-stev3fvcks.ipa",
-          "size": 23200000,
           "version": "1.1.6",
-          "buildVersion": null,
           "date": "2026-06-06T23:15:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/n3d1117/appdb/releases/download/v1.1.6/appdb-v1.1.6-stev3fvcks.ipa",
+          "size": 23200000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -235,12 +109,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://archive.org/download/super-mario-64_202409/SuperMario64.ipa",
-          "size": 31200000,
           "version": "1.0.0",
-          "buildVersion": null,
           "date": "2026-06-06T23:12:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/super-mario-64_202409/SuperMario64.ipa",
+          "size": 31200000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -263,12 +137,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://archive.org/download/super-mario-64_202409/SuperMario64_30FPS_1.2.1.ipa",
-          "size": 8400000,
           "version": "1.2.1",
-          "buildVersion": null,
           "date": "2026-06-06T23:11:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/super-mario-64_202409/SuperMario64_30FPS_1.2.1.ipa",
+          "size": 8400000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -291,12 +165,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://archive.org/download/super-mario-64_202409/SuperMario64_60FPS_1.2.1.ipa",
-          "size": 9200000,
           "version": "1.2.1",
-          "buildVersion": null,
           "date": "2026-06-06T23:09:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://archive.org/download/super-mario-64_202409/SuperMario64_60FPS_1.2.1.ipa",
+          "size": 9200000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -319,12 +193,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
-          "size": 8600000,
           "version": "1.10.8",
-          "buildVersion": null,
           "date": "2026-06-06T22:50:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
+          "size": 8600000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -350,12 +224,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/Wh0ba/XPatcher/releases/download/v2.2/XPatcher_2.2.ipa",
-          "size": 400000,
           "version": "2.2",
-          "buildVersion": null,
           "date": "2026-06-06T22:44:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/Wh0ba/XPatcher/releases/download/v2.2/XPatcher_2.2.ipa",
+          "size": 400000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -378,12 +252,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/zydeco/minivmac4ios/releases/download/v2.6/minivmac4ios-2.6.ipa",
-          "size": 700000,
           "version": "2.6",
-          "buildVersion": null,
           "date": "2026-06-06T22:42:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/zydeco/minivmac4ios/releases/download/v2.6/minivmac4ios-2.6.ipa",
+          "size": 700000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -406,12 +280,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/yoshisuga/MAME4iOS/releases/download/2022.5/MAME4iOS-2022.5-250.ipa",
-          "size": 107700000,
           "version": "2022.5",
-          "buildVersion": null,
           "date": "2026-06-06T22:40:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/yoshisuga/MAME4iOS/releases/download/2022.5/MAME4iOS-2022.5-250.ipa",
+          "size": 107700000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -436,12 +310,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/nspire-emus/firebird/releases/download/v1.6/firebird-iOS.ipa",
-          "size": 10000000,
           "version": "1.5",
-          "buildVersion": null,
           "date": "2026-06-06T22:38:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/nspire-emus/firebird/releases/download/v1.6/firebird-iOS.ipa",
+          "size": 10000000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -464,12 +338,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://purei.org/downloads/play/stable/0.70/Play.ipa",
-          "size": 3600000,
           "version": "0.70",
-          "buildVersion": null,
           "date": "2026-06-06T22:35:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://purei.org/downloads/play/stable/0.70/Play.ipa",
+          "size": 3600000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -494,12 +368,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/StikEMU/StikNES-2.0/releases/download/v2.0.2/StikNES.ipa",
-          "size": 7100000,
           "version": "5.2",
-          "buildVersion": null,
           "date": "2026-06-06T22:34:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/StikEMU/StikNES-2.0/releases/download/v2.0.2/StikNES.ipa",
+          "size": 7100000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -524,12 +398,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://alt.crystall1ne.dev/resources/amethyst/00678b0/org.angelauramc.amethyst-1.0-ios.ipa",
-          "size": 150300000,
           "version": "1.0.00678b0",
-          "buildVersion": null,
           "date": "2026-06-06T22:28:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://alt.crystall1ne.dev/resources/amethyst/00678b0/org.angelauramc.amethyst-1.0-ios.ipa",
+          "size": 150300000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -555,12 +429,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.2/net.kdt.pojavlauncher-2.2-ios.ipa",
-          "size": 108200000,
           "version": "2.2",
-          "buildVersion": null,
           "date": "2026-06-06T22:24:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.2/net.kdt.pojavlauncher-2.2-ios.ipa",
+          "size": 108200000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -586,12 +460,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/chachillie/Flycast-iOS/releases/download/v1.0/Flycast-iOS.ipa",
-          "size": 8300000,
           "version": "v2.6",
-          "buildVersion": null,
           "date": "2026-06-06T22:23:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/chachillie/Flycast-iOS/releases/download/v1.0/Flycast-iOS.ipa",
+          "size": 8300000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -618,12 +492,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b4/Non-Jailbroken.ipa",
-          "size": 18000000,
           "version": "5.0.0b4",
-          "buildVersion": null,
           "date": "2026-06-06T22:20:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b4/Non-Jailbroken.ipa",
+          "size": 18000000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -648,12 +522,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1/DolphiniOS-NJB-3.2.1-213.ipa",
-          "size": 80300000,
           "version": "3.2.1",
-          "buildVersion": null,
           "date": "2026-06-06T22:17:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1/DolphiniOS-NJB-3.2.1-213.ipa",
+          "size": 80300000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -662,37 +536,6 @@
         "privacy": {
           "NSMotionUsageDescription": "DolphiniOS uses your device's accelerometer and gyroscope to emulate the Wii Remote's built-in accelerometer and gyroscope.",
           "NSLocalNetworkUsageDescription": "DolphiniOS uses the local network to find and communicate with AltServer."
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Nuvio",
-      "bundleIdentifier": "com.nuvio.hub",
-      "marketplaceID": "",
-      "developerName": "Nuvio",
-      "subtitle": "A modern media hub for managing and streaming movies and TV shows.",
-      "localizedDescription": "Nuvio is a third-party media application designed to organize, browse, and stream video content from user-provided sources. It typically supports library management, watchlists, Trakt integration, and customizable media catalogs depending on the build. Designed for iOS devices, Nuvio provides a clean interface for managing entertainment content and playback through external or self-hosted sources. It is distributed outside the App Store and its features may vary depending on the specific release.",
-      "iconURL": "https://i.imgur.com/1K5wwoy.png",
-      "tintColor": "#2cb0d8",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://github.com/tapframe/NuvioStreaming/releases/download/1.4.2/Stable_1-4-2.ipa",
-          "size": 38800000,
-          "version": "1.4.2",
-          "buildVersion": null,
-          "date": "2026-06-06T22:12:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSLocalNetworkUsageDescription": "Nuvio uses the local network to discover Cast-enabled devices on your WiFi network and to connect to local media servers.",
-          "NSMicrophoneUsageDescription": "This app does not require microphone access."
         }
       },
       "patreon": {}
@@ -745,8 +588,8 @@
       "versions": [
         {
           "version": "7.40.2",
-          "date": "2025-09-07T00:00:00-04:00",
-          "localizedDescription": "New release!",
+          "date": "2026-06-06T04:00:00-04:00",
+          "localizedDescription": "",
           "downloadURL": "https://cdn-test.ezfn.dev/IPAs/Fortnite+Release-7.40-CL-5011364-V2.ipa",
           "size": 100000,
           "buildVersion": null,
