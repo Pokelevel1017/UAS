@@ -9,62 +9,6 @@
   "featuredApps": [],
   "apps": [
     {
-      "name": "Hollow Knight",
-      "bundleIdentifier": "com.GLESign.HollowKnight",
-      "marketplaceID": "",
-      "developerName": "Hollow Knight iOS Community (unofficial port)",
-      "subtitle": "An experimental port of Hollow Knight brought to iOS through community tools.",
-      "localizedDescription": "Hollow Knight for iOS is an unofficial, community-made port of the original PC/console game developed by Team Cherry. It runs through experimental compatibility layers or packaged runtime environments depending on the build. The port allows players to experience the full Metroidvania gameplay, including exploration of Hallownest, boss battles, and progression systems, adapted for touch controls and optional external controllers. Performance and stability vary significantly depending on device and port method.",
-      "iconURL": "https://i.imgur.com/0IH5BrW.png",
-      "tintColor": "#887f76",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "1.5.78.11833",
-          "date": "2026-06-07T03:32:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://archive.org/download/Hollow_Knight_1.5.78.11833_ios_11.0/Hollow_Knight_1.5.78.11833_ios_11.0.ipa",
-          "size": 1077100000,
-          "buildVersion": "1.5.78.11833",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "appdb",
-      "bundleIdentifier": "it.ned.appdb-ios",
-      "marketplaceID": "",
-      "developerName": "n3d1117",
-      "subtitle": "A native iOS client for appdb with browsing, installation, and repository features.",
-      "localizedDescription": "appdb is an open-source iOS application developed by n3d1117 that acts as a native client for the appdb platform. Built in Swift 5, it allows users to browse featured apps, search repositories, view app details, manage downloads, and interact with appdb services directly from iOS. The app integrates multiple APIs from appdb.to to provide app discovery, installation management, and system status features. Version v1.1.6 includes bug fixes, updated API support, and improvements to installation handling and repository management.",
-      "iconURL": "https://i.imgur.com/Ujh6Jz2.png",
-      "tintColor": "#04acfc",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "1.1.6",
-          "date": "2026-06-07T03:15:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/n3d1117/appdb/releases/download/v1.1.6/appdb-v1.1.6-stev3fvcks.ipa",
-          "size": 23200000,
-          "buildVersion": "1.1.6",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
       "name": "Super Mario 64",
       "bundleIdentifier": "com.christiankosman.sm64ios",
       "marketplaceID": "",
@@ -180,62 +124,6 @@
       "patreon": {}
     },
     {
-      "name": "XPatcher",
-      "bundleIdentifier": "com.wh0ba.xpatcher",
-      "marketplaceID": "",
-      "developerName": "Wh0ba",
-      "subtitle": "A ROM and file patching tool for iOS supporting IPS, UPS, BPS, and XDelta formats.",
-      "localizedDescription": "XPatcher is an iOS utility developed by Wh0ba that acts as a graphical frontend for patching libraries such as Flips, libppf, libRUP, and XDelta. It allows users to apply ROM patches (such as game mods and translations) directly on iOS devices by selecting a base file and a patch file, then generating a modified output. Compatible with iOS 9.0 and later, XPatcher is commonly used for applying ROM hacks for emulators like Delta and other retro gaming tools. It is designed to simplify patching workflows with a lightweight and easy-to-use interface.",
-      "iconURL": "https://i.imgur.com/Lanc1Ec.png",
-      "tintColor": "#000000",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "2.2",
-          "date": "2026-06-07T02:44:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/Wh0ba/XPatcher/releases/download/v2.2/XPatcher_2.2.ipa",
-          "size": 400000,
-          "buildVersion": "2.2",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Mini vMac",
-      "bundleIdentifier": "net.namedfork.minivmac",
-      "marketplaceID": "",
-      "developerName": "Paul C. Pratt",
-      "subtitle": "A classic Macintosh emulator for running early Mac OS software on iOS and other platforms.",
-      "localizedDescription": "Mini vMac is an open-source emulator that simulates early Apple Macintosh computers, allowing users to run classic Mac OS software on modern devices including iOS and iPadOS. It supports vintage Macintosh system environments, disk image loading, keyboard input, and basic system emulation. Depending on the build, it can emulate early 68000-based Macintosh systems such as the Macintosh Plus. It is commonly used for retro computing, software preservation, and educational purposes.",
-      "iconURL": "https://i.imgur.com/6GQ817l.png",
-      "tintColor": "#0c34dc",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "2.6",
-          "date": "2026-06-07T02:42:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/zydeco/minivmac4ios/releases/download/v2.6/minivmac4ios-2.6.ipa",
-          "size": 700000,
-          "buildVersion": "2.6",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
       "name": "MAME4iOS",
       "bundleIdentifier": "com.example.mame4ios",
       "marketplaceID": "",
@@ -266,34 +154,6 @@
       "patreon": {}
     },
     {
-      "name": "Firebird",
-      "bundleIdentifier": "com.adriweb.firebird-emu",
-      "marketplaceID": "",
-      "developerName": "nspire-emus",
-      "subtitle": "A multi-platform TI-Nspire calculator emulator for iOS, Android, Windows, macOS, and Linux.",
-      "localizedDescription": "Firebird is an open-source, multi-platform emulator for TI-Nspire calculators, developed by the nspire-emus project. It allows users to emulate TI-Nspire Touchpad, CX, and CX II calculators on iOS, Android, Windows, macOS, and Linux. The emulator supports features such as flash image management, save states, JIT acceleration, and mobile UI controls. Version 1.6 includes improved performance, expanded calculator support, and enhanced cross-platform build systems. It is primarily used for educational and development purposes to run TI-Nspire operating systems and software in a virtual environment.",
-      "iconURL": "https://i.imgur.com/aYrnaVG.png",
-      "tintColor": "#7f7f7f",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "1.5",
-          "date": "2026-06-07T02:38:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/nspire-emus/firebird/releases/download/v1.6/firebird-iOS.ipa",
-          "size": 10000000,
-          "buildVersion": "1.5",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
       "name": "Play!",
       "bundleIdentifier": "com.virtualapplications.play",
       "marketplaceID": "",
@@ -319,36 +179,6 @@
         "entitlements": [],
         "privacy": {
           "NSLocalNetworkUsageDescription": "Play! uses the local network to find and communicate with AltServer."
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "StikNES",
-      "bundleIdentifier": "com.stik.StikNES",
-      "marketplaceID": "",
-      "developerName": "Stephen Bove",
-      "subtitle": "A lightweight NES emulator for iPhone and iPad with controller support and save states.",
-      "localizedDescription": "StikNES is an NES (Nintendo Entertainment System) emulator for iOS and iPadOS designed to run classic 8-bit games with smooth performance and a simple interface. It supports ROM loading, save states, external controller input, and customizable controls depending on the build. Compatible with iOS 14.0 and later (varies by version), StikNES is commonly used with sideloading tools and focuses on providing an easy way to play retro NES games on modern Apple devices.",
-      "iconURL": "https://i.imgur.com/18qm5sD.png",
-      "tintColor": "#4cc1dc",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "5.2",
-          "date": "2026-06-07T02:34:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/StikEMU/StikNES-2.0/releases/download/v2.0.2/StikNES.ipa",
-          "size": 7100000,
-          "buildVersion": "5.2",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSPhotoLibraryUsageDescription": "This app needs access to your photo library to import images for customization."
         }
       },
       "patreon": {}
