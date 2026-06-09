@@ -9,38 +9,6 @@
   "featuredApps": [],
   "apps": [
     {
-      "name": "CrazyCattle3D",
-      "bundleIdentifier": "com.nathan.cc3dios",
-      "marketplaceID": "",
-      "developerName": "Anna’s Games (community iOS port)",
-      "subtitle": "A chaotic physics-based battle game featuring explosive sheep combat in 3D arenas.",
-      "localizedDescription": "Crazy Cattle 3D for iOS is a community-made port of the indie physics-based arena game Crazy Cattle 3D. Players control explosive sheep in fast-paced 3D matches where the goal is to knock opponents off the map using momentum, collisions, and environmental hazards. The iOS version is typically distributed as an unofficial build via sideloading tools and may include touch controls, performance adjustments, and simplified graphics depending on the port. As a non-official release, stability and features vary by build.",
-      "iconURL": "https://i.imgur.com/ADTVQyt.png",
-      "tintColor": "#ccc404",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "1.0.0",
-          "date": "2026-06-07T03:34:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://archive.org/download/CrazyCattle3D_1.0.0_ios_14.0/CrazyCattle3D_1.0.0_ios_14.0.ipa",
-          "size": 59400000,
-          "buildVersion": "1.0.0",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSCameraUsageDescription": "",
-          "NSMicrophoneUsageDescription": "",
-          "NSPhotoLibraryUsageDescription": ""
-        }
-      },
-      "patreon": {}
-    },
-    {
       "name": "Hollow Knight",
       "bundleIdentifier": "com.GLESign.HollowKnight",
       "marketplaceID": "",
@@ -1707,36 +1675,6 @@
         "entitlements": [],
         "privacy": {
           "NSLocalNetworkUsageDescription": "SideStore uses the local network to find and communicate with your device."
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "DLiPA",
-      "bundleIdentifier": "com.ahmedbafkir.dlipa",
-      "marketplaceID": "",
-      "developerName": "Ahmed Bafkir",
-      "subtitle": "Download, install, and manage App Store IPA files directly on iOS.",
-      "localizedDescription": "DLiPA is an iOS application inspired by the ipatool project that allows users to search for, download, install, and share App Store applications using their own Apple ID. Compatible with iOS 13.0 and later, it supports downloading IPA files, managing multiple Apple accounts, installing apps directly on-device, and accessing older versions of applications that remain available on Apple's servers. Designed for sideloading enthusiasts and advanced users, DLiPA provides a native iOS interface for App Store package management without requiring a jailbreak.",
-      "iconURL": "https://i.imgur.com/OUv9EU6.png",
-      "tintColor": "#1ce4fc",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "1.2",
-          "date": "2026-06-06T23:35:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/AhmedBafkir/DLiPA/releases/download/v1.2/DLiPA_v1.2.ipa",
-          "size": 500000,
-          "buildVersion": "1.2",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSLocalNetworkUsageDescription": "Exchange data with nearby devices running the DLiPA."
         }
       },
       "patreon": {}
