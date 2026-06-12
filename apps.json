@@ -21,12 +21,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://app.iosgods.com/store/download-ipa/169-sniper-3d-gun-shooting-games-ios-mod-ipa/sideloadly?token=eyJpdiI6IjZFYXlOS2JSalQ0cisrb25ROVpmYnc9PSIsInZhbHVlIjoiWlF2QzIvd1paYkliaWFuSHRBRTJZTk5FaGd2Vm1SMHdPWGZCRHJET0RvNW9PVXc3akk1NElLNWU1YmRVN2JQa01reEROM1F2QUNuQ2NyZDF6dE0xZlRZTXlTanY3N2h2N2p0NmxlaDYyR3M0MG1zay9MZ1BPUjlXYURzS2oydVhranRHZmk3YXQ0MDZkeXdxTWJod0ZoN3BRWGttc25ESVNMZlp6eHczQWFzRE5HNWVwZmI1THBIb2JVZ2RmSklwVExnbE13NXpVT1NLTnFBK1M2a3RtT29JYk9paHQ0M3lyZGpxaXBxVnd2eXlwbHBzSU8rZE5HaDdFbkVuQ2djaUVZSE1lSDlFYVdPRk1Qb0lqeFFGU1E9PSIsIm1hYyI6ImNhYzU1YmVmOGI1MTdkMDdhZjZmMjhlMGQ3ZWQxODQyNWQ5OWQ3YWQ5NTZhNTFkOGQyMDVlZDdkMGIzZDY3NDUiLCJ0YWciOiIifQ==",
-          "size": 223100000,
           "version": "6.36.0",
-          "buildVersion": null,
           "date": "2026-06-08T04:02:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://app.iosgods.com/store/download-ipa/169-sniper-3d-gun-shooting-games-ios-mod-ipa/sideloadly?token=eyJpdiI6IjZFYXlOS2JSalQ0cisrb25ROVpmYnc9PSIsInZhbHVlIjoiWlF2QzIvd1paYkliaWFuSHRBRTJZTk5FaGd2Vm1SMHdPWGZCRHJET0RvNW9PVXc3akk1NElLNWU1YmRVN2JQa01reEROM1F2QUNuQ2NyZDF6dE0xZlRZTXlTanY3N2h2N2p0NmxlaDYyR3M0MG1zay9MZ1BPUjlXYURzS2oydVhranRHZmk3YXQ0MDZkeXdxTWJod0ZoN3BRWGttc25ESVNMZlp6eHczQWFzRE5HNWVwZmI1THBIb2JVZ2RmSklwVExnbE13NXpVT1NLTnFBK1M2a3RtT29JYk9paHQ0M3lyZGpxaXBxVnd2eXlwbHBzSU8rZE5HaDdFbkVuQ2djaUVZSE1lSDlFYVdPRk1Qb0lqeFFGU1E9PSIsIm1hYyI6ImNhYzU1YmVmOGI1MTdkMDdhZjZmMjhlMGQ3ZWQxODQyNWQ5OWQ3YWQ5NTZhNTFkOGQyMDVlZDdkMGIzZDY3NDUiLCJ0YWciOiIifQ==",
+          "size": 223100000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -45,39 +45,6 @@
       "patreon": {}
     },
     {
-      "name": "Deltarune",
-      "bundleIdentifier": "com.ates.DELTARUNE",
-      "marketplaceID": "",
-      "developerName": "CyPwn",
-      "subtitle": "DELTARUNE Chapters 1–4 Port for iOS",
-      "localizedDescription": "Deltarune Chapters 1 to 4.",
-      "iconURL": "https://i.imgur.com/o7B4r4P.png",
-      "tintColor": "#7f7f7f",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=b56c63a929f39f4e1d54d66ad600a9c8",
-          "size": 495800000,
-          "version": "1.1.727",
-          "buildVersion": null,
-          "date": "2026-06-09T03:52:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSMainNibFile": "MainWindow-iPhone",
-          "NSMainNibFile~ipad": "MainWindow",
-          "NSMainNibFile~iphone": "MainWindow-iPhone",
-          "NSMicrophoneUsageDescription": "This application requires microphone access for recording purposes."
-        }
-      },
-      "patreon": {}
-    },
-    {
       "name": "Regram",
       "bundleIdentifier": "com.burbn.instagram",
       "marketplaceID": "",
@@ -90,12 +57,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1779818416566-gr3db/com.burbn.instagram_431.0.0_regram_4.1_sl.ipa",
-          "size": 318100000,
           "version": "431.0.0",
-          "buildVersion": null,
           "date": "2026-06-09T03:50:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1779818416566-gr3db/com.burbn.instagram_431.0.0_regram_4.1_sl.ipa",
+          "size": 318100000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -135,12 +102,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/diarrhea3/YTLiteDiarrhea/releases/download/ytp-75/21.13.6_YouTubePlus_5.2b4.ipa",
-          "size": 126800000,
           "version": "21.13.6",
-          "buildVersion": null,
           "date": "2026-06-09T03:45:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/diarrhea3/YTLiteDiarrhea/releases/download/ytp-75/21.13.6_YouTubePlus_5.2b4.ipa",
+          "size": 126800000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -173,12 +140,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://app.iosgods.com/store/download-ipa/1649-subway-surfers-ios-mod-ipa/sideloadly?token=eyJpdiI6IkJEZmtCSkdRUHFYdU9jbWxTMEtJcWc9PSIsInZhbHVlIjoidVlPZUREUE02eDNxV2RzbEw4OFJqbjZFQ0lVMzFOUUp6Q2w5ZTJiSW1SY3Uxa2ZmYUNUbE04UDFDZjFaQ3A3UTJDYTZKam1HLzFUQmlLSFgzZkpvNEp0NkRDNTU5MGdya1ZPNWJrUW4rWmJtSU9DSkQ3Uk15bGVzZmNCZFVtM0NkYzlOMDdadmdrdXN6Y2lldUV2NFRCZnY2SWg3bjVjaFZFcTFTZ2FHU3JOWlZIeXdVcEFjWHRsWVN3ZmRuWnRBYkJlTThNWDRjbTd5ZmFtTFNONi9LSmpwcHVBN0U2Nk05eDRLUG96K0M3WDV2RzNyaWNPMmhodGVaV0FHVkdvUlQ1MVRTc1RuYkczckEydFRBWjhpbHc9PSIsIm1hYyI6ImNjZDU3MDA3MTI2OGY1M2I5ZWY1NmVlMzg5ZDhiZjI5ZWYzODZkNWY4MzVmMzYwYzk5ZDFlNWM1OWM4ODc1MzciLCJ0YWciOiIifQ==",
-          "size": 227300000,
           "version": "3.64.10",
-          "buildVersion": null,
           "date": "2026-06-09T03:37:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://app.iosgods.com/store/download-ipa/1649-subway-surfers-ios-mod-ipa/sideloadly?token=eyJpdiI6IkJEZmtCSkdRUHFYdU9jbWxTMEtJcWc9PSIsInZhbHVlIjoidVlPZUREUE02eDNxV2RzbEw4OFJqbjZFQ0lVMzFOUUp6Q2w5ZTJiSW1SY3Uxa2ZmYUNUbE04UDFDZjFaQ3A3UTJDYTZKam1HLzFUQmlLSFgzZkpvNEp0NkRDNTU5MGdya1ZPNWJrUW4rWmJtSU9DSkQ3Uk15bGVzZmNCZFVtM0NkYzlOMDdadmdrdXN6Y2lldUV2NFRCZnY2SWg3bjVjaFZFcTFTZ2FHU3JOWlZIeXdVcEFjWHRsWVN3ZmRuWnRBYkJlTThNWDRjbTd5ZmFtTFNONi9LSmpwcHVBN0U2Nk05eDRLUG96K0M3WDV2RzNyaWNPMmhodGVaV0FHVkdvUlQ1MVRTc1RuYkczckEydFRBWjhpbHc9PSIsIm1hYyI6ImNjZDU3MDA3MTI2OGY1M2I5ZWY1NmVlMzg5ZDhiZjI5ZWYzODZkNWY4MzVmMzYwYzk5ZDFlNWM1OWM4ODc1MzciLCJ0YWciOiIifQ==",
+          "size": 227300000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -188,34 +155,6 @@
           "NSCameraUsageDescription": "Required for augmented reality support.",
           "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you."
         }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "CyPwn Store",
-      "bundleIdentifier": "Ed0ardo.CyPwnStore",
-      "marketplaceID": "",
-      "developerName": "CyPwn Team",
-      "subtitle": "Jailbreak Repo & IPA Store for iOS",
-      "localizedDescription": "CyPwn Store is a community-driven iOS platform that provides access to a large collection of IPA files, jailbreak tools, and tweak repositories. It functions as a centralized library where users can browse and download modified apps, utilities, and packages designed for sideloaded or jailbroken iOS devices.\n\nThe platform is commonly used to explore third-party iOS apps outside of the official App Store ecosystem. It includes support for browsing repositories, downloading packages, and accessing curated lists of tools and applications shared by the community.\n\nCyPwn is designed for advanced users who are familiar with sideloading workflows and alternative app installation methods on iOS.",
-      "iconURL": "https://i.imgur.com/4ryWfqq.png",
-      "tintColor": "#000000",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=e2c524a9eae511a538fd7772a568accf",
-          "size": 900000,
-          "version": "7.1",
-          "buildVersion": null,
-          "date": "2026-06-09T03:33:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
       },
       "patreon": {}
     },
@@ -232,12 +171,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/AhmedBafkir/DLiPA/releases/download/v1.2/DLiPA_v1.2.ipa",
-          "size": 500000,
           "version": "1.2",
-          "buildVersion": null,
           "date": "2026-06-09T03:31:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/AhmedBafkir/DLiPA/releases/download/v1.2/DLiPA_v1.2.ipa",
+          "size": 500000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -262,12 +201,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/iRayanKhan/BundleReader/releases/download/1.00/BundleReader.iOS.iPadOS.ipa",
-          "size": 200000,
           "version": "1.0",
-          "buildVersion": null,
           "date": "2026-06-09T03:25:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/iRayanKhan/BundleReader/releases/download/1.00/BundleReader.iOS.iPadOS.ipa",
+          "size": 200000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -290,12 +229,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/n3d1117/appdb/releases/download/v1.1.6/appdb-v1.1.6-stev3fvcks.ipa",
-          "size": 23200000,
           "version": "1.1.6",
-          "buildVersion": null,
           "date": "2026-06-09T03:21:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/n3d1117/appdb/releases/download/v1.1.6/appdb-v1.1.6-stev3fvcks.ipa",
+          "size": 23200000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -318,12 +257,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=ce9f2608947cd0204595bdd55395633b",
-          "size": 16400000,
           "version": "1.0",
-          "buildVersion": null,
           "date": "2026-06-09T03:16:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=ce9f2608947cd0204595bdd55395633b",
+          "size": 16400000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -349,12 +288,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/PostBox-Team/PostBox-Releases/releases/download/beta-8.1/PostBox-0.8.1-beta.ipa",
-          "size": 8500000,
           "version": "0.8.1",
-          "buildVersion": null,
           "date": "2026-06-09T03:13:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/PostBox-Team/PostBox-Releases/releases/download/beta-8.1/PostBox-0.8.1-beta.ipa",
+          "size": 8500000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -381,12 +320,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/retromp3/retro/releases/download/alpha/Old-Retro.ipa",
-          "size": 65000000,
           "version": "0.2",
-          "buildVersion": null,
           "date": "2026-06-09T03:11:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/retromp3/retro/releases/download/alpha/Old-Retro.ipa",
+          "size": 65000000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
@@ -1731,12 +1670,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/Randomblock1/altstore/releases/download/assets/Rewound.ipa",
-          "size": 11100000,
           "version": "2019.8",
-          "buildVersion": null,
           "date": "2026-06-08T02:45:00-04:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/Randomblock1/altstore/releases/download/assets/Rewound.ipa",
+          "size": 11100000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
