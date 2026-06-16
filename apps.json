@@ -239,409 +239,7 @@
       "patreon": {}
     },
     {
-      "name": "TrollInstallerX",
-      "bundleIdentifier": "com.Alfie.TrollInstallerX",
-      "marketplaceID": "",
-      "developerName": "Alfie",
-      "subtitle": "TrollStore Installer for iOS",
-      "localizedDescription": "TrollInstallerX is a utility designed to help install and configure TrollStore on supported iOS devices. It automates parts of the installation process by applying necessary exploits and preparing the system for persistent app signing capabilities provided by TrollStore.\n\nThe tool is primarily used by advanced users in the sideloading and jailbreak community to enable permanent installation of unsigned apps without requiring repeated resigning. It focuses on simplifying the setup process and reducing manual steps when deploying TrollStore on compatible firmware versions.",
-      "iconURL": "https://i.imgur.com/bxxqc07.png",
-      "tintColor": "#04bcfc",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "1.0.3",
-          "date": "2026-06-13T19:19:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.3/TrollInstallerX.ipa",
-          "size": 6900000,
-          "buildVersion": "1",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSAppleMusicUsageDescription": "Unsandboxing with MacDirtyCow"
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Jaility",
-      "bundleIdentifier": "org.haxi0.Jaility",
-      "marketplaceID": "",
-      "developerName": "haxi0",
-      "subtitle": "Jailbreak Utility & Device Toolkit",
-      "localizedDescription": "Jaility is a jailbreak-related utility designed for managing device jailbreak states and assisting with common post-exploitation tasks on iOS. It is typically used in sideloaded environments to help users interact with jailbreak components, run device checks, and manage system-level tweaks depending on the supported jailbreak setup.\n\nThe tool is aimed at advanced users in the jailbreak community, offering a lightweight interface for handling jailbreak-related operations and device configuration tasks without relying on multiple separate utilities.",
-      "iconURL": "https://i.imgur.com/Il47oyE.png",
-      "tintColor": "#14b4fc",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "3.1.1",
-          "date": "2026-06-13T19:18:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/haxi0/Jaility/releases/download/3.1.1/Jaility-3.1.1.ipa",
-          "size": 100000,
-          "buildVersion": "1",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "ClassicPlayer",
-      "bundleIdentifier": "me.gmoran.ClassicPlayer",
-      "marketplaceID": "",
-      "developerName": "gmoran",
-      "subtitle": "Classic Music Player for iOS",
-      "localizedDescription": "ClassicPlayer is a lightweight music player designed to recreate a classic, minimal playback experience on iOS. It focuses on simple navigation, clean layouts, and easy access to local music libraries without the complexity of modern streaming-first interfaces.\n\nThe app is typically used by users who prefer a traditional media player feel, emphasizing offline playback, organized playlists, and a straightforward UI inspired by older generation music apps. It prioritizes simplicity and responsiveness over advanced streaming features.",
-      "iconURL": "https://i.imgur.com/LoYUyqB.png",
-      "tintColor": "#8f8f6f",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "2.0.2",
-          "date": "2026-06-13T19:17:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://file.ipaomtk.com/ClassicPlayer/ClassicPlayer_ipaomtk.com.ipa",
-          "size": 37400000,
-          "buildVersion": "1",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSAppleMusicUsageDescription": "Classic Player needs access to your library in order to work properly."
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "wtfis",
-      "bundleIdentifier": "com.therealclarity.wtfis",
-      "marketplaceID": "",
-      "developerName": "TheRealClarity",
-      "subtitle": "Legacy iOS 8 Jailbreak Tool",
-      "localizedDescription": "wtfis is a jailbreak utility designed for 64-bit iOS devices running iOS 8.0 through iOS 8.4.1. It is based on and extends earlier exploit techniques originally used in older jailbreaks, combining multiple vulnerabilities to achieve an untethered jailbreak on supported devices.\n\nThe tool allows users to gain root-level access to compatible iPhones and iPads, enabling installation of jailbreak tweaks, themes, and system modifications outside of Apple’s restrictions. It is primarily intended for legacy device preservation and security research, focusing on older iOS versions that are no longer supported by Apple.\n\nBecause it targets outdated firmware, it is used mainly in archival, development, and jailbreak history contexts rather than modern daily use.",
-      "iconURL": "https://i.imgur.com/BuggZ8U.png",
-      "tintColor": "#4b6eb3",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "1.0~b1",
-          "date": "2026-06-13T19:14:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/TheRealClarity/wtfis/releases/download/1.0-b2/wtfis-1.0-b2.ipa",
-          "size": 10400000,
-          "buildVersion": "1",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "unc0ver",
-      "bundleIdentifier": "science.xnu.undecimus",
-      "marketplaceID": "",
-      "developerName": "Pwn20wnd & Sam Bingner",
-      "subtitle": "iOS 11–12 Jailbreak Tool",
-      "localizedDescription": "unc0ver is a semi-untethered jailbreak for iOS devices that allows users to gain root-level access and customize the operating system beyond Apple’s restrictions. Developed primarily by Pwn20wnd with contributions from Sam Bingner and the Undecimus team, it supports a wide range of iOS versions, especially iOS 11 through iOS 14 on many devices.\n\nThe tool enables installation of jailbreak tweaks, themes, and system modifications via package managers such as Cydia or Sileo. It is widely known for its stability, frequent updates, and use of modern kernel exploit techniques to achieve jailbreak access without requiring a full system restore.",
-      "iconURL": "https://i.imgur.com/vLzKlu3.png",
-      "tintColor": "#3636c8",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "8.0.2",
-          "date": "2026-06-13T19:13:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
-          "size": 54500000,
-          "buildVersion": "1",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "rootlessJB4",
-      "bundleIdentifier": "org.brandonplank.rootlessJB",
-      "marketplaceID": "",
-      "developerName": "Brandon Plank",
-      "subtitle": "Rootless Jailbreak for iOS 12",
-      "localizedDescription": "rootlessJB is a jailbreak utility designed for select iOS 12 devices that introduced a “rootless” approach to system modification. Instead of modifying core system partitions, it enables tweaks and customizations in a safer, more isolated manner, reducing the risk of breaking system integrity.\n\nThe tool was aimed at providing an easier and more experimental jailbreak experience for users and developers exploring iOS 12 security and customization. It supports running jailbreak processes via a sideloaded app and was primarily used for testing tweaks and jailbreak concepts on compatible devices.",
-      "iconURL": "https://i.imgur.com/xya6d3M.png",
-      "tintColor": "#6c9ccc",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "2.1",
-          "date": "2026-06-13T19:09:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/brandonplank/rootlessJB4/releases/download/2.1/rootlessJB4.ipa",
-          "size": 38200000,
-          "buildVersion": "1",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Phoenix",
-      "bundleIdentifier": "supplies.wall.phoenix",
-      "marketplaceID": "",
-      "developerName": "Siguza, tihmstar, and contributors",
-      "subtitle": "Legacy iOS 9.3.5 Jailbreak Tool",
-      "localizedDescription": "Phoenix Jailbreak (hosted at phoenixpwn.com) is an official website for the Phoenix jailbreak, a semi-untethered tool designed for 32-bit iOS devices running iOS 9.3.5 and 9.3.6. It allows users to apply a jailbreak to compatible devices, enabling system customization, installation of third-party extensions, and access to package managers outside Apple’s App Store environment.\n\nPhoenix was widely used for older devices like the iPhone 4s, iPhone 5/5c, iPad 2–4, and iPod touch 5th generation. The jailbreak must be installed via sideloading and typically requires re-activation after device restarts due to its semi-untethered nature.\n\nThe project is part of the legacy iOS jailbreak ecosystem and is primarily maintained for archival and historical support of older Apple hardware.",
-      "iconURL": "https://i.imgur.com/0NIX34t.png",
-      "tintColor": "#7f7f7f",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "6.0",
-          "date": "2026-06-13T23:08:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://phoenixpwn.com/download.php",
-          "size": 23400000,
-          "buildVersion": "1",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "p0laris",
-      "bundleIdentifier": "backwithavengeance",
-      "marketplaceID": "",
-      "developerName": "spv",
-      "subtitle": "iOS 9.3.5 / 9.3.6 Jailbreak Tool",
-      "localizedDescription": "p0laris is an open-source jailbreak utility designed for older 32-bit iOS devices running iOS 9.3.5 and 9.3.6. It allows users to run a semi-untethered jailbreak on supported devices, enabling system-level customization such as installing tweaks, themes, and third-party package managers.\n\nThe tool is distributed as an IPA that must be sideloaded onto the device. Once installed, it can be launched to trigger the jailbreak process. It is primarily intended for legacy device support and experimentation within the iOS security research community.\n\nThe project is lightweight and focused specifically on compatibility with older hardware, rather than modern iOS versions.",
-      "iconURL": "https://i.imgur.com/FrFYRQx.png",
-      "tintColor": "#7f7f7f",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "1.0",
-          "date": "2026-06-13T23:05:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/p0larisdev/app/releases/download/v1.0.1/p0laris-Release.ipa",
-          "size": 16800000,
-          "buildVersion": "1",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Taurine",
-      "bundleIdentifier": "org.coolstar.taurine",
-      "marketplaceID": "",
-      "developerName": "CoolStar & the Odyssey Team",
-      "subtitle": "Powerful Jailbreak for iOS 14",
-      "localizedDescription": "Taurine is a jailbreak utility developed by CoolStar and the Odyssey Team for devices running supported versions of iOS and iPadOS 14. Built with a focus on stability, performance, and compatibility, Taurine provides access to a modern jailbreak environment that allows users to install tweaks, themes, and advanced system customizations.\n\nThe project features a streamlined interface and integrates with modern package management tools, making it easier for users to manage modifications and extensions. Taurine became a popular choice within the iOS 14 jailbreak community due to its reliability and broad device support on compatible firmware versions.",
-      "iconURL": "https://i.imgur.com/aQu7cxr.png",
-      "tintColor": "#c33c63",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "1.1.7-3",
-          "date": "2026-06-13T19:04:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.7-3/Taurine.1.1.7-3.ipa",
-          "size": 32200000,
-          "buildVersion": "1",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSAccentColorName": "AccentColor"
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Odyssey",
-      "bundleIdentifier": "org.coolstar.odyssey",
-      "marketplaceID": "",
-      "developerName": "CoolStar & the Odyssey Team",
-      "subtitle": "The iOS 13 Jailbreak Experience",
-      "localizedDescription": "Odyssey is a jailbreak utility designed for iOS and iPadOS 13 devices. Developed by CoolStar and the Odyssey Team, it introduced a modern jailbreak environment focused on stability, speed, and user experience. Odyssey utilizes a rootless-style philosophy where possible and integrates closely with modern package management tools to provide a streamlined customization experience.\n\nThe project enables users to install tweaks, themes, utilities, and other modifications not available through the App Store. It became one of the most popular jailbreak solutions for iOS 13 due to its polished interface, reliable performance, and strong compatibility with the contemporary jailbreak ecosystem.",
-      "iconURL": "https://i.imgur.com/YbX0vwi.png",
-      "tintColor": "#6156e2",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "1.4.3",
-          "date": "2026-06-13T19:03:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/Odyssey-Team/Odyssey/releases/download/v1.4.3/Odyssey-1.4.3.ipa",
-          "size": 27200000,
-          "buildVersion": "1",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSPhotoLibraryUsageDescription": "For selecting a custom theme image"
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "EverPwnage",
-      "bundleIdentifier": "com.lukezgd.everpwnage",
-      "marketplaceID": "",
-      "developerName": "LukeZGD",
-      "subtitle": "Downgrade & Jailbreak Legacy Devices",
-      "localizedDescription": "EverPwnage is a utility created by LukeZGD that helps users work with legacy iOS devices by facilitating firmware restoration, downgrading workflows, and jailbreak-related processes on supported hardware. It is part of a collection of tools aimed at preserving older Apple devices and making it easier to install compatible iOS versions for testing, research, and retro device use.\n\nThe project focuses on simplifying complex device-management procedures through an accessible interface while supporting a variety of legacy iPhone, iPad, and iPod touch models. It is primarily intended for advanced users, developers, and enthusiasts interested in older iOS ecosystems.",
-      "iconURL": "https://i.imgur.com/Tt1pu1Y.png",
-      "tintColor": "#64849a",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "2.0.1",
-          "date": "2026-06-13T19:01:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/LukeZGD/EverPwnage/releases/download/v2.0.1/EverPwnage-v2.0.1.ipa",
-          "size": 23100000,
-          "buildVersion": "1",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Electra",
-      "bundleIdentifier": "org.coolstar.electra1141",
-      "marketplaceID": "",
-      "developerName": "CoolStar & the Electra Team",
-      "subtitle": "Jailbreak for iOS 11.0–11.4.1",
-      "localizedDescription": "Electra is a jailbreak utility created for devices running iOS 11.0 through iOS 11.4.1. Developed by CoolStar and the Electra Team, it provides a user-friendly way to enable advanced customization, tweak installation, theming, and access to third-party package managers beyond Apple's standard ecosystem.\n\nElectra was one of the most influential jailbreaks of the iOS 11 era, supporting a wide range of devices and helping establish a modern jailbreak environment focused on stability and ease of use. It enabled users to personalize their devices with tweaks, utilities, interface modifications, and developer tools unavailable through the App Store.",
-      "iconURL": "https://i.imgur.com/G4ovh5x.png",
-      "tintColor": "#64849a",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "2.0",
-          "date": "2026-06-13T19:00:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/coolstar/electra-ipas/raw/master/Electra1141-2.0.ipa",
-          "size": 52200000,
-          "buildVersion": "1",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Dopamine",
-      "bundleIdentifier": "com.opa334.Dopamine",
-      "marketplaceID": "",
-      "developerName": "Lars Fröder",
-      "subtitle": "Modern Rootless Jailbreak for iOS",
-      "localizedDescription": "Dopamine is a modern jailbreak tool designed for supported versions of iOS and iPadOS. Developed by opa334, it uses a rootless approach that minimizes modifications to the system partition while still enabling advanced customization, tweak injection, and access to third-party package managers.\n\nDopamine focuses on stability, compatibility, and a streamlined user experience, making it one of the most popular jailbreak solutions for supported modern devices. It allows users to install tweaks, themes, utilities, and other modifications while maintaining a cleaner separation from core system files.",
-      "iconURL": "https://i.imgur.com/dUdhovO.png",
-      "tintColor": "#56e2cd",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "2.4.99",
-          "date": "2026-06-13T18:58:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.5b4/Dopamine.ipa",
-          "size": 53800000,
-          "buildVersion": "1",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSPhotoLibraryUsageDescription": "Dopamine needs to access your photo library to support picking a boot logo"
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Chimera",
-      "bundleIdentifier": "com.electrateam.chimera",
-      "marketplaceID": "",
-      "developerName": "Electra Team",
-      "subtitle": "Modern Jailbreak for iOS 12",
-      "localizedDescription": "Chimera is a jailbreak utility developed for iOS 12 devices, designed to provide a modern and stable platform for system customization and development. Built by the Electra Team, Chimera introduced a package-manager-based ecosystem that allowed users to install themes, tweaks, and developer tools beyond the standard iOS experience.\n\nThe project was notable for its focus on reliability, a modern user interface, and support for a wide range of iOS 12 devices. It became one of the most widely used jailbreak solutions of its generation and helped establish a new ecosystem for iOS customization and experimentation.",
-      "iconURL": "https://i.imgur.com/XpYMPEM.png",
-      "tintColor": "#10c2ee",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "1.6.5",
-          "date": "2026-06-13T18:54:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/coolstar/electra-ipas/raw/master/chimera/1.6.5-12.2-12.5.ipa",
-          "size": 34400000,
-          "buildVersion": "1",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
-    },
-    {
-      "name": "haptics",
+      "name": "Haptics",
       "bundleIdentifier": "com.timi2506.haptics",
       "marketplaceID": "",
       "developerName": "Timi2506",
@@ -1761,67 +1359,6 @@
       "patreon": {}
     },
     {
-      "name": "Scarlet",
-      "bundleIdentifier": "com.scarlet.app",
-      "marketplaceID": "",
-      "developerName": "Scarlet Team",
-      "subtitle": "App Sideloading & Certificate Manager",
-      "localizedDescription": "Scarlet is a third-party iOS utility used for installing and managing apps outside of the App Store. It allows users to sign IPA files with certificates and deploy them directly onto supported devices, offering an alternative way to run custom or unsigned applications.\n\nScarlet typically includes tools for certificate management, app installation, and renewal of signed apps, making it useful for advanced users who want more flexibility over what they install on their devices. Its workflow is designed to simplify sideloading by combining signing and installation into one interface.",
-      "iconURL": "https://i.imgur.com/fSweQ8P.png",
-      "tintColor": "#ec343c",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "2.0",
-          "date": "2026-06-14T06:38:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://file.ipaomtk.com/Scarlet/Scarlet-IPAOMTK.ipa",
-          "size": 7900000,
-          "buildVersion": "1",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSLocalNetworkUsageDescription": "1Sign runs a local server to install signed apps on this device."
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Clip (BETA)",
-      "bundleIdentifier": "com.rileytestut.Clip.Beta",
-      "marketplaceID": "",
-      "developerName": "Riley Testut",
-      "subtitle": "Next-Gen Clipboard Manager (Beta)",
-      "localizedDescription": "Clip (BETA) is the experimental beta version of the iOS clipboard manager created by Riley Testut. It focuses on improving how users capture, store, and reuse copied content such as text, links, and snippets across apps. As a beta release, it often includes early features, performance improvements, and interface changes that are still being refined before a stable release.\n\nDesigned for power users and testers, Clip (BETA) helps streamline workflows by keeping a temporary history of copied items, making it easier to retrieve and reuse information without repeatedly recopying it.",
-      "iconURL": "https://i.imgur.com/wBCjz4q.png",
-      "tintColor": "#fc566c",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "1.2b",
-          "date": "2026-06-14T06:34:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://cdn.altstore.io/file/altstore/apps/clip/1_2_b.ipa",
-          "size": 600000,
-          "buildVersion": "1",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSLocationAlwaysAndWhenInUseUsageDescription": "Clip requires “Always” location permission to automatically tag clippings with your location. Your location data never leaves this device.",
-          "NSLocationWhenInUseUsageDescription": "Clip requires location permissions to automatically tag clippings with your location. Your location data never leaves this device."
-        }
-      },
-      "patreon": {}
-    },
-    {
       "name": "Clip",
       "bundleIdentifier": "com.rileytestut.Clip",
       "marketplaceID": "",
@@ -1848,162 +1385,6 @@
         "privacy": {
           "NSLocationAlwaysAndWhenInUseUsageDescription": "Clip requires “Always” location permission to automatically tag clippings with your location. Your location data never leaves this device.",
           "NSLocationWhenInUseUsageDescription": "Clip requires location permissions to automatically tag clippings with your location. Your location data never leaves this device."
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "AltStore",
-      "bundleIdentifier": "com.rileytestut.AltStore",
-      "marketplaceID": "",
-      "developerName": "Riley Testut",
-      "subtitle": "Install Apps Beyond the App Store",
-      "localizedDescription": "AltStore is a third-party iOS app marketplace that lets users install and manage apps outside of Apple’s official App Store. It works by using Apple’s developer tools to sign and refresh apps over Wi-Fi, allowing users to sideload applications directly onto their devices without jailbreaking.\n\nAltStore runs a companion desktop app (AltServer) that helps install and refresh apps in the background, making it easier to keep sideloaded apps active. It’s widely used by developers and power users for testing and running custom iOS applications.",
-      "iconURL": "https://i.imgur.com/LnfWDW1.png",
-      "tintColor": "#348484",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "2.2.1",
-          "date": "2026-06-14T06:28:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/2_2_1.ipa",
-          "size": 32900000,
-          "buildVersion": "1",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSLocalNetworkUsageDescription": "AltStore uses the local network to find and communicate with AltServer."
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Feather",
-      "bundleIdentifier": "thewonderofyou.Feather",
-      "marketplaceID": "",
-      "developerName": "Feather Team",
-      "subtitle": "Lightweight iOS App Sideloading Tool",
-      "localizedDescription": "Feather is a lightweight iOS utility designed for installing and managing third-party apps through IPA sideloading. It provides a simple interface for signing apps with certificates and deploying them directly to supported devices. Built with a focus on speed and ease of use, Feather is often used by advanced users who want a minimal, efficient way to handle app installation without relying on the App Store.\n\nThe tool emphasizes simplicity, allowing users to quickly sign, install, and manage apps with fewer steps compared to more complex sideloading solutions.",
-      "iconURL": "https://i.imgur.com/mQSKtmt.png",
-      "tintColor": "#051df9",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "2.8.2",
-          "date": "2026-06-14T06:20:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/claration/Feather/releases/download/v2.8.2/Feather.ipa",
-          "size": 14200000,
-          "buildVersion": "1",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSHumanReadableCopyright": "Copyright (c) 2024 Samara M"
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "SideStore",
-      "bundleIdentifier": "com.SideStore.SideStore",
-      "marketplaceID": "",
-      "developerName": "SideStore Project",
-      "subtitle": "Install iOS Apps Without a Computer",
-      "localizedDescription": "SideStore is a community-developed iOS app that allows users to install and manage apps directly on their device without needing a computer connection. It works by using Apple’s developer tools in a user-friendly way, enabling sideloading of IPA files with refreshed certificates over Wi-Fi. SideStore is designed as a more convenient alternative to traditional sideloading methods, offering a streamlined interface for installing, updating, and managing third-party apps on supported devices.\n\nIt is commonly used by advanced users and developers who want more control over app installation outside the App Store ecosystem.",
-      "iconURL": "https://i.imgur.com/sv2FBtc.png",
-      "tintColor": "#04d4f9",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "0.6.3",
-          "date": "2026-06-14T06:19:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.6.3/SideStore.ipa",
-          "size": 28600000,
-          "buildVersion": "1",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSLocalNetworkUsageDescription": "SideStore uses the local network to find and communicate with your device."
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Ksign",
-      "bundleIdentifier": "nya.asami.ksign",
-      "marketplaceID": "",
-      "developerName": "KSign Team",
-      "subtitle": "iOS App Signing & Certificate Manager",
-      "localizedDescription": "KSign is a utility tool designed for managing and signing iOS application packages using certificates. It provides users with a straightforward way to apply digital signatures, organize signing profiles, and prepare apps for installation on supported devices. Built with a focus on simplicity and efficiency, KSign is commonly used by developers and advanced users for testing and personal app deployment workflows outside of standard app store distribution.",
-      "iconURL": "https://i.imgur.com/j1Yp7H7.png",
-      "tintColor": "#0494fc",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "1.6",
-          "date": "2026-06-14T06:15:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/Nyasami/Ksign/releases/download/v1.6/Ksign.ipa",
-          "size": 16400000,
-          "buildVersion": "1",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSAccentColorName": "AccentColor",
-          "NSHumanReadableCopyright": "Copyright (c) 2025 Nagata Asami"
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "ESign",
-      "bundleIdentifier": "p3.xyz.yyyue.esign",
-      "marketplaceID": "",
-      "developerName": "ESign Team",
-      "subtitle": "Simple App Signing & Installation Tool",
-      "localizedDescription": "ESign is a utility app designed to help users manage and install iOS applications by working with digital signatures and certificates. It provides a streamlined interface for signing app packages and handling installation workflows on supported devices. Built for convenience and flexibility, ESign is often used by developers and advanced users to test apps or manage custom installations outside of traditional app distribution methods. With a focus on simplicity and control, it offers tools for organizing, signing, and deploying apps in one place.",
-      "iconURL": "https://i.imgur.com/7l7po4S.png",
-      "tintColor": "#4ca4f4",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "5.0.2",
-          "date": "2026-06-14T06:14:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://esign-ios.app/dl/esign_v5.0.2.ipa/",
-          "size": 7500000,
-          "buildVersion": "1",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSAppleMusicUsageDescription": "点允许，才能使用。",
-          "NSCameraUsageDescription": "授权后才能使用您的相机进行扫一扫",
-          "NSLocationWhenInUseUsageDescription": "开启定位服务，我们将根据您的位置,为您提供相关信息。在未经许可前不会开启定位服务，请放心使用。",
-          "NSPhotoLibraryAddUsageDescription": "授权后才能将图片保存到本地相册",
-          "NSPhotoLibraryUsageDescription": "授权后才能访问您的手机相册，您才能上传对应的图片",
-          "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you"
         }
       },
       "patreon": {}
@@ -2562,6 +1943,192 @@
           "NSCameraUsageDescription": "Taking Pictures ",
           "NSMotionUsageDescription ": "Interactive ad controls",
           "NSPhotoLibraryUsageDescription": "Taking pictures"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Scarlet",
+      "bundleIdentifier": "com.DebianArch.ScarletPersonalXYZZZ",
+      "marketplaceID": "",
+      "developerName": "Scarlet Team",
+      "subtitle": "App Sideloading & Certificate Manager",
+      "localizedDescription": "Scarlet is a third-party iOS utility used for installing and managing apps outside of the App Store. It allows users to sign IPA files with certificates and deploy them directly onto supported devices, offering an alternative way to run custom or unsigned applications.\n\nScarlet typically includes tools for certificate management, app installation, and renewal of signed apps, making it useful for advanced users who want more flexibility over what they install on their devices. Its workflow is designed to simplify sideloading by combining signing and installation into one interface.",
+      "iconURL": "https://i.imgur.com/ZykS6Dy.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/ScarletAlpha.ipa",
+          "size": 15500000,
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-06-15T05:27:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "This app needs to access the local network to do wireless installs."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "AltStore",
+      "bundleIdentifier": "com.rileytestut.AltStore",
+      "marketplaceID": "",
+      "developerName": "Riley Testut",
+      "subtitle": "Install Apps Beyond the App Store",
+      "localizedDescription": "AltStore is a third-party iOS app marketplace that lets users install and manage apps outside of Apple’s official App Store. It works by using Apple’s developer tools to sign and refresh apps over Wi-Fi, allowing users to sideload applications directly onto their devices without jailbreaking.\n\nAltStore runs a companion desktop app (AltServer) that helps install and refresh apps in the background, making it easier to keep sideloaded apps active. It’s widely used by developers and power users for testing and running custom iOS applications.",
+      "iconURL": "https://i.imgur.com/LnfWDW1.png",
+      "tintColor": "#348484",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "2.2.1",
+          "date": "2026-06-14T06:28:00-04:00",
+          "localizedDescription": null,
+          "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/2_2_1.ipa",
+          "size": 32900000,
+          "buildVersion": "1",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "AltStore uses the local network to find and communicate with AltServer."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Feather",
+      "bundleIdentifier": "thewonderofyou.Feather",
+      "marketplaceID": "",
+      "developerName": "Feather Team",
+      "subtitle": "Lightweight iOS App Sideloading Tool",
+      "localizedDescription": "Feather is a lightweight iOS utility designed for installing and managing third-party apps through IPA sideloading. It provides a simple interface for signing apps with certificates and deploying them directly to supported devices. Built with a focus on speed and ease of use, Feather is often used by advanced users who want a minimal, efficient way to handle app installation without relying on the App Store.\n\nThe tool emphasizes simplicity, allowing users to quickly sign, install, and manage apps with fewer steps compared to more complex sideloading solutions.",
+      "iconURL": "https://i.imgur.com/mQSKtmt.png",
+      "tintColor": "#051df9",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "2.8.2",
+          "date": "2026-06-14T06:20:00-04:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/claration/Feather/releases/download/v2.8.2/Feather.ipa",
+          "size": 14200000,
+          "buildVersion": "1",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSHumanReadableCopyright": "Copyright (c) 2024 Samara M"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "SideStore",
+      "bundleIdentifier": "com.SideStore.SideStore",
+      "marketplaceID": "",
+      "developerName": "SideStore Project",
+      "subtitle": "Install iOS Apps Without a Computer",
+      "localizedDescription": "SideStore is a community-developed iOS app that allows users to install and manage apps directly on their device without needing a computer connection. It works by using Apple’s developer tools in a user-friendly way, enabling sideloading of IPA files with refreshed certificates over Wi-Fi. SideStore is designed as a more convenient alternative to traditional sideloading methods, offering a streamlined interface for installing, updating, and managing third-party apps on supported devices.\n\nIt is commonly used by advanced users and developers who want more control over app installation outside the App Store ecosystem.",
+      "iconURL": "https://i.imgur.com/sv2FBtc.png",
+      "tintColor": "#04d4f9",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "0.6.3",
+          "date": "2026-06-14T06:19:00-04:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.6.3/SideStore.ipa",
+          "size": 28600000,
+          "buildVersion": "1",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "SideStore uses the local network to find and communicate with your device."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Ksign",
+      "bundleIdentifier": "nya.asami.ksign",
+      "marketplaceID": "",
+      "developerName": "KSign Team",
+      "subtitle": "iOS App Signing & Certificate Manager",
+      "localizedDescription": "KSign is a utility tool designed for managing and signing iOS application packages using certificates. It provides users with a straightforward way to apply digital signatures, organize signing profiles, and prepare apps for installation on supported devices. Built with a focus on simplicity and efficiency, KSign is commonly used by developers and advanced users for testing and personal app deployment workflows outside of standard app store distribution.",
+      "iconURL": "https://i.imgur.com/j1Yp7H7.png",
+      "tintColor": "#0494fc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.6",
+          "date": "2026-06-14T06:15:00-04:00",
+          "localizedDescription": null,
+          "downloadURL": "https://github.com/Nyasami/Ksign/releases/download/v1.6/Ksign.ipa",
+          "size": 16400000,
+          "buildVersion": "1",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAccentColorName": "AccentColor",
+          "NSHumanReadableCopyright": "Copyright (c) 2025 Nagata Asami"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "ESign",
+      "bundleIdentifier": "p3.xyz.yyyue.esign",
+      "marketplaceID": "",
+      "developerName": "ESign Team",
+      "subtitle": "Simple App Signing & Installation Tool",
+      "localizedDescription": "ESign is a utility app designed to help users manage and install iOS applications by working with digital signatures and certificates. It provides a streamlined interface for signing app packages and handling installation workflows on supported devices. Built for convenience and flexibility, ESign is often used by developers and advanced users to test apps or manage custom installations outside of traditional app distribution methods. With a focus on simplicity and control, it offers tools for organizing, signing, and deploying apps in one place.",
+      "iconURL": "https://i.imgur.com/7l7po4S.png",
+      "tintColor": "#4ca4f4",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "5.0.2",
+          "date": "2026-06-14T06:14:00-04:00",
+          "localizedDescription": null,
+          "downloadURL": "https://esign-ios.app/dl/esign_v5.0.2.ipa/",
+          "size": 7500000,
+          "buildVersion": "1",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "点允许，才能使用。",
+          "NSCameraUsageDescription": "授权后才能使用您的相机进行扫一扫",
+          "NSLocationWhenInUseUsageDescription": "开启定位服务，我们将根据您的位置,为您提供相关信息。在未经许可前不会开启定位服务，请放心使用。",
+          "NSPhotoLibraryAddUsageDescription": "授权后才能将图片保存到本地相册",
+          "NSPhotoLibraryUsageDescription": "授权后才能访问您的手机相册，您才能上传对应的图片",
+          "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you"
         }
       },
       "patreon": {}
