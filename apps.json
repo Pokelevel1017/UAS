@@ -9,6 +9,432 @@
   "featuredApps": [],
   "apps": [
     {
+      "name": "rootlessJB4",
+      "bundleIdentifier": "org.brandonplank.rootlessJB",
+      "marketplaceID": "",
+      "developerName": "RootlessJB Team",
+      "subtitle": "Rootless jailbreak for iOS 12–13",
+      "localizedDescription": "rootlessJB4 is a lightweight, rootless jailbreak designed for compatible iOS 12 and iOS 13 devices. It focuses on providing basic jailbreak functionality without modifying the system root filesystem, enabling safer system tweaks and development testing. This build is primarily intended for developers and advanced users experimenting with jailbreak techniques and compatibility.",
+      "iconURL": "https://i.imgur.com/AluIFaZ.png",
+      "tintColor": "#6c9ccc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/brandonplank/rootlessJB4/releases/download/2.1/rootlessJB4.ipa",
+          "size": 38200000,
+          "version": "2.1",
+          "buildVersion": null,
+          "date": "2026-06-15T17:51:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Phoenix",
+      "bundleIdentifier": "supplies.wall.phoenix",
+      "marketplaceID": "",
+      "developerName": "Phoenix Team",
+      "subtitle": "Phoenix jailbreak for iOS 9.3.5.",
+      "localizedDescription": "Phoenix is a semi-untethered jailbreak designed for 32-bit iOS devices running iOS 9.3.5. It enables system customization, tweak installation, and third-party package management through Cydia on supported legacy devices. Phoenix is optimized for older hardware and provides a stable jailbreak solution for iOS 9 users.",
+      "iconURL": "https://i.imgur.com/u0Wc7HM.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://phoenixpwn.com/download.php",
+          "size": 23400000,
+          "version": "6.0",
+          "buildVersion": null,
+          "date": "2026-06-15T17:50:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "p0laris",
+      "bundleIdentifier": "backwithavengeance",
+      "marketplaceID": "",
+      "developerName": "spv",
+      "subtitle": "p0laris jailbreak for iOS 9.3.4–9.3.5.",
+      "localizedDescription": "p0laris is a jailbreak tool designed for 64-bit iOS devices running iOS 9.3.4 and 9.3.5. It provides kernel-level exploit functionality to enable system customization, tweak injection, and third-party package management on supported devices. Built for legacy firmware, p0laris focuses on stability and compatibility for older iOS environments.",
+      "iconURL": "https://i.imgur.com/Hdil2Jx.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/p0larisdev/app/releases/download/v1.0.1/p0laris-Release.ipa",
+          "size": 16800000,
+          "version": "1.0",
+          "buildVersion": null,
+          "date": "2026-06-15T17:48:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "EverPwnage",
+      "bundleIdentifier": "com.lukezgd.everpwnage",
+      "marketplaceID": "",
+      "developerName": "LukeZGD",
+      "subtitle": "iOS 8.0 - 9.3.6 Jailbreak for 32-bit Devices",
+      "localizedDescription": "EverPwnage is a jailbreak tool designed for older, legacy iOS devices and firmware versions. It provides exploit-based access to enable device customization, tweak injection, and package manager support on compatible systems. EverPwnage is intended for advanced users working with legacy iOS environments and focuses on extending jailbreak functionality to older hardware and software combinations.",
+      "iconURL": "https://i.imgur.com/tNmNxVz.png",
+      "tintColor": "#000000",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/LukeZGD/EverPwnage/releases/download/v2.0.1/EverPwnage-v2.0.1.ipa",
+          "size": 23100000,
+          "version": "2.0.1",
+          "buildVersion": null,
+          "date": "2026-06-15T17:47:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Electra",
+      "bundleIdentifier": "org.coolstar.electra1141",
+      "marketplaceID": "",
+      "developerName": "CoolStar",
+      "subtitle": "Electra jailbreak for iOS 11.0–11.4.1.",
+      "localizedDescription": "Electra is a semi-untethered jailbreak developed by CoolStar for iOS 11.0 through iOS 11.4.1. It enables system customization, tweak injection, and third-party package management using Cydia or Sileo depending on the build. Electra uses kernel-level exploits to provide a stable jailbreak experience for supported devices on iOS 11.",
+      "iconURL": "https://i.imgur.com/cqkwY4E.png",
+      "tintColor": "#64849a",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/coolstar/electra-ipas/raw/master/Electra1141-2.0.ipa",
+          "size": 52200000,
+          "version": "2.0",
+          "buildVersion": null,
+          "date": "2026-06-15T17:45:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "daibutsu",
+      "bundleIdentifier": "com.sakuRdev.daibutsu",
+      "marketplaceID": "",
+      "developerName": "SakuRdev",
+      "subtitle": "iOS 8.4.1 Jailbreak optimized for A5 devices.",
+      "localizedDescription": "Daibutsu is a jailbreak-related utility designed for compatible iOS devices, providing system-level access and exploit-based functionality for supported firmware versions. It is intended for advanced users and developers working within the iOS jailbreak ecosystem, offering tools and features used in testing, research, and device modification workflows. Daibutsu may include experimental components depending on the build.",
+      "iconURL": "https://i.imgur.com/0RdXlVu.png",
+      "tintColor": "#000000",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/kok3shidoll/daibutsu/releases/download/1.0/daibutsu_v1.0b3.ipa",
+          "size": 7900000,
+          "version": "1.0b3",
+          "buildVersion": null,
+          "date": "2026-06-15T17:43:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Dopamine",
+      "bundleIdentifier": "com.opa334.Dopamine",
+      "marketplaceID": "",
+      "developerName": "opa334",
+      "subtitle": "Dopamine jailbreak for iOS 15–16.6.1.",
+      "localizedDescription": "Dopamine is a semi-untethered jailbreak developed for iOS 15 through iOS 16.6.1. It uses modern exploit techniques to enable rootless system modifications, tweak injection, and full device customization while maintaining system stability. Dopamine is designed for performance and reliability on modern iOS versions and supports a wide range of compatible devices with a focus on a clean, user-friendly jailbreak experience.",
+      "iconURL": "https://i.imgur.com/SgIKulj.png",
+      "tintColor": "#000000",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.4.9/Dopamine.ipa",
+          "size": 53700000,
+          "version": "2.4.9",
+          "buildVersion": null,
+          "date": "2026-06-15T17:27:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Dopamine needs to access your photo library to support picking a boot logo"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Taurine",
+      "bundleIdentifier": "org.coolstar.taurine",
+      "marketplaceID": "",
+      "developerName": "CoolStar",
+      "subtitle": "Taurine jailbreak for iOS 14.0–14.8.1.",
+      "localizedDescription": "Taurine is a semi-untethered jailbreak developed by CoolStar for iOS 14 through iOS 14.3. It provides full system customization capabilities including tweak injection, theming, and package management via Sileo. Taurine is optimized for speed and stability, offering a modern jailbreak experience with improved reliability and performance across supported devices.",
+      "iconURL": "https://i.imgur.com/IQLGEYV.png",
+      "tintColor": "#c33c63",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.7-3/Taurine.1.1.7-3.ipa",
+          "size": 32200000,
+          "version": "1.1.7-3",
+          "buildVersion": null,
+          "date": "2026-06-15T17:26:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAccentColorName": "AccentColor"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Odyssey",
+      "bundleIdentifier": "org.coolstar.odyssey",
+      "marketplaceID": "",
+      "developerName": "CoolStar",
+      "subtitle": "Odyssey jailbreak for iOS 13–13.7.",
+      "localizedDescription": "Odyssey is a semi-untethered jailbreak developed for iOS 13 through iOS 13.7. It uses modern exploit chains to provide system-level access, enabling tweak injection, theming, and advanced device customization. Odyssey includes support for the Sileo package manager and is designed with stability, performance, and a smooth user experience in mind for supported devices.",
+      "iconURL": "https://i.imgur.com/JBEiun4.png",
+      "tintColor": "#000000",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/Odyssey-Team/Odyssey/releases/download/v1.4.3/Odyssey-1.4.3.ipa",
+          "size": 27200000,
+          "version": "1.4.3",
+          "buildVersion": null,
+          "date": "2026-06-15T17:24:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "For selecting a custom theme image"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Chimera Patched",
+      "bundleIdentifier": "com.93004.58019",
+      "marketplaceID": "",
+      "developerName": "Electra Team",
+      "subtitle": "Patched Chimera jailbreak for iOS 12.",
+      "localizedDescription": "Chimera Patched is a modified version of the original Chimera jailbreak designed for compatibility fixes and extended device support on iOS 12.x firmware. It provides a semi-untethered jailbreak experience with support for tweak injection, system customization, and package management through Sileo. This patched build is intended for advanced users and testers and may include experimental or unofficial modifications not present in the original release.",
+      "iconURL": "https://i.imgur.com/EumRgoo.png",
+      "tintColor": "#10c2ee",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://jailbreaks.app/cdn/ipas/ChimeraPatch-resigned.ipa",
+          "size": 34500000,
+          "version": "1.6.5",
+          "buildVersion": null,
+          "date": "2026-06-15T17:22:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Chimera",
+      "bundleIdentifier": "com.electrateam.chimera",
+      "marketplaceID": "",
+      "developerName": "Electra Team",
+      "subtitle": "Chimera jailbreak for iOS 12–12.5.7.",
+      "localizedDescription": "Chimera is a jailbreak tool developed by the Electra Team for compatible iOS 12 devices. It provides a semi-untethered jailbreak experience with support for tweak injection, system customization, and package management via Sileo. Chimera is designed to be stable and efficient, focusing on performance and reliability for supported firmware versions in the iOS 12 jailbreak ecosystem.",
+      "iconURL": "https://i.imgur.com/6nygCt3.png",
+      "tintColor": "#10c2ee",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/coolstar/electra-ipas/raw/master/chimera/1.6.5-12.2-12.5.ipa",
+          "size": 34400000,
+          "version": "1.6.5",
+          "buildVersion": null,
+          "date": "2026-06-15T17:21:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "unc0ver",
+      "bundleIdentifier": "science.xnu.undecimus",
+      "marketplaceID": "",
+      "developerName": "Undecimus Team",
+      "subtitle": "Jailbreak devices on 11.0 to 14.8",
+      "localizedDescription": "unc0ver is a jailbreak tool designed for supported iOS versions, using kernel-level exploits to enable customization, system access, and third-party package installation on compatible devices. It provides a semi-untethered jailbreak experience with support for tweak injection, filesystem access, and jailbreak management tools. This build is intended for advanced users and developers working within the iOS jailbreak ecosystem.",
+      "iconURL": "https://i.imgur.com/MhMhrD3.png",
+      "tintColor": "#3636c8",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
+          "size": 54500000,
+          "version": "8.0.2",
+          "buildVersion": null,
+          "date": "2026-06-15T17:18:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "kokeshi9",
+      "bundleIdentifier": "kok3shi99999.beta",
+      "marketplaceID": "",
+      "developerName": "kok3shi Team",
+      "subtitle": "Jailbreak 64-bit devices on 9.2 to 9.3.5.",
+      "localizedDescription": "kok3shi99999 beta is a development build of the kok3shi jailbreak for compatible 64-bit devices on older iOS versions. It is intended for testing and experimental use, providing kernel-level exploitation to enable jailbreak functionality on supported firmware. This build is unstable and primarily used by developers and advanced users for compatibility testing and research purposes.",
+      "iconURL": "https://i.imgur.com/TBUtS0d.png",
+      "tintColor": "#c6385e",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://web.archive.org/web/20250831054016/https://kok3shidoll.github.io/download/kokeshi/v5/kok3shi9_v5.0.3.ipa",
+          "size": 13000000,
+          "version": "5.0.3",
+          "buildVersion": null,
+          "date": "2026-06-15T17:16:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "wtfis",
+      "bundleIdentifier": "com.therealclarity.wtfis",
+      "marketplaceID": "",
+      "developerName": "TheRealClarity",
+      "subtitle": "Untethered iOS 8.0 - 8.4.1 64-bit Jailbreak",
+      "localizedDescription": "WTFis is a jailbreak-related utility designed for supported iOS versions, providing access to system-level information and internal device details used in jailbreak environments. It is intended for advanced users and developers working with jailbroken devices, offering insights into system state, device properties, and runtime environment data in a simple interface.",
+      "iconURL": "https://i.imgur.com/QXvvb6n.png",
+      "tintColor": "#4b6eb3",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/TheRealClarity/wtfis/releases/download/1.0-b2/wtfis-1.0-b2.ipa",
+          "size": 10400000,
+          "version": "1.0~b1",
+          "buildVersion": null,
+          "date": "2026-06-15T17:14:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "socket",
+      "bundleIdentifier": "com.staturnz.socket",
+      "marketplaceID": "",
+      "developerName": "Staturnz",
+      "subtitle": "iOS 10 semi-untethered jailbreak for 32 bit devices.",
+      "localizedDescription": "Socket is an iOS utility designed for compatible devices running supported versions of iOS. It provides the functionality required by various customization and system-management tools, serving as a foundation for supported workflows within the iOS community. The app is lightweight, easy to use, and intended for devices that meet its version and compatibility requirements.",
+      "iconURL": "https://i.imgur.com/3mRgTQz.png",
+      "tintColor": "#3e23db",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/staturnzz/socket/releases/download/v1.2.2/socket.ipa",
+          "size": 17400000,
+          "version": "1.2.2",
+          "buildVersion": null,
+          "date": "2026-06-15T17:11:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
       "name": "Scarlet",
       "bundleIdentifier": "com.DebianArch.ScarletPersonalXYZZZ",
       "marketplaceID": "",
