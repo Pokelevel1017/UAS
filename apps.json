@@ -9,6 +9,582 @@
   "featuredApps": [],
   "apps": [
     {
+      "name": "My Example App",
+      "bundleIdentifier": "com.4kx5phhxp0.xmqn7iodme",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/cy22whi.jpeg",
+      "tintColor": "#000000",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Bad Piggies HD Free",
+      "bundleIdentifier": "com.rovio.BadPiggiesHDfree",
+      "marketplaceID": "",
+      "developerName": "Rovio Entertainment",
+      "subtitle": "Free HD pig-building physics game.",
+      "localizedDescription": "Bad Piggies HD Free is the free-to-play high-definition version of the physics-based construction game set in the Angry Birds universe. Players design and build creative vehicles using a variety of parts to help the pigs complete challenging levels. Focused on experimentation, engineering, and problem-solving, this HD edition offers enhanced visuals optimized for larger screens along with a limited selection of content available in the free version.",
+      "iconURL": "https://i.imgur.com/ZdWeZMY.png",
+      "tintColor": "#f69411",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Bad%20Piggies%20HD%20Free/Bad%20Piggies%20HD%20Free%201.9.1%2064Bit.ipa",
+          "size": 222800000,
+          "version": "1.9.1",
+          "buildVersion": null,
+          "date": "2026-06-15T23:36:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocationWhenInUseUsageDescription": ""
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Bad Piggies HD",
+      "bundleIdentifier": "com.rovio.BadPiggiesHD",
+      "marketplaceID": "",
+      "developerName": "Rovio Entertainment",
+      "subtitle": "Build crazy pig contraptions in HD.",
+      "localizedDescription": "Bad Piggies HD is the high-definition iPad edition of the physics-based construction game set in the Angry Birds universe. Players design and build inventive vehicles using a variety of parts to help the pigs navigate challenging levels. With a strong focus on creativity, experimentation, and engineering problem-solving, this HD version delivers enhanced visuals and an optimized experience for larger screens while retaining all the core gameplay mechanics of the original.",
+      "iconURL": "https://i.imgur.com/uf17I8a.png",
+      "tintColor": "#f49412",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Bad%20Piggies%20HD/Bad%20Piggies%20HD%202.3.9%2064Bit.ipa",
+          "size": 296800000,
+          "version": "2.3.9",
+          "buildVersion": null,
+          "date": "2026-06-15T23:34:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsUsageDescription": "This lets you add events to your calendar from the game.",
+          "NSCameraUsageDescription": "This lets the game use the camera for taking photos and videos.",
+          "NSMotionUsageDescription": "This lets the game sense your device motion and orientation.",
+          "NSPhotoLibraryUsageDescription": "This lets the game access your photos and add screenshots to your Camera Roll."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Bad Piggies Free",
+      "bundleIdentifier": "com.rovio.BadPiggiesfree",
+      "marketplaceID": "",
+      "developerName": "Rovio Entertainment",
+      "subtitle": "Free version of the pig-powered physics game.",
+      "localizedDescription": "Bad Piggies Free is the free-to-play version of the physics-based construction game set in the Angry Birds universe. Players build creative vehicles and contraptions using various parts to help the pigs reach their goals. With a focus on experimentation, problem-solving, and inventive engineering, this version provides access to select levels and gameplay features from the full game in a limited free format.",
+      "iconURL": "https://i.imgur.com/TnEQGQP.png",
+      "tintColor": "#fcbf22",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Bad%20Piggies%20Free/Bad%20Piggies%20Free%201.9.1%2064Bit.ipa",
+          "size": 192300000,
+          "version": "1.9.1",
+          "buildVersion": null,
+          "date": "2026-06-15T23:33:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocationWhenInUseUsageDescription": ""
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Bad Piggies",
+      "bundleIdentifier": "com.rovio.BadPiggies",
+      "marketplaceID": "",
+      "developerName": "Rovio Entertainment",
+      "subtitle": "Build contraptions and help the pigs fly.",
+      "localizedDescription": "Bad Piggies is a physics-based puzzle and construction game set in the Angry Birds universe, where players take control of the pigs instead of the birds. Build creative vehicles and contraptions using a variety of parts to guide the pigs safely to their destination. With dozens of challenging levels, sandbox-style experimentation, and inventive engineering gameplay, Bad Piggies focuses on creativity, problem-solving, and trial-and-error fun as players design machines to overcome obstacles.",
+      "iconURL": "https://i.imgur.com/ncrjeNg.png",
+      "tintColor": "#f49412",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Bad%20Piggies/Bad%20Piggies%202.3.9%2064Bit.ipa",
+          "size": 296800000,
+          "version": "2.3.9",
+          "buildVersion": null,
+          "date": "2026-06-15T23:32:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsUsageDescription": "This lets you add events to your calendar from the game.",
+          "NSCameraUsageDescription": "This lets the game use the camera for taking photos and videos.",
+          "NSMotionUsageDescription": "This lets the game sense your device motion and orientation.",
+          "NSPhotoLibraryUsageDescription": "This lets the game access your photos and add screenshots to your Camera Roll."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Angry Birds Star Wars II",
+      "bundleIdentifier": "com.rovio.angrybirdsstarwarsii",
+      "marketplaceID": "",
+      "developerName": "Rovio Entertainment",
+      "subtitle": "Join the Pork Side in a Star Wars sequel.",
+      "localizedDescription": "Angry Birds Star Wars II is the sequel to the original Star Wars crossover game, featuring characters and storylines from the Star Wars prequel trilogy. Players can choose to fight for the Birds or join the Pork Side, unlocking dozens of playable characters with unique abilities. Use lightsabers, Force powers, and special skills across physics-based puzzle levels inspired by iconic Star Wars locations. With character swapping, collectible figures, and expanded gameplay mechanics, this installment adds more depth and variety to the Angry Birds formula.",
+      "iconURL": "https://i.imgur.com/ROWhHUC.png",
+      "tintColor": "#ec8410",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Star%20Wars%20II/Angry%20Birds%20Star%20Wars%20II%201.9.24%2064Bit.ipa",
+          "size": 197000000,
+          "version": "1.9.24",
+          "buildVersion": null,
+          "date": "2026-06-15T23:29:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsUsageDescription": "Adding events",
+          "NSCameraUsageDescription": "Taking pictures",
+          "NSMotionUsageDescription": "Interactive ad controls",
+          "NSPhotoLibraryUsageDescription": "Taking pictures"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Angry Birds Star Wars HD",
+      "bundleIdentifier": "com.rovio.angrybirdsstarwarsHD",
+      "marketplaceID": "",
+      "developerName": "Rovio Entertainment",
+      "subtitle": "Star Wars crossover puzzle action in HD.",
+      "localizedDescription": "Angry Birds Star Wars HD is the high-definition iPad edition of the Star Wars crossover installment in the Angry Birds series. It blends classic slingshot puzzle gameplay with iconic Star Wars characters, abilities, and settings. Players can wield lightsabers, blasters, and Force powers while progressing through themed levels inspired by the Star Wars universe. With enhanced visuals optimized for larger displays, this HD version delivers the full galactic adventure in improved detail.",
+      "iconURL": "https://i.imgur.com/7hPEchP.png",
+      "tintColor": "#0c5cc4",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Star%20Wars%20HD/Angry%20Birds%20Star%20Wars%20HD%201.5.12%2064Bit.ipa",
+          "size": 190900000,
+          "version": "1.5.12",
+          "buildVersion": null,
+          "date": "2026-06-15T23:24:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsUsageDescription": "Adding events",
+          "NSCameraUsageDescription": "Taking pictures",
+          "NSMotionUsageDescription": "Interactive ad controls",
+          "NSPhotoLibraryUsageDescription": "Taking pictures"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Angry Birds Star Wars",
+      "bundleIdentifier": "com.rovio.angrybirdsstarwars",
+      "marketplaceID": "",
+      "developerName": "Rovio Entertainment",
+      "subtitle": "The Angry Birds Star Wars crossover adventure.",
+      "localizedDescription": "Angry Birds Star Wars combines the classic slingshot gameplay of Angry Birds with characters, locations, and abilities inspired by the Star Wars universe. Play as iconic heroes like Luke Skywalker and Han Solo—or join the dark side as Darth Vader and Imperial pigs—as you battle through physics-based puzzle levels set across famous Star Wars locations. Use lightsabers, blasters, and Force-powered abilities to defeat the pigs and progress through the galaxy in this crossover adventure.",
+      "iconURL": "https://i.imgur.com/1KCgce6.png",
+      "tintColor": "#0c5cc4",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Star%20Wars/Angry%20Birds%20Star%20Wars%201.5.12%2064Bit.ipa",
+          "size": 155800000,
+          "version": "1.5.12",
+          "buildVersion": null,
+          "date": "2026-06-15T23:23:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsUsageDescription": "Adding events",
+          "NSCameraUsageDescription": "Taking pictures",
+          "NSMotionUsageDescription": "Interactive ad controls",
+          "NSPhotoLibraryUsageDescription": "Taking pictures"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Angry Birds Space HD",
+      "bundleIdentifier": "com.rovio.AngryBirdsSpaceHD",
+      "marketplaceID": "",
+      "developerName": "Rovio Entertainment",
+      "subtitle": "Space-based Angry Birds puzzles in HD.",
+      "localizedDescription": "Angry Birds Space HD is the high-definition iPad edition of Angry Birds Space, taking the classic slingshot gameplay into outer space. Players battle the pigs across planets with unique gravity fields, orbital physics, and zero-gravity environments. Each level introduces new challenges that require mastering trajectory, gravity, and special bird abilities. With enhanced visuals optimized for larger screens, Angry Birds Space HD delivers the full interstellar puzzle experience in high definition.",
+      "iconURL": "https://i.imgur.com/pmZLSaI.png",
+      "tintColor": "#0c8cf2",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Space%20HD/Angry%20Birds%20Space%20HD%202.2.9%2064Bit.ipa",
+          "size": 160400000,
+          "version": "2.2.9",
+          "buildVersion": null,
+          "date": "2026-06-15T23:21:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsUsageDescription": "Adding events",
+          "NSCameraUsageDescription": "Taking pictures",
+          "NSMotionUsageDescription": "Interactive ad controls",
+          "NSPhotoLibraryUsageDescription": "Taking pictures"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Angry Birds Space",
+      "bundleIdentifier": "com.rovio.AngryBirdsSpace",
+      "marketplaceID": "",
+      "developerName": "Rovio Entertainment",
+      "subtitle": "Launch birds through space and gravity fields.",
+      "localizedDescription": "Angry Birds Space takes the classic bird-flinging gameplay beyond Earth and into the cosmos. After a giant claw kidnaps their eggs, the Angry Birds chase the pigs through space, battling across planets with unique gravity fields and orbital mechanics. Master new bird abilities, navigate challenging environments, and solve creative physics-based puzzles that add an entirely new dimension to the Angry Birds formula. Featuring dozens of space-themed worlds and innovative gameplay mechanics, Angry Birds Space delivers one of the most unique adventures in the series.",
+      "iconURL": "https://i.imgur.com/JJq6OUz.png",
+      "tintColor": "#0c8cf2",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Space/Angry%20Birds%20Space%202.2.9%2064Bit.ipa",
+          "size": 149100000,
+          "version": "2.2.9",
+          "buildVersion": null,
+          "date": "2026-06-15T23:19:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsUsageDescription": "Adding events",
+          "NSCameraUsageDescription": "Taking pictures",
+          "NSMotionUsageDescription": "Interactive ad controls",
+          "NSPhotoLibraryUsageDescription": "Taking pictures"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Angry Birds Seasons HD",
+      "bundleIdentifier": "com.rovio.AngryBirdsHalloweenHD",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "Seasonal Angry Birds fun in HD.",
+      "localizedDescription": "Angry Birds Seasons HD is the high-definition iPad edition of Angry Birds Seasons, featuring themed episodes inspired by holidays, festivals, and seasonal celebrations from around the world. Use the slingshot to launch birds, defeat the pigs, and solve hundreds of physics-based puzzles across beautifully themed environments. With enhanced visuals for larger screens and one of the biggest level collections in the series, Angry Birds Seasons HD delivers the complete seasonal Angry Birds experience.",
+      "iconURL": "https://i.imgur.com/5NTUTcA.png",
+      "tintColor": "#10c2f4",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Seasons%20HD/Angry%20Birds%20Seasons%20HD%206.6.2%2064Bit.ipa",
+          "size": 678000000,
+          "version": "6.6.2",
+          "buildVersion": null,
+          "date": "2026-06-15T23:17:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsUsageDescription": "This lets you add events to your calendar from the game.",
+          "NSCameraUsageDescription": "This lets the game use the camera for taking photos and videos. ",
+          "NSMotionUsageDescription ": "This lets the game sense your device motion and orientation.",
+          "NSPhotoLibraryUsageDescription": "This lets the game access your photos and add screenshots to your Camera Roll."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Angry Birds Seasons",
+      "bundleIdentifier": "com.rovio.AngryBirdsHalloween",
+      "marketplaceID": "",
+      "developerName": "Rovio Entertainment",
+      "subtitle": "Celebrate the seasons with Angry Birds.",
+      "localizedDescription": "Angry Birds Seasons is a special edition of the classic Angry Birds game featuring themed episodes inspired by holidays, festivals, and seasonal events from around the world. Launch unique birds, topple creative pig structures, and complete hundreds of physics-based puzzle levels set across Halloween, Christmas, Easter, Valentine's Day, and many more celebrations. With frequent content updates throughout its original release, Angry Birds Seasons offers one of the largest collections of levels in the Angry Birds series.",
+      "iconURL": "https://i.imgur.com/FAPhc32.png",
+      "tintColor": "#10c2f4",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Seasons%20/Angry%20Birds%20Seasons%206.6.2%2064Bit.ipa",
+          "size": 279400000,
+          "version": "6.6.2",
+          "buildVersion": null,
+          "date": "2026-06-15T23:15:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsUsageDescription": "This lets you add events to your calendar from the game.",
+          "NSCameraUsageDescription": "This lets the game use the camera for taking photos and videos. ",
+          "NSMotionUsageDescription ": "This lets the game sense your device motion and orientation.",
+          "NSPhotoLibraryUsageDescription": "This lets the game access your photos and add screenshots to your Camera Roll."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Angry Birds Rio HD",
+      "bundleIdentifier": "com.rovio.angrybirdsriohd",
+      "marketplaceID": "",
+      "developerName": "Rovio Entertainment",
+      "subtitle": "The Rio adventure in stunning HD.",
+      "localizedDescription": "Angry Birds Rio HD is the high-definition iPad edition of the popular Angry Birds and Rio crossover. After being captured and transported to Rio de Janeiro, the Angry Birds must escape, rescue their feathered friends, and take on a variety of unique challenges inspired by the hit animated film. Featuring enhanced visuals for larger screens, creative level designs, and the classic physics-based gameplay fans love, Angry Birds Rio HD delivers the complete Rio adventure in high definition.",
+      "iconURL": "https://i.imgur.com/Srd5OA5.png",
+      "tintColor": "#1cdc20",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Rio%20HD/Angry%20Birds%20Rio%20HD%202.6.9%2064Bit.ipa",
+          "size": 211200000,
+          "version": "2.6.9",
+          "buildVersion": null,
+          "date": "2026-06-15T23:10:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsUsageDescription": "This lets you add events to your calendar from the game.",
+          "NSCameraUsageDescription": "This lets the game use the camera for taking photos and videos.",
+          "NSMotionUsageDescription": "This lets the game sense your device motion and orientation.",
+          "NSPhotoLibraryUsageDescription": "This lets the game access your photos and add screenshots to your Camera Roll."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Angry Birds Rio",
+      "bundleIdentifier": "com.rovio.angrybirdsrio",
+      "marketplaceID": "",
+      "developerName": "Rovio Entertainment",
+      "subtitle": "Save the birds in a Rio adventure.",
+      "localizedDescription": "Angry Birds Rio is a special crossover adventure that combines the classic Angry Birds gameplay with the world of the animated movie Rio. After being captured and taken to Rio de Janeiro, the Angry Birds must escape their captors, rescue exotic birds, and overcome a variety of unique challenges. Featuring physics-based puzzles, memorable characters, and themed levels inspired by the film, Angry Birds Rio offers a fresh twist on the classic Angry Birds formula.",
+      "iconURL": "https://i.imgur.com/5gn6fcb.png",
+      "tintColor": "#1cdc20",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Rio/Angry%20Birds%20Rio%202.6.9%2064Bit.ipa",
+          "size": 122700000,
+          "version": "2.6.9",
+          "buildVersion": null,
+          "date": "2026-06-15T23:09:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsUsageDescription": "This lets you add events to your calendar from the game.",
+          "NSCameraUsageDescription": "This lets the game use the camera for taking photos and videos.",
+          "NSMotionUsageDescription": "This lets the game sense your device motion and orientation.",
+          "NSPhotoLibraryUsageDescription": "This lets the game access your photos and add screenshots to your Camera Roll."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Angry Birds Go!",
+      "bundleIdentifier": "com.rovio.angrybirdsgo",
+      "marketplaceID": "",
+      "developerName": "Rovio Entertainment",
+      "subtitle": "Fast-paced kart racing on Piggy Island.",
+      "localizedDescription": "Angry Birds Go! is a kart racing game set in the Angry Birds universe, where players race as their favorite birds and pigs across colorful tracks on Piggy Island. Upgrade vehicles, unlock new characters, compete in special events, and master unique abilities to gain an edge over opponents. Featuring exciting races, customizable karts, and a variety of game modes, Angry Birds Go! brings high-speed racing action to the world of Angry Birds.",
+      "iconURL": "https://i.imgur.com/iu1vKov.png",
+      "tintColor": "#f40c1c",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Go/Angry%20Birds%20Go%202.8.3%2064Bit.ipa",
+          "size": 478800000,
+          "version": "2.8.3",
+          "buildVersion": null,
+          "date": "2026-06-15T23:06:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothPeripheralUsageDescription": "Angry Birds Go! would like to use bluetooth.",
+          "NSCalendarsUsageDescription": "Adding events",
+          "NSCameraUsageDescription": "Taking Pictures ",
+          "NSLocationWhenInUseUsageDescription": "",
+          "NSMicrophoneUsageDescription": "Angry Birds Go! would like to use the microphone.",
+          "NSMotionUsageDescription ": "Interactive ad controls",
+          "NSPhotoLibraryUsageDescription": "Taking pictures"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Angry Birds Epic",
+      "bundleIdentifier": "com.rovio.gold",
+      "marketplaceID": "",
+      "developerName": "Rovio Entertainment",
+      "subtitle": "Turn-based RPG adventure in Piggy Island.",
+      "localizedDescription": "Angry Birds Epic is a turn-based role-playing game set in the Angry Birds universe. Assemble a team of familiar bird heroes, craft powerful equipment, learn unique abilities, and battle your way across Piggy Island. Featuring strategic combat, character progression, challenging boss battles, and a humorous fantasy setting, Angry Birds Epic offers a fresh RPG experience while retaining the charm of the Angry Birds franchise.",
+      "iconURL": "https://i.imgur.com/2TuwFgh.png",
+      "tintColor": "#0471f1",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Epic/Angry%20Birds%20Epic%203.0.1%2064Bit.ipa",
+          "size": 615900000,
+          "version": "3.0.1",
+          "buildVersion": null,
+          "date": "2026-06-15T23:04:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsUsageDescription": "This lets you add events to your calendar from the game.",
+          "NSCameraUsageDescription": "This lets the game use the camera for taking photos and videos.",
+          "NSMotionUsageDescription": "This lets the game sense your device motion and orientation.",
+          "NSPhotoLibraryUsageDescription": "This lets the game access your photos and add screenshots to your Camera Roll."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Angry Birds Classic HD",
+      "bundleIdentifier": "com.chillingo.angrybirdsipad",
+      "marketplaceID": "",
+      "developerName": "Rovio Entertainment",
+      "subtitle": "The original Angry Birds in HD.",
+      "localizedDescription": "Angry Birds Classic HD is the high-definition iPad edition of the original physics-based puzzle game. Use the slingshot to launch unique birds, destroy the pigs' fortresses, and clear hundreds of challenging levels with enhanced visuals designed for larger screens. Featuring the classic gameplay, iconic characters, and addictive level design that made Angry Birds a worldwide hit, this version delivers the authentic HD Angry Birds experience.",
+      "iconURL": "https://i.imgur.com/mCrV2KA.png",
+      "tintColor": "#1cbce2",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20HD/Angry%20Birds%20HD%208.0.3%2064Bit.ipa",
+          "size": 132800000,
+          "version": "8.0.3",
+          "buildVersion": null,
+          "date": "2026-06-15T22:58:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsUsageDescription": "Adding events",
+          "NSCameraUsageDescription": "Taking Pictures ",
+          "NSMotionUsageDescription ": "Interactive ad controls",
+          "NSPhotoLibraryUsageDescription": "Taking pictures"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Angry Birds Classic",
+      "bundleIdentifier": "com.clickgamer.AngryBirds",
+      "marketplaceID": "",
+      "developerName": "Rovio Entertainment",
+      "subtitle": "The original Angry Birds experience.",
+      "localizedDescription": "Angry Birds Classic is the original physics-based puzzle game that started the global Angry Birds phenomenon. Launch a flock of unique birds with a slingshot to defeat the pigs, destroy their structures, and complete challenging levels. Featuring hundreds of handcrafted stages, classic gameplay, and the iconic art style that made the series famous, Angry Birds Classic delivers the authentic bird-flinging experience that players know and love.",
+      "iconURL": "https://i.imgur.com/EkDIiZm.png",
+      "tintColor": "#1cbce2",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds/Angry%20Birds%208.0.3%2064Bit.ipa",
+          "size": 133000000,
+          "version": "8.0.3",
+          "buildVersion": null,
+          "date": "2026-06-15T22:54:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsUsageDescription": "Adding events",
+          "NSCameraUsageDescription": "Taking Pictures ",
+          "NSMotionUsageDescription ": "Interactive ad controls",
+          "NSPhotoLibraryUsageDescription": "Taking pictures"
+        }
+      },
+      "patreon": {}
+    },
+    {
       "name": "UTM",
       "bundleIdentifier": "com.utmapp.UTM",
       "marketplaceID": "",
@@ -1209,6 +1785,41 @@
         "privacy": {
           "NSAccentColorName": "AccentColor",
           "NSHumanReadableCopyright": "Copyright (c) 2025 Nagata Asami"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "GBox",
+      "bundleIdentifier": "com.ncs.gbox",
+      "marketplaceID": "",
+      "developerName": "GBox Team",
+      "subtitle": "App installer and sideloading platform for iOS.",
+      "localizedDescription": "GBox is an iOS application platform that provides tools for installing, managing, and organizing apps outside of the traditional App Store experience. It offers access to app libraries, direct installation features, and app management utilities through a streamlined interface. GBox is designed to simplify app discovery and installation while providing a convenient experience for users seeking alternative app distribution methods.",
+      "iconURL": "https://i.imgur.com/krAhlD4.png",
+      "tintColor": "#04dc64",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://cdn.gbox.run/d/apps/GBox_v6.0.2.ipa",
+          "size": 7500000,
+          "version": "6.0.2",
+          "buildVersion": null,
+          "date": "2026-06-15T22:42:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "Grant access to the sandbox. Required for app functionality.",
+          "NSCameraUsageDescription": "是否权允许访问相机，以导入照片",
+          "NSFaceIDUsageDescription": "是否授权允许使用面容ID，以加密您的资料",
+          "NSLocalNetworkUsageDescription": "需要发现并连接到局域网内的设备",
+          "NSPhotoLibraryAddUsageDescription": "是否权允许相册授权，以导入相册或者视频",
+          "NSPhotoLibraryUsageDescription": "是否权允许访问相册，以导入相册或者视频"
         }
       },
       "patreon": {}
