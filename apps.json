@@ -39,36 +39,6 @@
       "patreon": {}
     },
     {
-      "name": "Scarlet",
-      "bundleIdentifier": "com.DebianArch.ScarletPersonalXYZZZ",
-      "marketplaceID": "",
-      "developerName": "DebianArch",
-      "subtitle": "Install, manage, and sideload IPA files.",
-      "localizedDescription": "Scarlet is an iOS sideloading platform that allows users to install, manage, and organize IPA files directly on their device. It supports app repositories, IPA importing, certificate-based signing, and app library management, providing a convenient all-in-one solution for discovering and installing applications without relying on a computer for everyday use.",
-      "iconURL": "https://i.imgur.com/teZjKjj.png",
-      "tintColor": "#7f7f7f",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/ScarletAlpha.ipa",
-          "size": 15500000,
-          "version": "1.0",
-          "buildVersion": "1",
-          "date": "2026-06-15T19:23:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSLocalNetworkUsageDescription": "This app needs to access the local network to do wireless installs."
-        }
-      },
-      "patreon": {}
-    },
-    {
       "name": "Feather",
       "bundleIdentifier": "thewonderofyou.Feather",
       "marketplaceID": "",
