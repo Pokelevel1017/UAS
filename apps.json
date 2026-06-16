@@ -9,6 +9,459 @@
   "featuredApps": [],
   "apps": [
     {
+      "name": "UTM",
+      "bundleIdentifier": "com.utmapp.UTM",
+      "marketplaceID": "",
+      "developerName": "UTM App",
+      "subtitle": "Virtual machines for iOS (QEMU-based).",
+      "localizedDescription": "UTM is a virtual machine app for iOS that allows users to run operating systems such as Windows, Linux, and other x86/ARM environments using QEMU emulation and virtualization techniques. It supports a wide range of configurations including desktop OS installation, terminal-based systems, and legacy software testing. UTM is intended for advanced users who want to run full virtual machines on mobile devices for development, testing, and educational purposes.",
+      "iconURL": "https://i.imgur.com/J1CgPoX.png",
+      "tintColor": "#3470e4",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.7.5/UTM.ipa",
+          "size": 130100000,
+          "version": "4.7.5",
+          "buildVersion": null,
+          "date": "2026-06-15T19:09:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAccentColorName": "AccentColor",
+          "NSLocalNetworkUsageDescription": "The virtual machine may access the local network. UTM may also use the network to communicate with local servers.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "UTM requests location data periodically to ensure the system keeps the background process active. Location data will never leave the device.",
+          "NSLocationAlwaysUsageDescription": "UTM requests location data periodically to ensure the system keeps the background process active. Location data will never leave the device.",
+          "NSLocationWhenInUseUsageDescription": "UTM requests location data periodically to ensure the system keeps the background process active. Location data will never leave the device.",
+          "NSMicrophoneUsageDescription": "Permission is required for any virtual machine to record from the microphone."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "XPatcher",
+      "bundleIdentifier": "com.wh0ba.xpatcher",
+      "marketplaceID": "",
+      "developerName": "Wh0ba",
+      "subtitle": "ROM patching tool for iOS.",
+      "localizedDescription": "XPatcher is an iOS utility developed by Wh0ba designed for patching and modifying game ROM files directly on-device. It allows users to apply patches to supported ROM formats, enabling ROM hacks, translations, and gameplay modifications without needing a computer. The tool is intended for advanced users working with legally obtained game ROMs and focuses on simple on-device patch application.",
+      "iconURL": "https://i.imgur.com/qg8TG4W.png",
+      "tintColor": "#000000",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/Wh0ba/XPatcher/releases/download/v2.2/XPatcher_2.2.ipa",
+          "size": 400000,
+          "version": "2.2",
+          "buildVersion": null,
+          "date": "2026-06-15T19:07:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Rewound",
+      "bundleIdentifier": "com.louisanslow.record",
+      "marketplaceID": "",
+      "developerName": "Louis Anslow",
+      "subtitle": "Retro record-style music player for iOS.",
+      "localizedDescription": "Record is a retro-inspired music player for iOS that recreates the look and feel of a classic record player interface. It allows users to play music from their library using a stylized turntable UI, focusing on nostalgia and visual presentation rather than advanced playback features. The app is designed for users who enjoy vintage audio aesthetics and interactive music experiences on modern devices.",
+      "iconURL": "https://i.imgur.com/66kIIeZ.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://archive.org/download/rewound/Rewound_classic_fixed.zip/decrypted-app.ipa",
+          "size": 5600000,
+          "version": "2019.7",
+          "buildVersion": null,
+          "date": "2026-06-15T19:05:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Rewound needs access to your library to get the media files.",
+          "NSAppleMusicUsageDescription": "Rewound needs access to your music library to control your music."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "OldOS",
+      "bundleIdentifier": "com.zrc.BudgetingBuddy",
+      "marketplaceID": "",
+      "developerName": "zzanehip",
+      "subtitle": "Simulated iOS 4 experience for modern devices.",
+      "localizedDescription": "OldOS is a nostalgia project that recreates the look and feel of iOS 4 on modern iOS devices. It simulates classic system apps, UI interactions, and visual design elements to provide an authentic early iPhone experience. OldOS is not a full operating system or emulator, but rather an interactive UI recreation focused on design accuracy and nostalgia for early iOS users and developers.",
+      "iconURL": "https://i.imgur.com/YggWb6J.png",
+      "tintColor": "#000000",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/zzanehip/The-OldOS-Project/releases/download/2.0_7/OldOS.ipa",
+          "size": 83200000,
+          "version": "1.0",
+          "buildVersion": null,
+          "date": "2026-06-15T19:03:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "To view, play, and experience your music in OldOS, please enable access to your music library. ",
+          "NSCameraUsageDescription": "To take photos in OldOS, please enable access to your camera.",
+          "NSContactsUsageDescription": "To view and manage your contacts in OldOS, please enable access to your contacts list.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "To enable maps to work properly, and see your current wifi network in Settings, please enable access to your location. Then close and re-open the Maps app.",
+          "NSLocationAlwaysUsageDescription": "To enable maps to work properly, and see your current wifi network in Settings, please enable access to your location. Then close and re-open the Maps app.",
+          "NSLocationWhenInUseUsageDescription": "To enable maps to work properly, and see your current wifi network in Settings, please enable access to your location. Then close and re-open the Maps app.",
+          "NSMicrophoneUsageDescription": "To record your audio while filming a video in OldOS, please in enable microphone access.",
+          "NSPhotoLibraryAddUsageDescription": "To view, manage, and add photos to your photo library in OldOS, please enable access. Then close and re-open the Photos app.",
+          "NSPhotoLibraryUsageDescription": "To view, manage, and add photos to your photo library in OldOS, please enable access. Then close and re-open the Photos app."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "XeniOS",
+      "bundleIdentifier": "com.xenios.jp",
+      "marketplaceID": "",
+      "developerName": "XeniOS Team",
+      "subtitle": "Xbox 360 emulator for iOS.",
+      "localizedDescription": "XeniOS is an experimental Xbox 360 emulator for iOS designed to explore compatibility and runtime emulation of Xbox 360 software on modern mobile hardware. It focuses on research and development use, aiming to test rendering pipelines, system behavior, and partial game compatibility where possible. Performance and compatibility are highly limited due to the complexity of Xbox 360 emulation and are dependent on device hardware and build version.",
+      "iconURL": "https://i.imgur.com/q3Cx1OD.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/xenios-jp/XeniOS/releases/download/release-v2.0.1-build-9730/xenios_ios_iphone_ipad.ipa",
+          "size": 46300000,
+          "version": "2.0.1",
+          "buildVersion": null,
+          "date": "2026-06-15T18:59:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "StikNES",
+      "bundleIdentifier": "com.stik.StikNES",
+      "marketplaceID": "",
+      "developerName": "StikNES Team",
+      "subtitle": "NES emulator for iOS.",
+      "localizedDescription": "StikNES is a Nintendo Entertainment System (NES) emulator for iOS that allows users to play compatible NES game backups on supported devices. It features accurate emulation, save states, customizable controls, and performance optimizations for smooth gameplay on mobile hardware. StikNES is intended for retro gaming enthusiasts and users who legally own game copies they wish to run on iOS devices.",
+      "iconURL": "https://i.imgur.com/qSocWuR.png",
+      "tintColor": "#4cc3dc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/StikEMU/StikNES-2.0/releases/download/v2.0.2/StikNES.ipa",
+          "size": 7100000,
+          "version": "5.2",
+          "buildVersion": null,
+          "date": "2026-06-15T18:58:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "This app needs access to your photo library to import images for customization."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Firebird",
+      "bundleIdentifier": "com.adriweb.firebird-emu",
+      "marketplaceID": "",
+      "developerName": "adriweb",
+      "subtitle": "TI-Nspire calculator emulator for iOS.",
+      "localizedDescription": "Firebird Emu is a TI-Nspire calculator emulator for iOS developed by adriweb. It allows users to run TI-Nspire CAS and non-CAS software images on supported devices for educational and development purposes. The emulator replicates the functionality of Texas Instruments’ TI-Nspire platform, enabling students and educators to use calculator software, documents, and math tools on mobile devices. It is intended for educational use and requires legally obtained system files.",
+      "iconURL": "https://i.imgur.com/Ki9HrkR.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/nspire-emus/firebird/releases/download/v1.6/firebird-iOS.ipa",
+          "size": 10000000,
+          "version": "1.5",
+          "buildVersion": null,
+          "date": "2026-06-15T18:56:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Mini vMac",
+      "bundleIdentifier": "net.namedfork.minivmac",
+      "marketplaceID": "",
+      "developerName": "Mini vMac Team",
+      "subtitle": "Classic Macintosh emulator for iOS.",
+      "localizedDescription": "Mini vMac is an emulator that replicates early Apple Macintosh systems, allowing users to run classic Mac OS software on modern devices. It focuses on accuracy and simplicity, emulating older Macintosh hardware for retro computing, education, and preservation purposes. Users can load compatible disk images to experience classic Macintosh applications and games.",
+      "iconURL": "https://i.imgur.com/QlcbPKA.png",
+      "tintColor": "#1015ee",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/zydeco/minivmac4ios/releases/download/v2.6/minivmac4ios-2.6.ipa",
+          "size": 700000,
+          "version": "2.6",
+          "buildVersion": null,
+          "date": "2026-06-15T18:54:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "ActiveGS",
+      "bundleIdentifier": "com.freetoolsassociation.activegs",
+      "marketplaceID": "",
+      "developerName": "ActiveGS Team",
+      "subtitle": "Apple IIgs emulator for iOS.",
+      "localizedDescription": "ActiveGS is an Apple IIgs emulator for iOS that enables users to run compatible classic Apple IIgs software, games, and demos on modern devices. It emulates the original hardware system with support for disk images and retro computing environments, delivering an authentic experience of Apple’s 16-bit era. ActiveGS is intended for retro computing enthusiasts and users who legally own software they wish to run.",
+      "iconURL": "https://i.imgur.com/Tl32e2T.png",
+      "tintColor": "#54ec24",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "http://activegs.freetoolsassociation.com/ActiveGS.ipa",
+          "size": 5400000,
+          "version": "6.0",
+          "buildVersion": null,
+          "date": "2026-06-15T18:53:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Ready",
+      "bundleIdentifier": "at.spiderlab.c64",
+      "marketplaceID": "",
+      "developerName": "Spiderlab",
+      "subtitle": "Commodore 64 emulator for iOS.",
+      "localizedDescription": "C64 by Spiderlab is a Commodore 64 emulator for iOS that allows users to run classic C64 software, games, and demos on modern devices. It emulates the original hardware environment, including CPU, graphics, and sound, providing an authentic retro computing experience. The app is designed for retro computing enthusiasts and supports loading disk and cartridge images where legally available.",
+      "iconURL": "https://i.imgur.com/4QYr8SJ.png",
+      "tintColor": "#746cec",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/T-Pau/Ready/releases/download/release-1.6.1/Ready-1.6.1.ipa",
+          "size": 73100000,
+          "version": "1.6.1",
+          "buildVersion": null,
+          "date": "2026-06-15T18:52:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "iNDS",
+      "bundleIdentifier": "net.nerd.iNDS",
+      "marketplaceID": "",
+      "developerName": "iNDS Team",
+      "subtitle": "Nintendo DS emulator for iOS.",
+      "localizedDescription": "iNDS is a Nintendo DS emulator for iOS that allows users to play compatible DS game backups on supported devices. It features save states, customizable controls, and performance optimizations for smoother gameplay on mobile hardware. iNDS is intended for users who legally own game copies and want to experience Nintendo DS titles on iPhone and iPad.",
+      "iconURL": "https://i.imgur.com/FQXZaMt.png",
+      "tintColor": "#000000",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
+          "size": 8600000,
+          "version": "1.10.8",
+          "buildVersion": null,
+          "date": "2026-06-15T18:42:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Need Permission to Access Photos",
+          "NSMicrophoneUsageDescription": "For DS Microphone"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Flycast",
+      "bundleIdentifier": "com.chachirie.FlycastiOS",
+      "marketplaceID": "",
+      "developerName": "Flycast Team",
+      "subtitle": "Dreamcast & NAOMI emulator for iOS.",
+      "localizedDescription": "FlycastiOS is a Dreamcast, NAOMI, and Atomiswave emulator for iOS devices. It allows users to run compatible game backups using high-performance emulation with support for modern rendering backends, controller input, and save states. Flycast is known for strong compatibility and active development across multiple platforms, bringing classic SEGA arcade and console titles to mobile devices.",
+      "iconURL": "https://i.imgur.com/kzAUR8k.png",
+      "tintColor": "#9444e8",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/chachillie/Flycast-iOS/releases/download/v1.0/Flycast-iOS.ipa",
+          "size": 8300000,
+          "version": "v2.6",
+          "buildVersion": null,
+          "date": "2026-06-15T18:38:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "Flycast uses the local network to find and communicate with AltServer.",
+          "NSMicrophoneUsageDescription": "Flycast requires microphone access to emulate the Dreamcast microphone",
+          "NSPhotoLibraryAddUsageDescription": "Flycast can save screenshots to your Photo library."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Play!",
+      "bundleIdentifier": "com.virtualapplications.play",
+      "marketplaceID": "",
+      "developerName": "Play! Emulator Project",
+      "subtitle": "PlayStation 2 emulator for iOS.",
+      "localizedDescription": "Play! is a PlayStation 2 emulator designed to run PS2 game backups on supported devices. It focuses on accuracy and portability, using a high-level emulation approach to reproduce PS2 game behavior across multiple platforms, including iOS. Compatibility varies by game, and performance depends heavily on device hardware. Play! is intended for users who legally own game copies and want to experiment with PS2 emulation on mobile devices.",
+      "iconURL": "https://i.imgur.com/hD9CXZ1.png",
+      "tintColor": "#000000",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://purei.org/downloads/play/stable/0.70/Play.ipa",
+          "size": 3600000,
+          "version": "0.70",
+          "buildVersion": null,
+          "date": "2026-06-15T18:34:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "Play! uses the local network to find and communicate with AltServer."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "MeloNX",
+      "bundleIdentifier": "com.stossy11.MeloNX",
+      "marketplaceID": "",
+      "developerName": "MeloNX Team",
+      "subtitle": "Nintendo Switch emulator for iOS.",
+      "localizedDescription": "MeloNX is a Nintendo Switch emulator designed for iOS devices, allowing users to run compatible game backups through software-based emulation. It focuses on performance optimization, controller support, and improved compatibility for select titles depending on device hardware. MeloNX is intended for advanced users and requires legally obtained game files for use.",
+      "iconURL": "https://i.imgur.com/2LdmQF8.png",
+      "tintColor": "#045c9c",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://git.ryujinx.app/projects/MeloNX/releases/download/2.3.1/MeloNX.ipa",
+          "size": 94200000,
+          "version": "2.3.1",
+          "buildVersion": null,
+          "date": "2026-06-15T18:31:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryAddUsageDescription": "MeloNX needs access to your Photo Library in order to save images"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "iPSX2",
+      "bundleIdentifier": "com.otti83.iPSX2",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "PlayStation 2 emulator for iOS.",
+      "localizedDescription": "iPSX2 is a PlayStation 2 emulator for iOS that allows users to run compatible PS2 game backups on supported devices. It is designed to emulate console hardware and provide gameplay through software-based rendering and system emulation. Performance may vary depending on device hardware and game complexity. This app is intended for users who legally own game copies and want to test or play them on iOS devices.",
+      "iconURL": "https://i.imgur.com/2oiDBTK.png",
+      "tintColor": "#2f31cf",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/otti83/iPSX2/releases/download/0.1.2/iPSX2.v0.1.2.ipa",
+          "size": 11200000,
+          "version": "0.1.2",
+          "buildVersion": null,
+          "date": "2026-06-15T18:26:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
       "name": "XinaA12",
       "bundleIdentifier": "com.xina.jailbreak",
       "marketplaceID": "",
