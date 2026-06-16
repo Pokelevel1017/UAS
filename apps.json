@@ -9,6 +9,146 @@
   "featuredApps": [],
   "apps": [
     {
+      "name": "XinaA12",
+      "bundleIdentifier": "com.xina.jailbreak",
+      "marketplaceID": "",
+      "developerName": "XinaA15 Team",
+      "subtitle": "XinaA15 jailbreak for iOS 15.0–15.1.1",
+      "localizedDescription": "XinaA15 (often referred to as Xina Jailbreak) is a semi-untethered jailbreak designed for iOS 15.0 through 15.1.1 on compatible devices. It provides rootless jailbreak functionality, enabling tweak injection, system customization, and package management through a modified jailbreak environment. XinaA15 is intended for advanced users and developers and focuses on early iOS 15 jailbreak support with experimental stability improvements.",
+      "iconURL": "https://i.imgur.com/xORUwZ4.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/NotDarkn/XinaA15/releases/download/2.1.5.2/XinaA12.2.1.5.2.ipa",
+          "size": 44600000,
+          "version": "2.1.5.2",
+          "buildVersion": null,
+          "date": "2026-06-15T18:11:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Etason JB",
+      "bundleIdentifier": "org.tihmstar.Etason-JB",
+      "marketplaceID": "",
+      "developerName": "tihmstar",
+      "subtitle": "EtasonJB jailbreak for iOS 8.4.1 (32-bit)",
+      "localizedDescription": "EtasonJB is a semi-untethered jailbreak designed for 32-bit iOS devices running iOS 8.4.1. It enables system customization, tweak installation, and package management on supported legacy devices. EtasonJB is built for older hardware and focuses on stability and compatibility for iOS 8 environments.",
+      "iconURL": "https://i.imgur.com/T8MMhC6.png",
+      "tintColor": "#2c8cec",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://etasonjb.tihmstar.net/ipa/etasonJB-RC5.ipa",
+          "size": 7800000,
+          "version": "1.0",
+          "buildVersion": null,
+          "date": "2026-06-15T18:08:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "OD1N",
+      "bundleIdentifier": "com.p4e.Od1n",
+      "marketplaceID": "",
+      "developerName": "p4e",
+      "subtitle": "Od1n jailbreak utility for iOS 15–16.x",
+      "localizedDescription": "Od1n is a jailbreak-related utility designed for compatible iOS devices, providing exploit-based functionality and system-level tools used in jailbreak workflows. It is intended for advanced users and developers, offering features for device inspection, testing, and jailbreak environment support on supported firmware versions. Some builds may include experimental or development-stage components.",
+      "iconURL": "https://i.imgur.com/rXCtlFo.png",
+      "tintColor": "#447cd4",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/pwned4ever/Od1n/releases/download/v2.6.3/OD1N.ipa",
+          "size": 116000000,
+          "version": "2.6.3",
+          "buildVersion": null,
+          "date": "2026-06-15T18:02:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "FREYA15",
+      "bundleIdentifier": "com.p4e.freya15",
+      "marketplaceID": "",
+      "developerName": "FREYA Team",
+      "subtitle": "FREYA15 jailbreak for iOS 15.x.",
+      "localizedDescription": "FREYA15 is a jailbreak tool designed for compatible devices running iOS 15.x. It provides exploit-based system access to enable customization, tweak injection, and advanced device modification on supported firmware. This build is intended for developers and advanced users, and may include experimental features depending on device and iOS version compatibility.",
+      "iconURL": "https://i.imgur.com/9DpKs0j.png",
+      "tintColor": "#e32f1b",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/pwned4ever/Freya15/releases/download/v1.0.9-i/Freya15.ipa",
+          "size": 50100000,
+          "version": "1.0.9-i",
+          "buildVersion": null,
+          "date": "2026-06-15T18:01:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "MeridianFix",
+      "bundleIdentifier": "com.lukezgd.meridianfix",
+      "marketplaceID": "",
+      "developerName": "LukeZGD",
+      "subtitle": "Meridian jailbreak fix for iOS 10.",
+      "localizedDescription": "MeridianFix is a patched and updated build of the Meridian jailbreak designed to improve stability and compatibility on iOS 10 devices. It provides semi-untethered jailbreak functionality, enabling tweak injection, system customization, and package manager support on supported firmware. This build focuses on fixing known issues in earlier Meridian releases for a smoother jailbreak experience on legacy devices.",
+      "iconURL": "https://i.imgur.com/hTel7WQ.png",
+      "tintColor": "#09adf5",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/LukeZGD/MeridianFix/releases/download/v0.10.0/MeridianFix-v0.10.0-substitute.ipa",
+          "size": 18900000,
+          "version": "1.0",
+          "buildVersion": null,
+          "date": "2026-06-15T17:57:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
       "name": "rootlessJB4",
       "bundleIdentifier": "org.brandonplank.rootlessJB",
       "marketplaceID": "",
