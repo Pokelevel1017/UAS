@@ -22,11 +22,11 @@
       "versions": [
         {
           "version": "1.1.5",
-          "date": "2026-06-13T22:10:00-04:00",
+          "date": "2026-06-14T02:10:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/lo-cafe/winston/releases/download/v1.1.5/winston.ipa",
           "size": 50000000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -54,11 +54,11 @@
       "versions": [
         {
           "version": "19.34.2",
-          "date": "2026-06-13T22:07:00-04:00",
+          "date": "2026-06-14T02:07:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://files.catbox.moe/z8jg5n.ipa",
           "size": 103700000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -92,11 +92,11 @@
       "versions": [
         {
           "version": "3.1.1",
-          "date": "2026-06-13T22:04:00-04:00",
+          "date": "2026-06-14T02:04:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/Balackburn/Apollo/releases/download/v1.15.11_3.1.1/Apollo-Reborn-3.1.1.ipa",
           "size": 116100000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -127,11 +127,11 @@
       "versions": [
         {
           "version": "4.7.5",
-          "date": "2026-06-13T15:32:00-04:00",
+          "date": "2026-06-13T19:32:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.7.5/UTM-SE.ipa",
           "size": 213900000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -159,11 +159,11 @@
       "versions": [
         {
           "version": "4.7.5",
-          "date": "2026-06-13T15:32:00-04:00",
+          "date": "2026-06-13T19:32:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.7.5/UTM.ipa",
           "size": 130100000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -194,11 +194,11 @@
       "versions": [
         {
           "version": "1.2",
-          "date": "2026-06-13T15:24:00-04:00",
+          "date": "2026-06-13T19:24:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/AhmedBafkir/DLiPA/releases/download/v1.2/DLiPA_v1.2.ipa",
           "size": 500000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -224,11 +224,11 @@
       "versions": [
         {
           "version": "2.0.1",
-          "date": "2026-06-13T15:22:00-04:00",
+          "date": "2026-06-13T19:22:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/xenios-jp/XeniOS/releases/download/release-v2.0.1-build-9730/xenios_ios_iphone_ipad.ipa",
           "size": 46300000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -252,11 +252,11 @@
       "versions": [
         {
           "version": "1.0.3",
-          "date": "2026-06-13T15:19:00-04:00",
+          "date": "2026-06-13T19:19:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.3/TrollInstallerX.ipa",
           "size": 6900000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -282,11 +282,11 @@
       "versions": [
         {
           "version": "3.1.1",
-          "date": "2026-06-13T15:18:00-04:00",
+          "date": "2026-06-13T19:18:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/haxi0/Jaility/releases/download/3.1.1/Jaility-3.1.1.ipa",
           "size": 100000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -310,11 +310,11 @@
       "versions": [
         {
           "version": "2.0.2",
-          "date": "2026-06-13T15:17:00-04:00",
+          "date": "2026-06-13T19:17:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://file.ipaomtk.com/ClassicPlayer/ClassicPlayer_ipaomtk.com.ipa",
           "size": 37400000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -340,11 +340,11 @@
       "versions": [
         {
           "version": "1.0~b1",
-          "date": "2026-06-13T15:14:00-04:00",
+          "date": "2026-06-13T19:14:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/TheRealClarity/wtfis/releases/download/1.0-b2/wtfis-1.0-b2.ipa",
           "size": 10400000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -368,11 +368,11 @@
       "versions": [
         {
           "version": "8.0.2",
-          "date": "2026-06-13T15:13:00-04:00",
+          "date": "2026-06-13T19:13:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
           "size": 54500000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -396,11 +396,11 @@
       "versions": [
         {
           "version": "2.1",
-          "date": "2026-06-13T15:09:00-04:00",
+          "date": "2026-06-13T19:09:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/brandonplank/rootlessJB4/releases/download/2.1/rootlessJB4.ipa",
           "size": 38200000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -424,11 +424,11 @@
       "versions": [
         {
           "version": "6.0",
-          "date": "2026-06-13T15:08:00-04:00",
+          "date": "2026-06-13T23:08:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://phoenixpwn.com/download.php",
           "size": 23400000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -452,11 +452,11 @@
       "versions": [
         {
           "version": "1.0",
-          "date": "2026-06-13T15:05:00-04:00",
+          "date": "2026-06-13T23:05:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/p0larisdev/app/releases/download/v1.0.1/p0laris-Release.ipa",
           "size": 16800000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -480,11 +480,11 @@
       "versions": [
         {
           "version": "1.1.7-3",
-          "date": "2026-06-13T15:04:00-04:00",
+          "date": "2026-06-13T19:04:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.7-3/Taurine.1.1.7-3.ipa",
           "size": 32200000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -510,11 +510,11 @@
       "versions": [
         {
           "version": "1.4.3",
-          "date": "2026-06-13T15:03:00-04:00",
+          "date": "2026-06-13T19:03:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/Odyssey-Team/Odyssey/releases/download/v1.4.3/Odyssey-1.4.3.ipa",
           "size": 27200000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -540,11 +540,11 @@
       "versions": [
         {
           "version": "2.0.1",
-          "date": "2026-06-13T15:01:00-04:00",
+          "date": "2026-06-13T19:01:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/LukeZGD/EverPwnage/releases/download/v2.0.1/EverPwnage-v2.0.1.ipa",
           "size": 23100000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -568,11 +568,11 @@
       "versions": [
         {
           "version": "2.0",
-          "date": "2026-06-13T15:00:00-04:00",
+          "date": "2026-06-13T19:00:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/coolstar/electra-ipas/raw/master/Electra1141-2.0.ipa",
           "size": 52200000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -596,11 +596,11 @@
       "versions": [
         {
           "version": "2.4.99",
-          "date": "2026-06-13T14:58:00-04:00",
+          "date": "2026-06-13T18:58:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.5b4/Dopamine.ipa",
           "size": 53800000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -626,11 +626,11 @@
       "versions": [
         {
           "version": "1.6.5",
-          "date": "2026-06-13T14:54:00-04:00",
+          "date": "2026-06-13T18:54:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/coolstar/electra-ipas/raw/master/chimera/1.6.5-12.2-12.5.ipa",
           "size": 34400000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -654,11 +654,11 @@
       "versions": [
         {
           "version": "1.0",
-          "date": "2026-06-13T14:48:00-04:00",
+          "date": "2026-06-13T18:48:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/timi2506/swiftui-haptics-helper/releases/download/1.0.0/haptics-1.0.0.ipa",
           "size": 4000000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -682,11 +682,11 @@
       "versions": [
         {
           "version": "1.0",
-          "date": "2026-06-13T14:44:00-04:00",
+          "date": "2026-06-13T18:44:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/timi2506/macOS-Icons-SwiftUI/releases/download/1.0/macOS-Icons-iOS-1.0.ipa",
           "size": 1800000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -710,11 +710,11 @@
       "versions": [
         {
           "version": "0.5",
-          "date": "2026-06-13T14:42:00-04:00",
+          "date": "2026-06-13T18:42:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/timi2506/Browser/releases/download/0.5/Browser-0.5-beta-iOS.ipa",
           "size": 3000000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -741,11 +741,11 @@
       "versions": [
         {
           "version": "3.3.0",
-          "date": "2026-06-13T14:32:00-04:00",
+          "date": "2026-06-13T18:32:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/3.3.0/Provenance-3.3.0-iOS.ipa",
           "size": 1076400000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -783,11 +783,11 @@
       "versions": [
         {
           "version": "1.2.3",
-          "date": "2026-06-14T03:57:00-04:00",
+          "date": "2026-06-14T07:57:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://archive.org/download/SpotilifeCreleases/SpotilifeC/v1.2.3/SpotilifeC.v1.2.3_v8.6.42.ipa",
           "size": 49100000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -823,11 +823,11 @@
       "versions": [
         {
           "version": "3.5.3",
-          "date": "2026-06-14T03:55:00-04:00",
+          "date": "2026-06-14T07:55:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://files.catbox.moe/1xxe2m.ipa",
           "size": 87100000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -868,11 +868,11 @@
       "versions": [
         {
           "version": "2.6.3",
-          "date": "2026-06-14T03:52:00-04:00",
+          "date": "2026-06-14T07:52:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://files.catbox.moe/ugxkcy.ipa",
           "size": 87400000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -913,11 +913,11 @@
       "versions": [
         {
           "version": "1.6",
-          "date": "2026-06-14T03:47:00-04:00",
+          "date": "2026-06-14T07:47:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/neoarz/Countdown-App/releases/download/1.6/Countdown.ipa",
           "size": 700000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -941,11 +941,11 @@
       "versions": [
         {
           "version": "5.2",
-          "date": "2026-06-14T03:46:00-04:00",
+          "date": "2026-06-14T07:46:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/StikEMU/StikNES-2.0/releases/download/v2.0.2/StikNES.ipa",
           "size": 7100000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -971,11 +971,11 @@
       "versions": [
         {
           "version": "0.70",
-          "date": "2026-06-14T03:45:00-04:00",
+          "date": "2026-06-14T07:45:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://purei.org/downloads/play/stable/0.70/Play.ipa",
           "size": 3600000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -1001,11 +1001,11 @@
       "versions": [
         {
           "version": "1.5",
-          "date": "2026-06-14T03:43:00-04:00",
+          "date": "2026-06-14T07:43:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/nspire-emus/firebird/releases/download/v1.6/firebird-iOS.ipa",
           "size": 10000000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -1029,11 +1029,11 @@
       "versions": [
         {
           "version": "1.0.7",
-          "date": "2026-06-14T03:42:00-04:00",
+          "date": "2026-06-14T07:42:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/sag333ar/blurt-releases/releases/download/1.0.7(36)/Runner.ipa",
           "size": 89900000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -1057,11 +1057,11 @@
       "versions": [
         {
           "version": "2022.5",
-          "date": "2026-06-14T03:40:00-04:00",
+          "date": "2026-06-14T07:40:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/yoshisuga/MAME4iOS/releases/download/2022.5/MAME4iOS-2022.5-250.ipa",
           "size": 107700000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -1087,11 +1087,11 @@
       "versions": [
         {
           "version": "1.20260615.0413",
-          "date": "2026-06-14T03:39:00-04:00",
+          "date": "2026-06-14T07:39:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://buildbot.libretro.com/nightly/apple/ios-arm64/RetroArch.ipa",
           "size": 499700000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -1122,11 +1122,11 @@
       "versions": [
         {
           "version": "1.20.4",
-          "date": "2026-06-14T03:37:00-04:00",
+          "date": "2026-06-14T07:37:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/hrydgard/ppsspp/releases/download/v1.20.4/PPSSPP-iOS-v1.20.4.ipa",
           "size": 31100000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -1156,11 +1156,11 @@
       "versions": [
         {
           "version": "2.6",
-          "date": "2026-06-14T03:36:00-04:00",
+          "date": "2026-06-14T07:36:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/zydeco/minivmac4ios/releases/download/v2.6/minivmac4ios-2.6.ipa",
           "size": 700000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -1184,11 +1184,11 @@
       "versions": [
         {
           "version": "2.2",
-          "date": "2026-06-14T03:34:00-04:00",
+          "date": "2026-06-14T07:34:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/Wh0ba/XPatcher/releases/download/v2.2/XPatcher_2.2.ipa",
           "size": 400000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -1212,11 +1212,11 @@
       "versions": [
         {
           "version": "1.0",
-          "date": "2026-06-14T03:33:00-04:00",
+          "date": "2026-06-14T07:33:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/zzanehip/The-OldOS-Project/releases/download/2.0_7/OldOS.ipa",
           "size": 83200000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -1250,11 +1250,11 @@
       "versions": [
         {
           "version": "2021.9",
-          "date": "2026-06-14T03:31:00-04:00",
+          "date": "2026-06-14T07:31:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/yoshisuga/activegs-ios/releases/download/2021.9/ActiveGS.ipa",
           "size": 16600000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -1278,11 +1278,11 @@
       "versions": [
         {
           "version": "1.10.8",
-          "date": "2026-06-14T03:29:00-04:00",
+          "date": "2026-06-14T07:29:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
           "size": 8600000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -1309,11 +1309,11 @@
       "versions": [
         {
           "version": "2.1",
-          "date": "2026-06-14T03:28:00-04:00",
+          "date": "2026-06-14T07:28:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/litchie/dospad/releases/download/2.1/iDOS.ipa",
           "size": 5700000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -1340,11 +1340,11 @@
       "versions": [
         {
           "version": "1.6",
-          "date": "2026-06-14T03:27:00-04:00",
+          "date": "2026-06-14T07:27:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/T-Pau/Ready/releases/download/release-1.6/Ready-1.6.ipa",
           "size": 64000000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -1368,11 +1368,11 @@
       "versions": [
         {
           "version": "2019.7",
-          "date": "2026-06-14T03:25:00-04:00",
+          "date": "2026-06-14T07:25:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Rewound.ipa",
           "size": 5600000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -1399,11 +1399,11 @@
       "versions": [
         {
           "version": "1.0.00678b0",
-          "date": "2026-06-14T03:12:00-04:00",
+          "date": "2026-06-14T07:12:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://alt.crystall1ne.dev/resources/amethyst/00678b0/org.angelauramc.amethyst-1.0-ios.ipa",
           "size": 150300000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -1430,11 +1430,11 @@
       "versions": [
         {
           "version": "2.2",
-          "date": "2026-06-14T03:10:00-04:00",
+          "date": "2026-06-14T07:10:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.2/net.kdt.pojavlauncher-2.2-ios.ipa",
           "size": 108200000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -1461,11 +1461,11 @@
       "versions": [
         {
           "version": "v2.6",
-          "date": "2026-06-14T03:08:00-04:00",
+          "date": "2026-06-14T11:08:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/chachillie/Flycast-iOS/releases/download/v1.0/Flycast-iOS.ipa",
           "size": 8300000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -1493,11 +1493,11 @@
       "versions": [
         {
           "version": "2.1.1",
-          "date": "2026-06-14T03:06:00-04:00",
+          "date": "2026-06-14T07:06:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/v2.1.1-1/iTorrent.ipa",
           "size": 8400000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -1523,11 +1523,11 @@
       "versions": [
         {
           "version": "5.0.0b4",
-          "date": "2026-06-14T03:04:00-04:00",
+          "date": "2026-06-14T07:04:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b4/Non-Jailbroken.ipa",
           "size": 18000000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -1553,11 +1553,11 @@
       "versions": [
         {
           "version": "3.2.1",
-          "date": "2026-06-14T03:03:00-04:00",
+          "date": "2026-06-14T07:03:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1/DolphiniOS-NJB-3.2.1-213.ipa",
           "size": 80300000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -1584,11 +1584,11 @@
       "versions": [
         {
           "version": "3.7.2",
-          "date": "2026-06-14T02:59:00-04:00",
+          "date": "2026-06-14T06:59:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.7.2/LiveContainer.ipa",
           "size": 4500000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -1645,11 +1645,11 @@
       "versions": [
         {
           "version": "1.4.2",
-          "date": "2026-06-14T02:57:00-04:00",
+          "date": "2026-06-14T06:57:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/tapframe/NuvioStreaming/releases/download/1.4.2/Stable_1-4-2.ipa",
           "size": 38800000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -1676,11 +1676,11 @@
       "versions": [
         {
           "version": "1.3.2",
-          "date": "2026-06-14T02:49:00-04:00",
+          "date": "2026-06-14T06:49:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/ish-app/ish/releases/download/builds%2F494/iSH.ipa",
           "size": 4200000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -1709,11 +1709,11 @@
       "versions": [
         {
           "version": "3.1.5",
-          "date": "2026-06-14T02:47:00-04:00",
+          "date": "2026-06-14T06:47:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/StephenDev0/StikDebug/releases/download/3.1.5/StikDebug-3.1.5.ipa",
           "size": 11000000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -1741,11 +1741,11 @@
       "versions": [
         {
           "version": "1.7.1",
-          "date": "2026-06-14T02:43:00-04:00",
+          "date": "2026-06-14T06:43:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://cdn.altstore.io/file/altstore/apps/delta/1_7_1.ipa",
           "size": 196000000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -1774,11 +1774,11 @@
       "versions": [
         {
           "version": "2.0",
-          "date": "2026-06-14T02:38:00-04:00",
+          "date": "2026-06-14T06:38:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://file.ipaomtk.com/Scarlet/Scarlet-IPAOMTK.ipa",
           "size": 7900000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -1804,11 +1804,11 @@
       "versions": [
         {
           "version": "1.2b",
-          "date": "2026-06-14T02:34:00-04:00",
+          "date": "2026-06-14T06:34:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://cdn.altstore.io/file/altstore/apps/clip/1_2_b.ipa",
           "size": 600000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -1835,11 +1835,11 @@
       "versions": [
         {
           "version": "1.1",
-          "date": "2026-06-14T02:33:00-04:00",
+          "date": "2026-06-14T10:33:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://cdn.altstore.io/file/altstore/apps/clip/1_1.ipa",
           "size": 600000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -1866,11 +1866,11 @@
       "versions": [
         {
           "version": "2.2.1",
-          "date": "2026-06-14T02:28:00-04:00",
+          "date": "2026-06-14T06:28:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/2_2_1.ipa",
           "size": 32900000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -1896,11 +1896,11 @@
       "versions": [
         {
           "version": "2.8.2",
-          "date": "2026-06-14T02:20:00-04:00",
+          "date": "2026-06-14T06:20:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/claration/Feather/releases/download/v2.8.2/Feather.ipa",
           "size": 14200000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -1926,11 +1926,11 @@
       "versions": [
         {
           "version": "0.6.3",
-          "date": "2026-06-14T02:19:00-04:00",
+          "date": "2026-06-14T06:19:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.6.3/SideStore.ipa",
           "size": 28600000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -1956,11 +1956,11 @@
       "versions": [
         {
           "version": "1.6",
-          "date": "2026-06-14T02:15:00-04:00",
+          "date": "2026-06-14T06:15:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://github.com/Nyasami/Ksign/releases/download/v1.6/Ksign.ipa",
           "size": 16400000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -1987,11 +1987,11 @@
       "versions": [
         {
           "version": "5.0.2",
-          "date": "2026-06-14T02:14:00-04:00",
+          "date": "2026-06-14T06:14:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://esign-ios.app/dl/esign_v5.0.2.ipa/",
           "size": 7500000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -2022,11 +2022,11 @@
       "versions": [
         {
           "version": "1.9.1",
-          "date": "2026-06-14T02:09:00-04:00",
+          "date": "2026-06-14T06:09:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://archive.org/download/20240608_20240608_1945/Bad%20Piggies%20HD%20Free/Bad%20Piggies%20HD%20Free%201.9.1%2064Bit.ipa",
           "size": 222800000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -2052,11 +2052,11 @@
       "versions": [
         {
           "version": "2.3.9",
-          "date": "2026-06-14T02:07:00-04:00",
+          "date": "2026-06-14T06:07:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://archive.org/download/20240608_20240608_1945/Bad%20Piggies%20HD/Bad%20Piggies%20HD%202.3.9%2064Bit.ipa",
           "size": 296800000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -2085,11 +2085,11 @@
       "versions": [
         {
           "version": "1.9.1",
-          "date": "2026-06-14T02:06:00-04:00",
+          "date": "2026-06-14T06:06:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://archive.org/download/20240608_20240608_1945/Bad%20Piggies%20Free/Bad%20Piggies%20Free%201.9.1%2064Bit.ipa",
           "size": 192300000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -2115,11 +2115,11 @@
       "versions": [
         {
           "version": "2.3.9",
-          "date": "2026-06-14T02:05:00-04:00",
+          "date": "2026-06-14T06:05:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://archive.org/download/20240608_20240608_1945/Bad%20Piggies/Bad%20Piggies%202.3.9%2064Bit.ipa",
           "size": 296800000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -2148,11 +2148,11 @@
       "versions": [
         {
           "version": "1.9.24",
-          "date": "2026-06-14T02:04:00-04:00",
+          "date": "2026-06-14T06:04:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Star%20Wars%20II/Angry%20Birds%20Star%20Wars%20II%201.9.24%2064Bit.ipa",
           "size": 197000000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -2181,11 +2181,11 @@
       "versions": [
         {
           "version": "1.5.12",
-          "date": "2026-06-14T02:02:00-04:00",
+          "date": "2026-06-14T06:02:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Star%20Wars%20HD/Angry%20Birds%20Star%20Wars%20HD%201.5.12%2064Bit.ipa",
           "size": 190900000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -2214,11 +2214,11 @@
       "versions": [
         {
           "version": "1.5.12",
-          "date": "2026-06-14T02:01:00-04:00",
+          "date": "2026-06-14T06:01:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Star%20Wars/Angry%20Birds%20Star%20Wars%201.5.12%2064Bit.ipa",
           "size": 155800000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -2247,11 +2247,11 @@
       "versions": [
         {
           "version": "2.2.9",
-          "date": "2026-06-14T02:00:00-04:00",
+          "date": "2026-06-14T06:00:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Space%20HD/Angry%20Birds%20Space%20HD%202.2.9%2064Bit.ipa",
           "size": 160400000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -2280,11 +2280,11 @@
       "versions": [
         {
           "version": "2.2.9",
-          "date": "2026-06-14T02:00:00-04:00",
+          "date": "2026-06-14T06:00:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Space/Angry%20Birds%20Space%202.2.9%2064Bit.ipa",
           "size": 149100000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -2313,11 +2313,11 @@
       "versions": [
         {
           "version": "6.6.2",
-          "date": "2026-06-14T01:58:00-04:00",
+          "date": "2026-06-14T05:58:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Seasons%20HD/Angry%20Birds%20Seasons%20HD%206.6.2%2064Bit.ipa",
           "size": 678000000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -2346,11 +2346,11 @@
       "versions": [
         {
           "version": "6.6.2",
-          "date": "2026-06-14T01:57:00-04:00",
+          "date": "2026-06-14T05:57:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Seasons%20/Angry%20Birds%20Seasons%206.6.2%2064Bit.ipa",
           "size": 279400000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -2379,11 +2379,11 @@
       "versions": [
         {
           "version": "2.6.9",
-          "date": "2026-06-14T01:55:00-04:00",
+          "date": "2026-06-14T05:55:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Rio%20HD/Angry%20Birds%20Rio%20HD%202.6.9%2064Bit.ipa",
           "size": 211200000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -2412,11 +2412,11 @@
       "versions": [
         {
           "version": "2.6.9",
-          "date": "2026-06-14T01:54:00-04:00",
+          "date": "2026-06-14T05:54:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Rio/Angry%20Birds%20Rio%202.6.9%2064Bit.ipa",
           "size": 122700000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -2445,11 +2445,11 @@
       "versions": [
         {
           "version": "2.8.3",
-          "date": "2026-06-14T01:52:00-04:00",
+          "date": "2026-06-14T09:52:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Go/Angry%20Birds%20Go%202.8.3%2064Bit.ipa",
           "size": 478800000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -2481,11 +2481,11 @@
       "versions": [
         {
           "version": "3.0.1",
-          "date": "2026-06-14T01:51:00-04:00",
+          "date": "2026-06-14T05:51:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20Epic/Angry%20Birds%20Epic%203.0.1%2064Bit.ipa",
           "size": 615900000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -2514,11 +2514,11 @@
       "versions": [
         {
           "version": "8.0.3",
-          "date": "2026-06-14T01:49:00-04:00",
+          "date": "2026-06-14T05:49:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds%20HD/Angry%20Birds%20HD%208.0.3%2064Bit.ipa",
           "size": 132800000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
@@ -2547,11 +2547,11 @@
       "versions": [
         {
           "version": "8.0.3",
-          "date": "2026-06-14T01:47:00-04:00",
+          "date": "2026-06-14T05:47:00-04:00",
           "localizedDescription": null,
           "downloadURL": "https://archive.org/download/20240608_20240608_1945/Angry%20Birds/Angry%20Birds%208.0.3%2064Bit.ipa",
           "size": 133000000,
-          "buildVersion": null,
+          "buildVersion": "1",
           "minOSVersion": null
         }
       ],
