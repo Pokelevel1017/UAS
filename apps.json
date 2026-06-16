@@ -41,44 +41,6 @@
       "patreon": {}
     },
     {
-      "name": "YTLitePlus",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "marketplaceID": "",
-      "developerName": "YTLitePlus Contributors",
-      "subtitle": "Enhanced YouTube Experience for iOS",
-      "localizedDescription": "YTLitePlus is a community-maintained project based on the official YouTube iOS app that adds additional interface customizations and quality-of-life improvements. It is distributed as a sideloadable IPA and is commonly used by advanced users who install apps through tools such as AltStore, SideStore, Feather, or similar sideloading platforms.\n\nThe project focuses on enhancing the YouTube experience with extra customization options and user-interface tweaks while retaining the familiar look and functionality of the official app. Features and compatibility can vary between releases as the project tracks updates to YouTube’s official application.\n\nBecause it is an unofficial modification, it is maintained independently and is not affiliated with YouTube or Google.",
-      "iconURL": "https://i.imgur.com/4XoKSxi.png",
-      "tintColor": "#fc0404",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "19.34.2",
-          "date": "2026-06-14T02:07:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://files.catbox.moe/z8jg5n.ipa",
-          "size": 103700000,
-          "buildVersion": "1",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSAppleMusicUsageDescription": "This lets you add your own audio files to your videos.",
-          "NSBluetoothPeripheralUsageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices.",
-          "NSCameraUsageDescription": "This lets you create videos using the app.",
-          "NSContactsUsageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with.",
-          "NSLocalNetworkUsageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV.",
-          "NSLocationWhenInUseUsageDescription": "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads.",
-          "NSMicrophoneUsageDescription": "This lets you include audio with your videos and search using your voice.",
-          "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created.",
-          "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites."
-        }
-      },
-      "patreon": {}
-    },
-    {
       "name": "Apollo",
       "bundleIdentifier": "com.christianselig.Apollo",
       "marketplaceID": "",
@@ -326,48 +288,6 @@
       "patreon": {}
     },
     {
-      "name": "Provenance",
-      "bundleIdentifier": "org.provenance-emu.provenance",
-      "marketplaceID": "",
-      "developerName": "Provenance Emulator Project",
-      "subtitle": "Multi-System Emulator for iOS",
-      "localizedDescription": "Provenance is an open-source emulator frontend for iPhone and iPad that supports a wide variety of classic gaming systems through a unified interface. Designed specifically for Apple platforms, it allows users to organize and play games from multiple retro consoles without switching between separate emulator apps.\n\nProvenance supports features such as save states, controller compatibility, game library management, artwork organization, and synchronization across supported devices. Its focus on a polished Apple-native experience makes it a popular choice among retro gaming enthusiasts looking for an all-in-one emulation solution on iOS.",
-      "iconURL": "https://i.imgur.com/8NkN5XM.png",
-      "tintColor": "#1cc4fc",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "3.3.0",
-          "date": "2026-06-13T18:32:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/3.3.0/Provenance-3.3.0-iOS.ipa",
-          "size": 1076400000,
-          "buildVersion": "1",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSAccentColorName": "ProvenanceBlue",
-          "NSBluetoothAlwaysUsageDescription": "Provenance uses Bluetooth to support game controllers.",
-          "NSCameraUsageDescription": "Used for album artwork.",
-          "NSExtensionPointIdentifier": "com.apple.tv-top-shelf",
-          "NSFileProviderDomainUsageDescription": "Provenance uses file provider for loading ROMs.",
-          "NSLocalNetworkUsageDescription": "RetroArch needs access to Wi-Fi networks for enhanced emulated Wi-Fi network features.",
-          "NSLocationUsageDescription": "Some games may use location data to enhance emulated location gameplay features",
-          "NSLocationWhenInUseUsageDescription": "Some games may use location data to enhance emulated location gameplay features",
-          "NSMicrophoneUsageDescription": "Provenance uses the microphone for systems that support audio input (eg. Famicom, Nintendo DS, 3DS).",
-          "NSMotionUsageDescription": "Provenance uses your device's accelerometer and gyroscope to emulate the portable consoles' built-in accelerometer and gyroscope.",
-          "NSPhotoLibraryAddUsageDescription": "Provenance can set custom artworks from your photos or save screenshots to the Photo Library.",
-          "NSPhotoLibraryUsageDescription": "Provenance can set custom artworks from your photos or save screenshots to the Photo Library.",
-          "NSUbiquitousContainerName": "Provenance"
-        }
-      },
-      "patreon": {}
-    },
-    {
       "name": "SpotilifeC",
       "bundleIdentifier": "com.yodaluca23.SpotilifeC",
       "marketplaceID": "",
@@ -494,34 +414,6 @@
           "NSPhotoLibraryUsageDescription": "This lets you select images from your Photo Library.",
           "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads or content to you."
         }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "Countdown",
-      "bundleIdentifier": "com.neo.countdown",
-      "marketplaceID": "",
-      "developerName": "neoarz",
-      "subtitle": "Personal Countdown & Simulation App",
-      "localizedDescription": "Countdown is a simple iOS application that generates a fictional countdown timer experience for entertainment purposes. Based on the GitHub release (version 1.6), the app assigns users a randomly generated countdown and presents it in a suspense-style interface inspired by the concept of the movie “Countdown.”\n\nThe app includes a start screen flow, terms acceptance, and a timer display that simulates a live countdown experience. It is designed as a novelty or conceptual app rather than a functional event planner, focusing on atmosphere and user interaction rather than real-world scheduling.\n\nBecause it is open-source, users can build and modify it using Xcode, and it includes standard iOS project structure with Swift-based implementation.",
-      "iconURL": "https://i.imgur.com/fhbQQbb.png",
-      "tintColor": "#7f7f7f",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "1.6",
-          "date": "2026-06-14T07:47:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/neoarz/Countdown-App/releases/download/1.6/Countdown.ipa",
-          "size": 700000,
-          "buildVersion": "1",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
       },
       "patreon": {}
     },
@@ -667,75 +559,6 @@
         "entitlements": [],
         "privacy": {
           "NSBluetoothAlwaysUsageDescription": "We need bluetooth for steam controllers"
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "RetroArch",
-      "bundleIdentifier": "com.libretro.RetroArchiOS11",
-      "marketplaceID": "",
-      "developerName": "Libretro Team",
-      "subtitle": "All-in-One Emulator Frontend",
-      "localizedDescription": "RetroArch is a powerful all-in-one emulation frontend that brings support for dozens of classic gaming systems to a single interface. Built on the Libretro framework, it allows users to download and run “cores” that emulate systems like NES, SNES, Sega Genesis, PlayStation, and many more.\n\nIt includes features such as save states, shaders, rewinding gameplay, controller support, and extensive customization options. RetroArch is widely used by retro gaming enthusiasts because it centralizes multiple emulators into one unified system, making it easy to manage and play games across different platforms.",
-      "iconURL": "https://i.imgur.com/6FFuhg7.png",
-      "tintColor": "#7f7f7f",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "1.20260615.0413",
-          "date": "2026-06-14T07:39:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://buildbot.libretro.com/nightly/apple/ios-arm64/RetroArch.ipa",
-          "size": 499700000,
-          "buildVersion": "1",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSBluetoothAlwaysUsageDescription": "RetroArch uses direct Bluetooth communication for some types of controllers",
-          "NSBluetoothPeripheralUsageDescription": "RetroArch uses direct Bluetooth communication for some types of controllers",
-          "NSCameraUsageDescription": "Some cores are able to provide camera input to games.",
-          "NSLocalNetworkUsageDescription": "RetroArch uses the local network to find local Netplay participants.",
-          "NSLocationWhenInUseUsageDescription": "Some cores can use location.",
-          "NSMicrophoneUsageDescription": "Some cores are able to provide microphone input to games."
-        }
-      },
-      "patreon": {}
-    },
-    {
-      "name": "PPSSPP",
-      "bundleIdentifier": "org.ppsspp.ppsspp",
-      "marketplaceID": "",
-      "developerName": "Henrik Rydgård",
-      "subtitle": "PSP Emulator for iOS",
-      "localizedDescription": "PPSSPP is a high-performance emulator that allows users to play Sony PlayStation Portable (PSP) games on iOS devices. It focuses on accuracy, speed, and portability, enabling many PSP titles to run smoothly with enhanced resolution and graphics improvements compared to the original hardware.\n\nThe app supports features such as save states, customizable controls, external controller support, texture scaling, and performance tweaks. PPSSPP is widely used by retro gaming enthusiasts to relive PSP classics on modern mobile hardware, often installed via sideloading on iOS.",
-      "iconURL": "https://i.imgur.com/LqV17Su.png",
-      "tintColor": "#499ab5",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "version": "1.20.4",
-          "date": "2026-06-14T07:37:00-04:00",
-          "localizedDescription": null,
-          "downloadURL": "https://github.com/hrydgard/ppsspp/releases/download/v1.20.4/PPSSPP-iOS-v1.20.4.ipa",
-          "size": 31100000,
-          "buildVersion": "1",
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSPhotoLibraryUsageDescription": "Access to your photos is needed to allow setting a background image.",
-          "NSLocationWhenInUseUsageDescription": "Your location may be used to emulate Go!Explore, a GPS accessory",
-          "NSCameraUsageDescription": "Your camera may be used to emulate Go!Cam, a camera accessory",
-          "NSMicrophoneUsageDescription": "Your microphone may be used to emulate Go!Cam/Talkman, a microphone accessory",
-          "NSLocalNetworkUsageDescription": "Your local network needs to be accessed by PPSSPP for network multiplayer support."
         }
       },
       "patreon": {}
