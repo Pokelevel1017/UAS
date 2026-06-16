@@ -39,36 +39,6 @@
       "patreon": {}
     },
     {
-      "name": "AltStore",
-      "bundleIdentifier": "com.rileytestut.AltStore",
-      "marketplaceID": "",
-      "developerName": "Riley Testut",
-      "subtitle": "Sideload apps directly to your iPhone.",
-      "localizedDescription": "AltStore is an alternative app marketplace for iOS that allows users to install and manage apps outside of the traditional App Store. Using a personal Apple ID, AltStore can sideload IPA files, refresh installed apps, and browse community repositories. With support for app sources, automatic app refreshing through AltServer, and a polished user experience, AltStore has become one of the most popular solutions for iOS app sideloading.",
-      "iconURL": "https://i.imgur.com/rVlQsag.png",
-      "tintColor": "#348484",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/2_2_1.ipa",
-          "size": 32900000,
-          "version": "2.2.1",
-          "buildVersion": null,
-          "date": "2026-06-15T15:28:00-04:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSLocalNetworkUsageDescription": "AltStore uses the local network to find and communicate with AltServer."
-        }
-      },
-      "patreon": {}
-    },
-    {
       "name": "Scarlet",
       "bundleIdentifier": "com.DebianArch.ScarletPersonalXYZZZ",
       "marketplaceID": "",
