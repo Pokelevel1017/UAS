@@ -9,6 +9,66 @@
   "featuredApps": [],
   "apps": [
     {
+      "name": "Scarlet",
+      "bundleIdentifier": "com.DebianArch.ScarletPersonalXYZZZ",
+      "marketplaceID": "",
+      "developerName": "DebianArch",
+      "subtitle": "Personal Scarlet sideloading client.",
+      "localizedDescription": "Scarlet Personal is a modified build of Scarlet designed for personal sideloading and app management on iOS. It provides tools for installing and organizing IPA files, managing repositories, and maintaining a personal app library. With support for custom sources and streamlined installation workflows, Scarlet Personal offers a convenient way to manage sideloaded applications directly from your device.",
+      "iconURL": "https://i.imgur.com/PqwZtOY.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/ScarletAlpha.ipa",
+          "size": 15500000,
+          "version": "1.0",
+          "buildVersion": null,
+          "date": "2026-06-15T17:01:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "This app needs to access the local network to do wireless installs."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "AltStore",
+      "bundleIdentifier": "com.rileytestut.AltStore",
+      "marketplaceID": "",
+      "developerName": "Riley Testut",
+      "subtitle": "Alternative app marketplace for iOS.",
+      "localizedDescription": "AltStore is an alternative app marketplace that allows users to sideload and manage applications on iPhone and iPad using their own Apple ID. It features support for app sources, IPA installation, automatic app refreshing through AltServer, and a growing ecosystem of community-created apps. AltStore provides a user-friendly way to discover, install, and maintain apps outside of the traditional App Store experience.",
+      "iconURL": "https://i.imgur.com/RbYJrXe.png",
+      "tintColor": "#348484",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/2_2_1.ipa",
+          "size": 32900000,
+          "version": "2.2.1",
+          "buildVersion": null,
+          "date": "2026-06-15T16:09:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "AltStore uses the local network to find and communicate with AltServer."
+        }
+      },
+      "patreon": {}
+    },
+    {
       "name": "SideStore",
       "bundleIdentifier": "com.SideStore.SideStore",
       "marketplaceID": "",
