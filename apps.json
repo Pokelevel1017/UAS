@@ -9,20 +9,423 @@
   "featuredApps": [],
   "apps": [
     {
-      "name": "My Example App",
-      "bundleIdentifier": "com.4kx5phhxp0.xmqn7iodme",
+      "name": "AngelAuraAmethyst",
+      "bundleIdentifier": "org.angelauramc.amethyst",
       "marketplaceID": "",
-      "developerName": "Example Developer",
-      "subtitle": "An awesome app.",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
-      "iconURL": "https://i.imgur.com/cy22whi.jpeg",
-      "tintColor": "#000000",
+      "developerName": "AngelauraMC",
+      "subtitle": "Minecraft Java Edition launcher for iOS (Amethyst build).",
+      "localizedDescription": "Amethyst is a Minecraft: Java Edition launcher for iOS based on the Pojav-style compatibility layer, allowing users to run the Java Edition client on supported devices. It provides version management, login support, and configurable performance options for different devices. Amethyst is intended for advanced users who own a legitimate copy of Minecraft: Java Edition and want to run it on mobile hardware. Performance and compatibility may vary depending on device capabilities.",
+      "iconURL": "https://i.imgur.com/d5WmMKY.png",
+      "tintColor": "#c23c95",
       "category": "other",
       "screenshots": [],
-      "versions": [],
+      "versions": [
+        {
+          "downloadURL": "https://alt.crystall1ne.dev/resources/amethyst/00678b0/org.angelauramc.amethyst-1.0-ios.ipa",
+          "size": 150300000,
+          "version": "1.0.00678b0",
+          "buildVersion": null,
+          "date": "2026-06-16T00:36:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "Angel Aura Amethyst uses the local network to find and communicate with AltServer and LAN servers.",
+          "NSMicrophoneUsageDescription": "Angel Aura Amethyst uses the microphone to enable support for voice chat mods."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "PojavLauncher",
+      "bundleIdentifier": "net.kdt.pojavlauncher",
+      "marketplaceID": "",
+      "developerName": "PojavLauncher Team",
+      "subtitle": "Minecraft Java Edition launcher for iOS.",
+      "localizedDescription": "PojavLauncher is an open-source game launcher that allows users to run Minecraft: Java Edition on iOS devices. It works by providing a compatibility layer that executes the Java Edition client with support for different versions, mod loaders, and performance configurations. The launcher includes options for account login, version management, and control customization. Performance may vary depending on device hardware, and it is intended for users who legally own Minecraft: Java Edition.",
+      "iconURL": "https://i.imgur.com/hJmhciv.png",
+      "tintColor": "#d02e2e",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.2/net.kdt.pojavlauncher-2.2-ios.ipa",
+          "size": 108200000,
+          "version": "2.2",
+          "buildVersion": null,
+          "date": "2026-06-16T00:35:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "PojavLauncher uses the local network to find and communicate with AltServer and LAN servers.",
+          "NSMicrophoneUsageDescription": "PojavLauncher uses the microphone to enable support for voice chat mods."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "DLiPA",
+      "bundleIdentifier": "com.ahmedbafkir.dlipa",
+      "marketplaceID": "",
+      "developerName": "Ahmed Bafkir",
+      "subtitle": "IPA downloader and sideloading utility for iOS.",
+      "localizedDescription": "DLIPA is an iOS utility designed for downloading and managing IPA files directly on-device. It allows users to fetch app packages from supported sources, organize downloaded files, and prepare them for installation through compatible sideloading tools. DLIPA is intended for users who frequently work with IPA files and need a simple way to handle downloads and local app management on iOS.",
+      "iconURL": "https://i.imgur.com/qkfQIo6.png",
+      "tintColor": "#1ccdfc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/AhmedBafkir/DLiPA/releases/download/v1.2/DLiPA_v1.2.ipa",
+          "size": 500000,
+          "version": "1.2",
+          "buildVersion": null,
+          "date": "2026-06-16T00:32:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "Exchange data with nearby devices running the DLiPA."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "iTorrent",
+      "bundleIdentifier": "com.xitrix.iTorrent2",
+      "marketplaceID": "",
+      "developerName": "XITRIX",
+      "subtitle": "iTorrent2 torrent client for iOS.",
+      "localizedDescription": "iTorrent2 is a BitTorrent client for iOS that allows users to download and manage torrent files directly on their device. It supports magnet links, torrent file importing, download management, and background downloading where permitted by iOS constraints. Designed for advanced users, iTorrent2 provides a mobile-friendly interface for managing peer-to-peer downloads and monitoring transfer activity.",
+      "iconURL": "https://i.imgur.com/umOctiO.png",
+      "tintColor": "#f49c6c",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/v2.1.1-1/iTorrent.ipa",
+          "size": 8400000,
+          "version": "2.1.1",
+          "buildVersion": null,
+          "date": "2026-06-16T00:30:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAccentColorName": "AccentColor"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "BundleReader",
+      "bundleIdentifier": "com.iRayanKhan.BundleReader",
+      "marketplaceID": "",
+      "developerName": "iRayanKhan",
+      "subtitle": "iOS app bundle inspector and reader.",
+      "localizedDescription": "BundleReader is a utility for iOS that allows users to inspect and read the contents of app bundles installed on the device. It provides access to metadata such as Info.plist data, resources, assets, and internal file structures. Designed for developers and advanced users, BundleReader helps analyze app configurations, debug builds, and explore how iOS applications are structured internally.",
+      "iconURL": "https://i.imgur.com/JMS2lnR.png",
+      "tintColor": "#25a34a",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/iRayanKhan/BundleReader/releases/download/1.00/BundleReader.iOS.iPadOS.ipa",
+          "size": 200000,
+          "version": "1.0",
+          "buildVersion": null,
+          "date": "2026-06-16T00:25:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "LiveContainer",
+      "bundleIdentifier": "com.kdt.livecontainer",
+      "marketplaceID": "",
+      "developerName": "LiveContainer Team",
+      "subtitle": "LiveContainer app runtime for iOS.",
+      "localizedDescription": "LiveContainer is an iOS utility that allows users to run and manage containerized apps in a sandboxed environment on-device. It provides a framework for launching, organizing, and executing supported apps with isolated storage and runtime management. LiveContainer is intended for developers and advanced users who need flexible app testing and lightweight container-based app execution workflows on iOS.",
+      "iconURL": "https://i.imgur.com/2QDPPs4.png",
+      "tintColor": "#047afc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.7.2/LiveContainer.ipa",
+          "size": 4500000,
+          "version": "3.7.2",
+          "buildVersion": null,
+          "date": "2026-06-16T00:23:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAccentColorName": "AccentColor",
+          "NSAppleMusicUsageDescription": "The guest app is requesting for this permission.",
+          "NSBluetoothAlwaysUsageDescription": "The guest app is requesting for this permission.",
+          "NSBluetoothPeripheralUsageDescription": "The guest app is requesting for this permission.",
+          "NSCalendarsFullAccessUsageDescription": "The guest app is requesting for this permission.",
+          "NSCalendarsWriteOnlyAccessUsageDescription": "The guest app is requesting for this permission.",
+          "NSCameraUsageDescription": "The guest app is requesting for this permission.",
+          "NSContactsUsageDescription": "The guest app is requesting for this permission.",
+          "NSFaceIDUsageDescription": "The guest app is requesting for this permission.",
+          "NSFallDetectionUsageDescription": "The guest app is requesting for this permission.",
+          "NSGKFriendListUsageDescription": "The guest app is requesting for this permission.",
+          "NSHealthClinicalHealthRecordsShareUsageDescription": "The guest app is requesting for this permission.",
+          "NSHealthShareUsageDescription": "The guest app is requesting for this permission.",
+          "NSHealthUpdateUsageDescription": "The guest app is requesting for this permission.",
+          "NSHomeKitUsageDescription": "The guest app is requesting for this permission.",
+          "NSIdentityUsageDescription": "The guest app is requesting for this permission.",
+          "NSLocalNetworkUsageDescription": "The guest app is requesting for this permission.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "The guest app is requesting for this permission.",
+          "NSLocationTemporaryUsageDescriptionDictionary": "The guest app is requesting for this permission.",
+          "NSLocationUsageDescription": "The guest app is requesting for this permission.",
+          "NSLocationWhenInUseUsageDescription": "The guest app is requesting for this permission.",
+          "NSMicrophoneUsageDescription": "The guest app is requesting for this permission.",
+          "NSMotionUsageDescription": "The guest app is requesting for this permission.",
+          "NSNearbyInteractionAllowOnceUsageDescription": "The guest app is requesting for this permission.",
+          "NSNearbyInteractionUsageDescription": "The guest app is requesting for this permission.",
+          "NSPhotoLibraryAddUsageDescription": "The guest app is requesting for this permission.",
+          "NSPhotoLibraryUsageDescription": "The guest app is requesting for this permission.",
+          "NSRemindersFullAccessUsageDescription": "The guest app is requesting for this permission.",
+          "NSSensorKitUsageDescription": "The guest app is requesting for this permission.",
+          "NSSiriUsageDescription": "The guest app is requesting for this permission.",
+          "NSSpeechRecognitionUsageDescription": "The guest app is requesting for this permission.",
+          "NSUserTrackingUsageDescription": "The guest app is requesting for this permission."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Fortnite - EZFN 12.61",
+      "bundleIdentifier": "dev.ezfn.FortniteS1261",
+      "marketplaceID": "",
+      "developerName": "EZFN Team",
+      "subtitle": "Battle royale private server client (v12.61).",
+      "localizedDescription": "This is a custom game client designed for use with community-run private servers based on a battle royale-style game environment. It is intended for testing, experimentation, and non-official gameplay experiences. Features, cosmetics, and gameplay elements depend entirely on the server configuration and build version. This client does not connect to official game services.",
+      "iconURL": "https://i.imgur.com/CBiAhs2.png",
+      "tintColor": "#bc891e",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://ios.repressoh.it/ipa/c2_beta/12.61-CL-13498980_BETAv4.ipa",
+          "size": 131100000,
+          "version": "12.61.0",
+          "buildVersion": null,
+          "date": "2026-06-16T00:20:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocationWhenInUseUsageDescription": ">",
+          "NSCameraUsageDescription": "This application uses the camera for capturing photos",
+          "NSLocationAlwaysUsageDescription": "",
+          "NSPhotoLibraryAddUsageDescription": "This application stores screen recordings to your camera Roll.",
+          "NSMicrophoneUsageDescription": "This application uses the microphone for chatting with friends by voice."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Fortnite - EZFN 7.40",
+      "bundleIdentifier": "40ccc2b10c984097",
+      "marketplaceID": "",
+      "developerName": "EZFN Team",
+      "subtitle": "Fortnite-style private server client (v7.40).",
+      "localizedDescription": "EZFN 7.40 is a custom game client built for private server use, inspired by a popular battle royale-style experience. It is intended for experimental gameplay, testing, and community-run servers rather than official online services. Features and content depend on the server configuration and build version.",
+      "iconURL": "https://i.imgur.com/nVKoyhK.png",
+      "tintColor": "#0474c4",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://cdn-test.ezfn.dev/IPAs/Fortnite+Release-7.40-CL-5011364-V2.ipa",
+          "size": 157200000,
+          "version": "7.40.2",
+          "buildVersion": null,
+          "date": "2026-06-16T00:19:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocationAlwaysUsageDescription": "",
+          "NSLocationWhenInUseUsageDescription": "&gt;",
+          "NSMicrophoneUsageDescription": "Fortnite needs microphone access for voice chat."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "appdb",
+      "bundleIdentifier": "it.ned.appdb-ios",
+      "marketplaceID": "",
+      "developerName": "AppDB Team",
+      "subtitle": "IPA library and sideloading marketplace for iOS.",
+      "localizedDescription": "AppDB is a large third-party app database and sideloading platform for iOS that allows users to browse, download, and install IPA files outside of the App Store. It provides an extensive catalog of apps, games, emulators, and modified applications, along with installation methods for various sideloading tools. AppDB is designed to simplify app discovery and distribution for users interested in alternative iOS app ecosystems.",
+      "iconURL": "https://i.imgur.com/fVqN2q1.png",
+      "tintColor": "#04acfc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/n3d1117/appdb/releases/download/v1.1.6/appdb-v1.1.6-stev3fvcks.ipa",
+          "size": 23200000,
+          "version": "1.1.6",
+          "buildVersion": null,
+          "date": "2026-06-16T00:16:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "sm64ios 60FPS",
+      "bundleIdentifier": "xyz.cypwn.sm64ios-60fps",
+      "marketplaceID": "",
+      "developerName": "cyPwn",
+      "subtitle": "Super Mario 64 iOS port (60 FPS build).",
+      "localizedDescription": "sm64ios-60fps is a modified iOS port of Super Mario 64 built from a decompilation-based project, optimized to run at up to 60 FPS on supported devices. It brings the classic 3D platforming experience to iOS with responsive touch controls and optional external controller support. This build focuses on higher performance and smoother gameplay, requiring stronger hardware for best results. Users are expected to provide their own legally obtained game assets.",
+      "iconURL": "https://i.imgur.com/RhYA51o.png",
+      "tintColor": "#0464fc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=2d4664df9fe4ca05b082fb182025d8d5",
+          "size": 9200000,
+          "version": "1.2.1",
+          "buildVersion": null,
+          "date": "2026-06-16T00:13:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "sm64ios 30FPS",
+      "bundleIdentifier": "xyz.cypwn.sm64ios-30fps",
+      "marketplaceID": "",
+      "developerName": "cyPwn",
+      "subtitle": "Super Mario 64 iOS port (30 FPS build).",
+      "localizedDescription": "sm64ios-30fps is a modified iOS port of Super Mario 64 built from a decompilation-based project, optimized to run at a stable 30 FPS on supported devices. It brings the classic 3D platforming experience to iOS with touch controls and optional controller support. This build focuses on performance stability over higher frame rates, providing a smoother experience on lower-end or older devices. Users are expected to supply their own legally obtained game assets.",
+      "iconURL": "https://i.imgur.com/gthuHFQ.png",
+      "tintColor": "#0464fc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=7ba9e3e2d7e40caef45cf941e54c7209",
+          "size": 8400000,
+          "version": "1.2.1",
+          "buildVersion": null,
+          "date": "2026-06-16T00:12:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Super Mario 64",
+      "bundleIdentifier": "com.christiankosman.sm64ios",
+      "marketplaceID": "",
+      "developerName": "Christian Kosman",
+      "subtitle": "Super Mario 64 port for iOS.",
+      "localizedDescription": "SM64iOS is a native iOS port of Super Mario 64, allowing users to play the classic 3D platformer on modern Apple devices. It is built from a decompilation-based project and optimized for touch controls and external controllers where supported. The port focuses on performance, compatibility, and faithful recreation of the original gameplay experience. Users are expected to use their own legally obtained game assets.",
+      "iconURL": "https://i.imgur.com/hnidT4M.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=ff430f415c7617fe3ecb639e9b399714",
+          "size": 31200000,
+          "version": "1.0.0",
+          "buildVersion": null,
+          "date": "2026-06-16T00:09:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "PostBox",
+      "bundleIdentifier": "com.simplycode.PostBox",
+      "marketplaceID": "",
+      "developerName": "Postbox Team",
+      "subtitle": "Jailbreak news and IPA download hub.",
+      "localizedDescription": "Postbox is a community-focused jailbreak platform that provides news, updates, and direct downloads for IPA files related to iOS customization, utilities, and jailbreak tools. It acts as a central hub where users can discover new releases, access download links, and stay updated with the latest developments in the iOS jailbreak and sideloading community. Designed for quick access and lightweight browsing, Postbox combines a news feed with app distribution in one interface.",
+      "iconURL": "https://i.imgur.com/4IgG16T.png",
+      "tintColor": "#000000",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/PostBox-Team/PostBox-Releases/releases/download/beta-8.1/PostBox-0.8.1-beta.ipa",
+          "size": 8500000,
+          "version": "0.8.1",
+          "buildVersion": null,
+          "date": "2026-06-16T00:05:00-04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAccentColorName": "AccentColor",
+          "NSPhotoLibraryAddUsageDescription": "Please allow PostBox to save media into your photo library.",
+          "NSPhotoLibraryUsageDescription": "PostBox can save media (such as screenshots and banners) to your photo library."
+        }
       },
       "patreon": {}
     },
